@@ -21,7 +21,7 @@ resources에는 상품의 썸네일 혹은 상세페이지에 쓰일 사진들�
         "name": "Sample Name",
         "category": "fragrance",
         "type": "Eau de parfum",
-        "notes": ["citrus", "woody"],
+        "notes": ["Vanilla", "Cypriol", "Incense", "Pink peppercorn"],
         "description": "This is a sample description.",
         "story": "This is a related story.",
         "price": {
@@ -78,3 +78,8 @@ resources에는 상품의 썸네일 혹은 상세페이지에 쓰일 사진들�
 -   `olfactory`, `type` 필드는 지정된 값 중 하나만 입력 가능
 -   `collection` 필드는 특정 콜렉션 상품이 아닐 경우 `null` 값
 -   모든 이미지 경로는 `.webp` 형식을 사용
+
+-   `category` 필드에 대한 고민
+-   존재하는 모든 JSON 파일들을 프로젝트 진행시에 합칠 경우, 남겨두는 게 괜찮음.
+-   프로젝트 진행시 각 카테고리별로 JSON 파일을 따로 유지할 계획이라면 category 필드는 빼도 괜찮아 보임.
+-   본 프로젝트 진행시에 `category`필드는 수정될 것임

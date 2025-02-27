@@ -5,7 +5,7 @@
         "name": "Sample Name",
         "category": "fragrance",
         "type": "Eau de parfum",
-        "notes": ["citrus", "woody"],
+        "notes": ["Vanilla", "Cypriol", "Incense", "Pink peppercorn"],
         "description": "This is a sample description.",
         "story": "This is a related story.",
         "price": {
