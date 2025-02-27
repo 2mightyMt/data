@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "olfactory": "amber",
+        "name": "Sample Name",
+        "category": "fragrance",
+        "type": "Eau de parfum",
+        "notes": ["citrus", "woody"],
+        "description": "This is a sample description.",
+        "story": "This is a related story.",
+        "price": {
+            "75ml": 190
+        },
+        "images": {
+            "thumbnail": {
+                "default": "path/to/default.webp",
+                "hover": "path/to/hover.webp"
+            },
+            "detail": ["path/to/detail1.webp", "path/to/detail2.webp", "path/to/detail3.webp"],
+            "option": {
+                "75ml": "path/to/option.webp"
+            }
+        },
+        "option": [
+            {
+                "option": "75ml",
+                "url": "path/to/option_page"
+            }
+        ],
+        "collection": [
+            {
+                "collectionName": "Special Collection"
+            }
+        ]
+    }
+]
