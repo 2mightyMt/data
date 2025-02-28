@@ -2,15 +2,53 @@
     {
         "id": 1,
         "olfactory": "Flowers",
-        "name": "",
-        "type": "",
-        "notes": ["", "", "", ""],
-        "description": "",
-        "story": "",
+        "name": "Roses",
+        "notes": "The herbarium of flowers",
+        "description": "A bouquet of fresh flowers, blooming in deepest winter. For the first time, the Rose scented candle is available in a large format. Its porcelain vessel, stamped with the oval of the Maison, is an invitation to make this luminous ritual last. Gradually, the air fills with fresh, flowery notes. A tribute to a timeless emblem.",
         "options": [
             {
-                "size": "",
+                "size": "small",
                 "price": 250,
+                "weight": "70g",
+                "images": {
+                    "thumbnail": {
+                        "default": "",
+                        "hover": ""
+                    },
+                    "detail": [""]
+                },
+                "url": ""
+            },
+            {
+                "size": "classic",
+                "price": 250,
+                "weight": "190g",
+                "images": {
+                    "thumbnail": {
+                        "default": "",
+                        "hover": ""
+                    },
+                    "detail": [""]
+                },
+                "url": ""
+            },
+            {
+                "size": "large",
+                "price": 250,
+                "weight": "600g",
+                "images": {
+                    "thumbnail": {
+                        "default": "",
+                        "hover": ""
+                    },
+                    "detail": [""]
+                },
+                "url": ""
+            },
+            {
+                "size": "extra large",
+                "price": 250,
+                "weight": "1500g",
                 "images": {
                     "thumbnail": {
                         "default": "",
