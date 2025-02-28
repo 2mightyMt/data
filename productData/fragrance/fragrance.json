@@ -1048,5 +1048,823 @@
                 "collectionName": null
             }
         ]
+    },
+    {
+        "id": 31,
+        "olfactory": "Citrus",
+        "name": "L'Eau de Néroli",
+        "type": "Eau de toilette",
+        "notes": ["Neroli", "Bergamot", "Orange blossom", "Beeswax"],
+        "description": "La dolce vita. L'Eau de Néroli is a tribute to this small white flower. In Calabria, when it is harvested, its perfume fills the air. But we can also discern the fragrance of the nearby bergamot trees - their pollen, their green leaves. An entire effervescent orchard, expressed in a scent.",
+        "story": "In Calabria, at the time of the neroli harvest, the air fills with its perfume. But there is also the fragrance of the bergamots growing nearby, and of pollen and green leaves. An entire orchard in a state of aromatic effervescence, like an invitation to la dolce vita. Neroli owes its name to the Italian princess of Nerola, who perfumed her gloves with the essence of bitter orange, bringing popularity to this sweet, floral scent.",
+        "options": [
+            {
+                "size": "100ml",
+                "price": 145,
+                "images": {
+                    "thumbnail": {
+                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-neroli-eau-de-toilette-100ml-cnero100-1_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-neroli-eau-de-toilette-100ml-cnero100-2_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    },
+                    "detail": [
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-neroli-eau-de-toilette-100ml-cnero100-1_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-neroli-eau-de-toilette-100ml-cnero100-2_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-neroli-eau-de-toilette-100ml-cnero100-3_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    ]
+                },
+                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-neroli-eau-de-toilette-100ml-cnero100-1_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90"
+            }
+        ],
+        "collection": [
+            {
+                "collectionName": null
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "olfactory": "Citrus",
+        "name": "L'Eau des Hespérides",
+        "type": "Eau de toilette",
+        "notes": ["Bitter orange", "Lemon", "Peppermint", "Immortelle"],
+        "description": "An eau de toilette with a green, sparkling freshness, in which citrus fruits, intensified by spicy notes, gain a dapper, devilishly elegant vivacity. In Greek mythology, the Hesperides were the guardians of a garden that grew precious “golden apples” – citrus fruits. Divinity, zest, gaiety – all were vital ingredients in the conception of this perfume.",
+        "story": "In Greek mythology, the Hesperides were the nymph guardians of a garden with precious “golden apples”: citrus fruits. Divinities, zest, and joyousness... Ingredients and mood poured into a perfume with a sparkling, green freshness: the fruit scents become stronger with spicy notes and gain a new vivacity that is dapper and diabolically elegant. There were three Hesperides: Aegle, Erytheia and Hesperia. The citrus fruits that they guarded had several virtues, including the power to bestow beauty and bring down fever.",
+        "options": [
+            {
+                "size": "100ml",
+                "price": 145,
+                "images": {
+                    "thumbnail": {
+                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-hesperides-eau-de-toilette-100ml-chesp100-1_2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-hesperides-eau-de-toilette-100ml-chesp100-2_2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    },
+                    "detail": [
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-hesperides-eau-de-toilette-100ml-chesp100-1_2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-hesperides-eau-de-toilette-100ml-chesp100-2_2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-hesperides-eau-de-toilette-100ml-chesp100-3_2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    ]
+                },
+                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-hesperides-eau-de-toilette-100ml-chesp100-1_2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90"
+            }
+        ],
+        "collection": [
+            {
+                "collectionName": null
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "olfactory": "Citrus",
+        "name": "Oyédo",
+        "type": "Eau de toilette",
+        "notes": ["Yuzu", "Green tangerine", "Thyme", "Raspberry"],
+        "description": "From a fragrance springs … an empire. In Oyédo eau de toilette, the lively sharpness of yuzu is elevated by raspberry and thyme. An elegant yet potent tribute to the Land of the Rising Sun and to Edo, the ancient imperial city of Japan.",
+        "story": "Yuzu, a name with the sharp zing of Asian citrus zest. Oyédo draws its inspiration from Japan’s ancient imperial city, Edo. At the heart of the fragrance, the citrus fruit gains all of its elegance in an accord of juicy raspberry and thyme. Frambinone is a synthetic note reproducing the scent of raspberry, a plant whose odorant cannot be extracted.",
+        "options": [
+            {
+                "size": "50ml",
+                "price": 105,
+                "images": {
+                    "thumbnail": {
+                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-oyedo-eau-de-toilette-50ml-oyedo50-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-oyedo-eau-de-toilette-50ml-oyedo50-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    },
+                    "detail": [
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-oyedo-eau-de-toilette-50ml-oyedo50-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-oyedo-eau-de-toilette-50ml-oyedo50-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-oyedo-eau-de-toilette-50ml-oyedo50-3.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    ]
+                },
+                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-oyedo-eau-de-toilette-50ml-oyedo50-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90"
+            },
+            {
+                "size": "100ml",
+                "price": 145,
+                "images": {
+                    "thumbnail": {
+                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-oyedo-eau-de-toilette-100ml-oyedo100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-oyedo-eau-de-toilette-100ml-oyedo100-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    },
+                    "detail": [
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-oyedo-eau-de-toilette-100ml-oyedo100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-oyedo-eau-de-toilette-100ml-oyedo100-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-oyedo-eau-de-toilette-100ml-oyedo100-3.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    ]
+                },
+                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-oyedo-eau-de-toilette-100ml-oyedo100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90"
+            }
+        ],
+        "collection": [
+            {
+                "collectionName": null
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "olfactory": "Woody",
+        "name": "34 Boulevard Saint Germain",
+        "type": "Eau de parfum",
+        "notes": ["Sandalwood", "vanilla", "pink peppercorn"],
+        "description": "If we had to choose just one ... The Maison's signature eau de parfum has a sillage that leaves behind notes of rose, spices, amber and more. The very soul of 34 Boulevard Saint-German emerges from this bottle. A complex olfactory kaleidoscope - and an art of living freely and creatively.",
+        "story": "Did you know?  This Eau de Parfum is dressed in an emblematic motif of the House, Basile, designed by Christiane Gautrot and Desmond Knox-Leet in 1963. ",
+        "options": [
+            {
+                "size": "75ml",
+                "price": 190,
+                "images": {
+                    "thumbnail": {
+                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-34-boulevard-saint-germain-eau-de-parfum-75ml-34bedp75-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-34-boulevard-saint-germain-eau-de-parfum-75ml-34bedp75-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    },
+                    "detail": [
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-34-boulevard-saint-germain-eau-de-parfum-75ml-34bedp75-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-34-boulevard-saint-germain-eau-de-parfum-75ml-34bedp75-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/d/e/destination-paris_visuel_edp-34_2024_rvb_2025x2700_hd_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    ]
+                },
+                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-34-boulevard-saint-germain-eau-de-parfum-75ml-34bedp75-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90"
+            }
+        ],
+        "collection": [
+            {
+                "collectionName": "34 Boulevard Saint Germain"
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "olfactory": "Woody",
+        "name": "34 Boulevard Saint Germain",
+        "type": "Eau de toilette",
+        "notes": ["Amber/patchouli accord", "Rose", "Cinnamon", "Blackcurrant buds"],
+        "description": "More than a perfume - a memory. 34 Boulevard Saint-Germain eau de toilette recreates the very soul of the Maison's first boutique. Behind the rose, spices, amber and blackcurrant buds, an art of living freely and creatively emerges. Very Diptyque.",
+        "story": "A mad idea: capture the scent of the shop at 34 Boulevard Saint Germain and make it into a perfume... The olfactory soul of the boutique is there: a kaleidoscope of scents bringing together all of Diptyque’s candles and fragrances. With the advent of advanced technology, Diptyque has become a thief of scents. To recreate the flagship boutique’s olfactory soul as a perfume, Diptyque used headspace technology, a method for capturing the odour compounds of a place, an object or a flower.",
+        "options": [
+            {
+                "size": "100ml",
+                "price": 155,
+                "images": {
+                    "thumbnail": {
+                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-34-boulevard-saint-germain-eau-de-toilette-100ml-34bedt100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-34-boulevard-saint-germain-eau-de-toilette-100ml-34bedt100-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    },
+                    "detail": [
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-34-boulevard-saint-germain-eau-de-toilette-100ml-34bedt100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-34-boulevard-saint-germain-eau-de-toilette-100ml-34bedt100-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    ]
+                },
+                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-34-boulevard-saint-germain-eau-de-toilette-100ml-34bedt100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90"
+            }
+        ],
+        "collection": [
+            {
+                "collectionName": "34 Boulevard Saint Germain"
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "olfactory": "Woody",
+        "name": "34 Boulevard Saint Germain",
+        "type": "Refillable solid perfume",
+        "notes": ["Amber/patchouli accord", "Rose", "Cinnamon", "Blackcurrant buds"],
+        "description": "A memory of a unique location. In 34 Boulevard Saint-Germain scented balm, notes of rose, spices and blackcurrent buds notes blend together in harmony. Just apply the wax with your fingertips - and discover the olfactory soul of the first Diptyque boutique.",
+        "story": "The Fragrance Gestures draw their inspiration from the history of perfume, reinventing textures to offer a new approach to personal scenting. It is a way to make the invisible sensual, and the ethereal tangible. Each of the gestures – eau de toilette, body mist or body balm – has a specific concentrate designed to offer the best olfactory rendering depending on its formulation. With its high concentration, it can be used alone depending on the moment and the mood. Matter becomes scent, scent becomes matter...",
+        "options": [
+            {
+                "size": "3G",
+                "price": 62,
+                "images": {
+                    "thumbnail": {
+                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-34-boulevard-saint-germain-refillable-solid-perfume-solide34-1_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-34-boulevard-saint-germain-refillable-solid-perfume-solide34-2_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    },
+                    "detail": [
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-34-boulevard-saint-germain-refillable-solid-perfume-solide34-1_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-34-boulevard-saint-germain-refillable-solid-perfume-solide34-2_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    ]
+                },
+                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-34-boulevard-saint-germain-refillable-solid-perfume-solide34-1_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90"
+            }
+        ],
+        "collection": [
+            {
+                "collectionName": "34 Boulevard Saint Germain"
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "olfactory": "Woody",
+        "name": "Bois Corsé",
+        "type": "Eau de parfum",
+        "notes": ["Café arabica", "sandalwood", "tonka bean"],
+        "description": "Bois Corsé evokes the textured outer layer of a tree. A combination of intense black coffee absolute and essence of sandalwood, with tonka bean blended in. A fragrance with a lingering sillage, its name a play on words: écorce is French for bark, corsé means full-bodied – like the coffee aroma celebrated here. The bottle is decorated with fine black lines inspired by the reliefs found in bark. The irregular forms on the sleeve evoke the texture of wood, its shape evolving with the passage of time.",
+        "story": "Diptyque has always drawn inspiration from nature, whether in the wild or tamed by man. Nature enchants our gaze. It stirs our curiosity, feeds our creativity. The Maison's new collection, Les Essences de Diptyque (The Essences of Diptyque), freely reinterprets the treasures of nature, fluctuating between the realistic and the fantastical. Revealed in all their beauty, these treasures invite us to pause and admire them. Delicate, dreamlike, the five compositions in this collection are the product of an alliance between the perfumer's nose and the hand of an artist. Each creation celebrates one of nature's treasures – reinventing it in fragrance and exceptional drawings. Bois Corsé is a tribute to bark, the vital protective mantle that shields the vulnerable core of the tree. Exposed to the elements, it gradually takes shape, developing relief textures that are coarse, irregular and yet pleasing to the touch. In this olfactory and visual composition, which combines the work of perfumer Nathalie Cetto and her initial collaborator Olivier Pescheux – with that of drawing artist Nigel Peake, tree bark comes vividly to life. Rough, yet soothing.",
+        "options": [
+            {
+                "size": "100ml",
+                "price": 275,
+                "images": {
+                    "thumbnail": {
+                        "default": "https://www.diptyqueparis.com/media/catalog/product/b/o/bois-cors__100ml_boiscor100_rvb_hd_fond-gris_spec-ecom_1_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "hover": "https://www.diptyqueparis.com/media/catalog/product/l/e/les_essences_2024_visuel_mono_bois_cors__rvb_2025x2700px_diptyque_visual_only.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    },
+                    "detail": [
+                        "https://www.diptyqueparis.com/media/catalog/product/b/o/bois-cors__100ml_boiscor100_rvb_hd_fond-gris_spec-ecom_1_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/l/e/les_essences_2024_visuel_mono_bois_cors__rvb_2025x2700px_diptyque_visual_only.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/b/o/bois-cors__100ml_boiscor100_rvb_hd_fond-gris_spec-ecom_3_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/b/o/bois-cors__100ml_boiscor100_rvb_hd_spec-ecom_4_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/b/o/bois-cors__100ml_boiscor100_rvb_hd_fond-gris_spec-ecom_2_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    ]
+                },
+                "url": "https://www.diptyqueparis.com/media/catalog/product/b/o/bois-cors__100ml_boiscor100_rvb_hd_fond-gris_spec-ecom_1_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90"
+            }
+        ],
+        "collection": [
+            {
+                "collectionName": null
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "olfactory": "Woody",
+        "name": "Eau de Lierre",
+        "type": "Eau de toilette",
+        "notes": ["Galbanum", "Cyclamen", "Rosewood", "Pink peppercorn"],
+        "description": "Ivy is said to be persistent. A symbol of attachment. In other words, like a perfume … yet its fragrance remains a mystery. Eau de Lierre eau de toilette invents this - giving it its green notes, extending the roots of its sillage in a fresh, slightly aquatic accord, as herbaceous as green sap rising up a vine.",
+        "story": "Ivy is a symbol of fidelity and attachment but ivy’s scent cannot be extracted. It must therefore be invented, given green notes, the roots of its trail extended... Eau de Lierre is a fresh and slightly aquatic accord, as herbaceous as green sap rising up a vine. In Egypt and among the early Christians, ivy symbolised eternal life. Among the Greeks, its worship was dedicated to Dionysos, the god of joy and vitality. The Romans dedicated it to Bacchus and the glory of poets.",
+        "options": [
+            {
+                "size": "100ml",
+                "price": 145,
+                "images": {
+                    "thumbnail": {
+                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-de-lierre-eau-de-toilette-100ml-lierre100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-de-lierre-eau-de-toilette-100ml-lierre100-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    },
+                    "detail": [
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-de-lierre-eau-de-toilette-100ml-lierre100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-de-lierre-eau-de-toilette-100ml-lierre100-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-de-lierre-eau-de-toilette-100ml-lierre100-3.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    ]
+                },
+                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-de-lierre-eau-de-toilette-100ml-lierre100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90"
+            }
+        ],
+        "collection": [
+            {
+                "collectionName": null
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "olfactory": "Woody",
+        "name": "Eau de Minthé",
+        "type": "Eau de parfum",
+        "notes": ["Patchouli", "Geranium", "Mint", "Rose oxide"],
+        "description": "Inspired by the Greek myth of the nymph Minthé, this eau da parfum takes its cue from mint as it revisits fougère, an accord legendary in perfumery. At the heart of this composition: lively floral notes of geranium and the profundity of patchouli. An aromatic freshness, a mythical tale with a vibrant sillage.",
+        "story": "Inspired by a Greek myth, Eau de Minthé reinvents an emblematic perfumery accord, fougère, drawing on the scent of mint. At the very heart of the composition, its aromatic freshness enhances the lively floral notes of geranium while the patchouli provides depth. At the very heart of the composition, its aromatic freshness enhances the lively floral notes of geranium while the patchouli provides depth.",
+        "options": [
+            {
+                "size": "75ml",
+                "price": 170,
+                "images": {
+                    "thumbnail": {
+                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-de-minthe-eau-de-parfum-75ml-mintp75c-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-de-minthe-eau-de-parfum-75ml-mintp75c-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    },
+                    "detail": [
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-de-minthe-eau-de-parfum-75ml-mintp75c-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-de-minthe-eau-de-parfum-75ml-mintp75c-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-de-minthe-eau-de-parfum-75ml-mintp75c-3.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    ]
+                },
+                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-de-minthe-eau-de-parfum-75ml-mintp75c-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90"
+            }
+        ],
+        "collection": [
+            {
+                "collectionName": "Eau de Minthé"
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "olfactory": "Woody",
+        "name": "L'Eau Papier",
+        "type": "Eau de toilette",
+        "notes": ["White musks", "Mimosa", "Blonde woods accord", "Rice steam accord"],
+        "description": "White musks take on the aspect of a second skin. A rice steam accord combined with notes of mimosa and blonde wood tonalities. L’Eau Papier eau de toilette celebrates the power of the imagination. On a blank sheet, ink infuses, shades emerge and new worlds are invented",
+        "story": "As ink soaks into a sheet of white paper, shadows emerge. Worlds are invented. L'Eau Papier celebrates the power of the imagination – that moment, suspended in time, when ink, paper and the hand become one. An encounter made perfume, plunging us into the heart of musk and its multiple facets. Musk evolves, changes, expresses itself over time and from one skin to another, just as ink saturates paper, assuming its texture to conjure up dreams and images. In L'Eau Papier, white musks are delicately faceted by an accord of rice steam, evoking the grain of the paper. To these are added luminous notes of mimosa, while a backdrop of blonde wood tones roots L'Eau Papier in the material itself. In this Eau de Toilette, the perfumer used Grasse Mimosa, a variety that has been cultivated since 1865. Its yellow flowers bloom in February on the hills around the town of Grasse, offering a stunning sight scented with sunny, floral and honeyed notes.",
+        "options": [
+            {
+                "size": "50ml",
+                "price": 105,
+                "images": {
+                    "thumbnail": {
+                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-eau-papier-eau-de-toilette-50ml-papier50-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-eau-papier-eau-de-toilette-50ml-papier50-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    },
+                    "detail": [
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-eau-papier-eau-de-toilette-50ml-papier50-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-eau-papier-eau-de-toilette-50ml-papier50-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-eau-papier-eau-de-toilette-50ml-papier50-3.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/e/a/eau-papier-ingre__dients-2025x2700.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    ]
+                },
+                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-eau-papier-eau-de-toilette-50ml-papier50-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90"
+            },
+            {
+                "size": "10ml",
+                "price": 145,
+                "images": {
+                    "thumbnail": {
+                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-eau-papier-eau-de-toilette-100ml-papier100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-eau-papier-eau-de-toilette-100ml-papier100-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    },
+                    "detail": [
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-eau-papier-eau-de-toilette-100ml-papier100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-eau-papier-eau-de-toilette-100ml-papier100-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-eau-papier-eau-de-toilette-100ml-papier100-3.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/e/a/eau-papier-ingre__dients-2025x2700_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    ]
+                },
+                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-eau-papier-eau-de-toilette-100ml-papier100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90"
+            }
+        ],
+        "collection": [
+            {
+                "collectionName": "L'Eau Papier"
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "olfactory": "Woody",
+        "name": "L'Eau Papier",
+        "type": "Refillable solid perfume",
+        "notes": ["White musks", "Mimosa", "Blonde woods accord,", "Rice steam accord"],
+        "description": "In this refillable solid perfume, notes of white musks and mimosa are shaded with accords of blonde woods and rice steam. L’Eau Papier is endlessly refillable and alcohol-free, ready to grace your wrist or neck when applied with the fingertips. Just as ink is gradually absorbed into paper, this solid perfume scents the skin, its unique fragrance unfolding over time.",
+        "story": "As ink soaks into a sheet of white paper, shadows emerge. Worlds are invented. L'Eau Papier celebrates the power of the imagination – that moment, suspended in time, when ink, paper and the hand become one. An encounter made perfume, plunging us into the heart of musk and its multiple facets. Musk evolves, changes, expresses itself over time and from one skin to another, just as ink saturates paper, assuming its texture to conjure up dreams and images. In L'Eau Papier, white musks are delicately faceted by an accord of rice steam, evoking the grain of the paper. To these are added luminous notes of mimosa, while a backdrop of blonde wood tones roots L'Eau Papier in the material itself. The Fragrance Gestures draw their inspiration from the history of perfume, reinventing textures to offer a new approach to personal scenting. It is a way to make the invisible sensual, and the ethereal tangible. Each of the gestures - eau de toilette, perfume oil, body mist or body balm - has a specific concentrate designed to offer the best olfactory rendering depending on its formulation. With its high concentration, it can often be used alone depending on the moment and the mood. Matter becomes scent, scent becomes matter...",
+        "options": [
+            {
+                "size": "3G",
+                "price": 60,
+                "images": {
+                    "thumbnail": {
+                        "default": "https://www.diptyqueparis.com/media/catalog/product/l/_/l_eau-papier-parfum-solide_2024_solidepapier_rvb_hd_fond-gris_spec-ecom_1_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "hover": "https://www.diptyqueparis.com/media/catalog/product/l/_/l_eau-papier-parfum-solide_2024_solidepapier_rvb_hd_fond-gris_spec-ecom_2_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    },
+                    "detail": [
+                        "https://www.diptyqueparis.com/media/catalog/product/l/_/l_eau-papier-parfum-solide_2024_solidepapier_rvb_hd_fond-gris_spec-ecom_1_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/l/_/l_eau-papier-parfum-solide_2024_solidepapier_rvb_hd_fond-gris_spec-ecom_2_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    ]
+                },
+                "url": "https://www.diptyqueparis.com/media/catalog/product/l/_/l_eau-papier-parfum-solide_2024_solidepapier_rvb_hd_fond-gris_spec-ecom_1_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90"
+            }
+        ],
+        "collection": [
+            {
+                "collectionName": "L'Eau Papier"
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "olfactory": "Woody",
+        "name": "L'Eau Trois",
+        "type": "Eau de toilette",
+        "notes": ["Myrrh", "Rockrose", "Incense,", "Rosemary"],
+        "description": "A mysterious trio - a woody, spicy, soothing fragrance. L'Eau Trois eau de toilette evokes the scent of resinous shrub and of incense. During the service, myrrh was burned. A refuge at the top of Mount Athos - arrived at after a long hike in the blazing sun.",
+        "story": "At the top of Mount Athos, after a long hike, we sought shelter from the burning sun within the walls of a monastery. When we opened the doors, the scent of resinous shrub mingled with the incense and myrrh burned during the service. A spicy, woody scent, mysterious and soothing. The origin of this name is a mystery. Does it refer to the three wise kings, the three founders of Diptyque or the third fragrance created by the brand?",
+        "options": [
+            {
+                "size": "100ml",
+                "price": 145,
+                "images": {
+                    "thumbnail": {
+                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-eau-trois-eau-de-toilette-100ml-trois100-1_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-eau-trois-eau-de-toilette-100ml-trois100-2_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    },
+                    "detail": [
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-eau-trois-eau-de-toilette-100ml-trois100-1_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-eau-trois-eau-de-toilette-100ml-trois100-2_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-eau-trois-eau-de-toilette-100ml-trois100-3_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    ]
+                },
+                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-eau-trois-eau-de-toilette-100ml-trois100-1_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90"
+            }
+        ],
+        "collection": [
+            {
+                "collectionName": null
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "olfactory": "Woody",
+        "name": "Orphéon",
+        "type": "Eau de parfum",
+        "notes": ["Juniper berry", "Cedar", "Tonka bean,", "Jasmine"],
+        "description": "At the heart of this composition are the warmth of tonka bean, the depth of cedar, the richness of jasmine and the vivacity of juniper berries. Orphéon eau de parfum is a tribute. An olfactory portrait of a legendary bar where the founders of Diptyque loved to get together - amid curls of tobacco smoke, powdery trails of blusher and burnished wood.",
+        "story": "Paris in the early 60s. The Saint-Germain quarter was alive with the rhythm of all-night sessions in jazz clubs and artistic encounters. People would discuss the world, dance and laugh in a warm atmosphere as vibrant as it was elegant... Orphéon was one of the bars, filled with joyful effervescence, where the three founders of the nearby Diptyque boutique liked to meet. Today, paying tribute to this era and to creative friendships, the bar is immortalised in the olfactory portrait that bears its name: Orphéon. Freeze frame: plumes of tobacco smoke mingle with powdery trails of blusher, lingering on burnished wood. At the heart of the composition is the atmosphere of that unforgettable place, recognisable through the warmth of the tonka bean, the depth of cedar and the vivacity of juniper berries. Today, all that remains of Orphéon is a faceted blue column in the back of the boutique at 34 Boulevard Saint Germain.",
+        "options": [
+            {
+                "size": "30ml",
+                "price": 88,
+                "images": {
+                    "thumbnail": {
+                        "default": "https://www.diptyqueparis.com/media/catalog/product/e/d/edp-orpheon_orpheon-2025_30ml_r25orph30el_rvb_hd_fond-gris_spec-ecom_3055x2292px_4-3_1_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "hover": "https://www.diptyqueparis.com/media/catalog/product/e/d/edp-orpheon_orpheon-2025_30ml_r25orph30el_rvb_hd_fond-gris_spec-ecom_2_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    },
+                    "detail": [
+                        "https://www.diptyqueparis.com/media/catalog/product/e/d/edp-orpheon_orpheon-2025_30ml_r25orph30el_rvb_hd_fond-gris_spec-ecom_3055x2292px_4-3_1_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/e/d/edp-orpheon_orpheon-2025_30ml_r25orph30el_rvb_hd_fond-gris_spec-ecom_2_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/o/r/orpheon_hero_2025_visuel_prioritaire_produit_edp_75ml_ingredients_rvb_2025x2700px_diptyque_1_.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    ]
+                },
+                "url": "https://www.diptyqueparis.com/media/catalog/product/e/d/edp-orpheon_orpheon-2025_30ml_r25orph30el_rvb_hd_fond-gris_spec-ecom_3055x2292px_4-3_1_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90"
+            },
+            {
+                "size": "75ml",
+                "price": 170,
+                "images": {
+                    "thumbnail": {
+                        "default": "https://www.diptyqueparis.com/media/catalog/product/e/d/edp-orpheon_orpheon-2025_75ml_r25orph75el_rvb_hd_fond-gris_spec-ecom_3055x2292px_4-3_1_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "hover": "https://www.diptyqueparis.com/media/catalog/product/e/d/edp-orpheon_orpheon-2025_75ml_r25orph75el_rvb_hd_fond-gris_spec-ecom_2_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    },
+                    "detail": [
+                        "https://www.diptyqueparis.com/media/catalog/product/e/d/edp-orpheon_orpheon-2025_75ml_r25orph75el_rvb_hd_fond-gris_spec-ecom_3055x2292px_4-3_1_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/e/d/edp-orpheon_orpheon-2025_75ml_r25orph75el_rvb_hd_fond-gris_spec-ecom_2_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/e/d/edp-orpheon_orpheon-2025_75ml_r25orph75el_rvb_hd_fond-gris_spec-ecom_4_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/o/r/orpheon-hero_2025_visuel-prioritaire_produit_edp_edl_75ml_ingredients_rvb_2025x2700px_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    ]
+                },
+                "url": "https://www.diptyqueparis.com/media/catalog/product/e/d/edp-orpheon_orpheon-2025_75ml_r25orph75el_rvb_hd_fond-gris_spec-ecom_3055x2292px_4-3_1_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90"
+            },
+            {
+                "size": "75ml",
+                "price": 255,
+                "images": {
+                    "thumbnail": {
+                        "default": "https://www.diptyqueparis.com/media/catalog/product/c/o/coffret-edp-orpheon_orpheon-2025_75ml_r25orph75elp_rvb_hd_fond-gris_spec-ecom_3055x2292px_4-3_1_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "hover": "https://www.diptyqueparis.com/media/catalog/product/c/o/coffret-edp-orpheon_orpheon-2025_75ml_r25orph75elp_rvb_fond-gris_spec-ecom_3055x2292px_4-3_2_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    },
+                    "detail": [
+                        "https://www.diptyqueparis.com/media/catalog/product/c/o/coffret-edp-orpheon_orpheon-2025_75ml_r25orph75elp_rvb_hd_fond-gris_spec-ecom_3055x2292px_4-3_1_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/c/o/coffret-edp-orpheon_orpheon-2025_75ml_r25orph75elp_rvb_fond-gris_spec-ecom_3055x2292px_4-3_2_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/c/o/coffret-edp-orpheon_orpheon-2025_75ml_r25orph75elp_rvb_hd_fond-gris_spec-ecom_3_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/p/r/premium-set-orphe_on-repush---2025x2700.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    ]
+                },
+                "url": "https://www.diptyqueparis.com/media/catalog/product/c/o/coffret-edp-orpheon_orpheon-2025_75ml_r25orph75elp_rvb_hd_fond-gris_spec-ecom_3055x2292px_4-3_1_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90"
+            }
+        ],
+        "collection": [
+            {
+                "collectionName": "Orphéon"
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "olfactory": "Woody",
+        "name": "Orphéon",
+        "type": "Refillable solid perfume",
+        "notes": ["Juniper berry", "Cedar", "Tonka bean,", "Jasmine"],
+        "description": "A time capsule. Orphéon solid perfume plunges us into the atmosphere of a legendary bar frequented by the founders of Diptyque. This scented balm, to be applied to the skin with the fingertips, brings out the warmth of tonka bean, the density of cedar and the vivacity of juniper berries.",
+        "story": "The Fragrance Gestures draw their inspiration from the history of perfume, reinventing textures to offer a new approach to personal scenting. It is a way to make the invisible sensual, and the ethereal tangible. Each of the gestures – eau de toilette, body mist or body balm – has a specific concentrate designed to offer the best olfactory rendering depending on its formulation. With its high concentration, it can be used alone depending on the moment and the mood. Matter becomes scent, scent becomes matter...",
+        "options": [
+            {
+                "size": "3G",
+                "price": 60,
+                "images": {
+                    "thumbnail": {
+                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-orpheon-refillable-solid-perfume-solideorph-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-orpheon-refillable-solid-perfume-solideorph-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    },
+                    "detail": [
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-orpheon-refillable-solid-perfume-solideorph-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-orpheon-refillable-solid-perfume-solideorph-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    ]
+                },
+                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-orpheon-refillable-solid-perfume-solideorph-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90"
+            }
+        ],
+        "collection": [
+            {
+                "collectionName": "Orphéon"
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "olfactory": "Woody",
+        "name": "Philosykos",
+        "type": "Eau de parfum",
+        "notes": ["Fig leaves", "Fig sap", "Fig tree wood,", "Black pepper"],
+        "description": "Fresh perspectives on the fig tree. In Philosykos eau de parfum, the flavour of the fruit cedes centre stage, and white cedar underscores the woody strength of the tree and its bark. A fragrance that carries the scent of a memory: crossing a grove of wild fig trees during a summer in Greece.",
+        "story": "In the Eau de Parfum, another side of the fig is revealed. The fruit withdraws, as the white cedar lands to heighten the woody intensity of the tree and the smell of bark baking under the midday sun. The memory of a Greek summer at Mount Pelion where, to get to the sea, there was a natural grove of wild sun-soaked fig trees to cross. Philosykos is an ode to the entire fig tree: the green freshness of the leaves, the milky flavour of the figs, the density of the wood. “Philosykos” means “friend of the fig tree” in Greek. A tree whose leaves and a few branches brought back in a memory box was the source of inspiration.",
+        "options": [
+            {
+                "size": "75ml",
+                "price": 170,
+                "images": {
+                    "thumbnail": {
+                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-philosykos-eau-de-parfum-75ml-philop75-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-philosykos-eau-de-parfum-75ml-philop75-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    },
+                    "detail": [
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-philosykos-eau-de-parfum-75ml-philop75-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-philosykos-eau-de-parfum-75ml-philop75-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-philosykos-eau-de-parfum-75ml-philop75-3.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    ]
+                },
+                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-philosykos-eau-de-parfum-75ml-philop75-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90"
+            }
+        ],
+        "collection": [
+            {
+                "collectionName": "Philosykos"
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "olfactory": "Woody",
+        "name": "Philosykos",
+        "type": "Eau de toilette",
+        "notes": ["Fig leaves", "Fig sap", "Fig tree wood,", "Black pepper"],
+        "description": "The freshness of the leaves, the milky flavour of the fruit, the density of the white wood. Philosykos eau de toilette is an ode to the entire fig tree. A fragrance that feels like a memory - of crossing a wild grove under the blazing Greek sun. The tale of a summer spent at Mount Pelion, told now in perfume.",
+        "story": "The memory of a Greek summer at Mount Pelion where, to get to the sea, there was a natural grove of wild sun-soaked fig trees to cross. Philosykos is an ode to the entire fig tree: the green freshness of the leaves, the milky flavour of the figs, the density of the wood. “Philosykos” means “friend of the fig tree” in Greek. A tree whose leaves and a few branches brought back in a memory box was the source of inspiration.",
+        "options": [
+            {
+                "size": "50ml",
+                "price": 105,
+                "images": {
+                    "thumbnail": {
+                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-philosykos-eau-de-toilette-50ml-philo50-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-philosykos-eau-de-toilette-50ml-philo50-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    },
+                    "detail": [
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-philosykos-eau-de-toilette-50ml-philo50-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-philosykos-eau-de-toilette-50ml-philo50-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-philosykos-eau-de-toilette-50ml-philo50-3.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    ]
+                },
+                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-philosykos-eau-de-toilette-50ml-philo50-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90"
+            },
+            {
+                "size": "100ml",
+                "price": 145,
+                "images": {
+                    "thumbnail": {
+                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-philosykos-eau-de-toilette-100ml-philo100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-philosykos-eau-de-toilette-100ml-philo100-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    },
+                    "detail": [
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-philosykos-eau-de-toilette-100ml-philo100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-philosykos-eau-de-toilette-100ml-philo100-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-philosykos-eau-de-toilette-100ml-philo100-3.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque_cadrage_grece_2025x2700px2_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    ]
+                },
+                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-philosykos-eau-de-toilette-100ml-philo100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90"
+            }
+        ],
+        "collection": [
+            {
+                "collectionName": "Philosykos"
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "olfactory": "Woody",
+        "name": "Philosykos",
+        "type": "Eau de parfum",
+        "notes": ["Fig leaves", "Fig sap", "Fig tree wood,", "Black pepper"],
+        "description": "When applied to the skin, Philosykos solid perfume delivers the freshness of leaves, the milky flavour of figs, the woody density of the tree. A fragrance gesture, delicate and sensual. An ode to the memory of a summer under the Greek sun, surrounded by wild groves.",
+        "story": "The Fragrance Gestures draw their inspiration from the history of perfume, reinventing textures to offer a new approach to personal scenting. It is a way to make the invisible sensual, and the ethereal tangible. Each of the gestures – eau de toilette, body mist or body balm – has a specific concentrate designed to offer the best olfactory rendering depending on its formulation. With its high concentration, it can be used alone depending on the moment and the mood. Matter becomes scent, scent becomes matter...",
+        "options": [
+            {
+                "size": "3G",
+                "price": 50,
+                "images": {
+                    "thumbnail": {
+                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-philosykos-refillable-solid-perfume-solidephilo-1_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-philosykos-refillable-solid-perfume-solidephilo-2_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    },
+                    "detail": [
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-philosykos-refillable-solid-perfume-solidephilo-1_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-philosykos-refillable-solid-perfume-solidephilo-2_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    ]
+                },
+                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-philosykos-refillable-solid-perfume-solidephilo-1_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90"
+            }
+        ],
+        "collection": [
+            {
+                "collectionName": "Philosykos"
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "olfactory": "Woody",
+        "name": "Tam Dao",
+        "type": "Eau de parfum",
+        "notes": ["Sandalwood", "Cedar", "Cypress,", "Coriander"],
+        "description": "A memory of the holy forests of Vietnam. In this eau de parfum, Asian spices highlight the sandalwood and its creamy nuances. Tam Dao immerses us in the childhood of Yves Coueslant, one of the founders of the Maison Diptyque. A trip through space and time..",
+        "story": "In the Eau de Parfum, the Asian spices highlight the wood and its creamy nuances, anchoring Tam Dao more solidly in its region of origin. A memory from the holy forests of Vietnam, and the velvety, milky scent of sandalwood burned in temples. Yves Coueslant, one of Diptyque’s founders, has never forgotten this sandalwood-driven fragrance from his childhood.",
+        "options": [
+            {
+                "size": "75ml",
+                "price": 170,
+                "images": {
+                    "thumbnail": {
+                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tam-dao-eau-de-parfum-75ml-tamdaop75-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tam-dao-eau-de-parfum-75ml-tamdaop75-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    },
+                    "detail": [
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tam-dao-eau-de-parfum-75ml-tamdaop75-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tam-dao-eau-de-parfum-75ml-tamdaop75-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tam-dao-eau-de-parfum-75ml-tamdaop75-3.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    ]
+                },
+                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tam-dao-eau-de-parfum-75ml-tamdaop75-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90"
+            }
+        ],
+        "collection": [
+            {
+                "collectionName": "Tam Dao"
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "olfactory": "Woody",
+        "name": "Tam Dao",
+        "type": "Eau de toilette",
+        "notes": ["Sandalwood", "Cedar", "Cypress,", "Myrtle"],
+        "description": "A fragrance from yesteryear. Tam Dao eau de toilette revisits a childhood memory of Yves Coueslant, one of the founders of Diptyque. The slightly spicy scent of sandalwood. The forests and holy temples of Vietnam. An olfactory memory rekindled by the cooling notes of cypress and myrtle.",
+        "story": "A memory from the holy forests of Vietnam, and the velvety, milky scent of sandalwood burned in temples. Yves Coueslant, one of Diptyque’s founders, has never forgotten this sandalwood-driven fragrance from his childhood.",
+        "options": [
+            {
+                "size": "50ml",
+                "price": 105,
+                "images": {
+                    "thumbnail": {
+                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tam-dao-eau-de-toilette-50ml-tamdao50-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tam-dao-eau-de-toilette-50ml-tamdao50-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    },
+                    "detail": [
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tam-dao-eau-de-toilette-50ml-tamdao50-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tam-dao-eau-de-toilette-50ml-tamdao50-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tam-dao-eau-de-toilette-50ml-tamdao50-3.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    ]
+                },
+                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tam-dao-eau-de-toilette-50ml-tamdao50-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90"
+            },
+            {
+                "size": "100ml",
+                "price": 145,
+                "images": {
+                    "thumbnail": {
+                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tam-dao-eau-de-toilette-100ml-tamdao100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tam-dao-eau-de-toilette-100ml-tamdao100-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    },
+                    "detail": [
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tam-dao-eau-de-toilette-100ml-tamdao100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tam-dao-eau-de-toilette-100ml-tamdao100-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tam-dao-eau-de-toilette-100ml-tamdao100-3.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    ]
+                },
+                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tam-dao-eau-de-toilette-100ml-tamdao100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90"
+            }
+        ],
+        "collection": [
+            {
+                "collectionName": "Tam Dao"
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "olfactory": "Woody",
+        "name": "Tempo",
+        "type": "Eau de parfum",
+        "notes": ["Patchouli", "Mate", "Clary sage,", "Violet"],
+        "description": "During the 1960s, one scent changed the world: patchouli. Tempo pays tribute to this in three different times - three extracts from a single essence. This eau de parfum draws on its own nuances to create a composition that hovers between woody and elegant, earthy and enveloping. Elevated by voilet leaf, Tempo delivers vibrancy and a remarkable sophistication.",
+        "story": "During the 60s, a certain scent was changing the world: patchouli. Tempo pays tribute to it with three extracts of this essence, a nuanced composition that hovers between elegant and woody, enveloping and earthy. Elevated by violet leaf, Tempo vibrates with remarkable sophistication. Despite its woody scent, fragrant patchouli oil is not extracted from wood, like cedar or sandalwood, but instead from the leaves of an aromatic plant in Indonesia called Nilam. Award Winner: Best New Men’s Fragrance by The Fragrance Foundation Awards London (FIFI Adwards)",
+        "options": [
+            {
+                "size": "75ml",
+                "price": 170,
+                "images": {
+                    "thumbnail": {
+                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tempo-eau-de-parfum-75ml-tempop75c-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tempo-eau-de-parfum-75ml-tempop75c-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    },
+                    "detail": [
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tempo-eau-de-parfum-75ml-tempop75c-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tempo-eau-de-parfum-75ml-tempop75c-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tempo-eau-de-parfum-75ml-tempop75c-3.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    ]
+                },
+                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tempo-eau-de-parfum-75ml-tempop75c-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90"
+            }
+        ],
+        "collection": [
+            {
+                "collectionName": null
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "olfactory": "Woody",
+        "name": "Vetyverio",
+        "type": "Eau de parfum",
+        "notes": ["Vetiver from Java", "Vetiver from Haiti", "Grapefruit,", "Rose"],
+        "description": "Beyond feminine, beyond masculine. Vetyverio eau de parfum reveals facets that are sometimes smoky, sometimes elegant, sometimes subtly floral. Used in an overdose, vetiver transcends gender. A kaleidoscope of nuances within a single raw material, magnified here in an unusual interpretation. Like inlaid wood..",
+        "story": "In the Eau de Parfum, Haitian vetiver takes the leading role. Used to excess, it shines through in a pure, raw form, unleashing the full-bodied, smoky temperament it takes from the fiery, volcanic rock. n Vetyverio, vetiver does not become totally feminine or masculine, it is pushed to excess and goes beyond. Like inlaid wood, vetiver reveals unexpected facets: sometimes fresh, other times smoky or subtly floral. A kaleidoscope of olfactory nuances in a material that is magnified here in an unusual interpretation. he essence of vetiver from Haiti used in the Vetyverio Eau de Parfum has ESR certification (fairtrade, sustainable and responsible). It is sourced from the villages of Massey, Faucault and Bazelais in Haiti.",
+        "options": [
+            {
+                "size": "75ml",
+                "price": 170,
+                "images": {
+                    "thumbnail": {
+                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-vetyverio-eau-de-parfum-75ml-vetyp75-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-vetyverio-eau-de-parfum-75ml-vetyp75-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    },
+                    "detail": [
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-vetyverio-eau-de-parfum-75ml-vetyp75-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-vetyverio-eau-de-parfum-75ml-vetyp75-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-vetyverio-eau-de-parfum-75ml-vetyp75-3.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    ]
+                },
+                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-vetyverio-eau-de-parfum-75ml-vetyp75-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90"
+            }
+        ],
+        "collection": [
+            {
+                "collectionName": null
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "olfactory": "Woody",
+        "name": "Vetyverio",
+        "type": "Eau de toilette",
+        "notes": ["Vetiver from Java", "Vetiver from Haiti", "Grapefruit,", "Rose"],
+        "description": "Intense and subtle. Vetyverio eau de parfum expresses all that's attractive in vetiver: sometimes fresh, sometimes smoky or even delicately floral. The plant reveals unexpected facets, much in the manner of inlaid wood. A kaleidoscope of olfactory nuances in an unusual interpretation.",
+        "story": "Did you know? The essence of vetiver from Haiti used in the Vetyverio eau de parfum has ESR certification (fairly traded, sustainable and responsible). It is sourced from the villages of Massey, Faucault and Bazelais, Haiti. ",
+        "options": [
+            {
+                "size": "50ml",
+                "price": 105,
+                "images": {
+                    "thumbnail": {
+                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-de-toilette-vetyverio-50ml-vetyverio50-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-de-toilette-vetyverio-50ml-vetyverio50-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    },
+                    "detail": [
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-de-toilette-vetyverio-50ml-vetyverio50-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-de-toilette-vetyverio-50ml-vetyverio50-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-de-toilette-vetyverio-50ml-vetyverio50-3.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    ]
+                },
+                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-de-toilette-vetyverio-50ml-vetyverio50-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90"
+            },
+            {
+                "size": "100ml",
+                "price": 145,
+                "images": {
+                    "thumbnail": {
+                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-vetyverio-eau-de-toilette-100ml-vetyverio100-1_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-vetyverio-eau-de-toilette-100ml-vetyverio100-2_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    },
+                    "detail": [
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-vetyverio-eau-de-toilette-100ml-vetyverio100-1_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-vetyverio-eau-de-toilette-100ml-vetyverio100-2_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
+                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-vetyverio-eau-de-toilette-100ml-vetyverio100-3_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                    ]
+                },
+                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-vetyverio-eau-de-toilette-100ml-vetyverio100-1_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90"
+            }
+        ],
+        "collection": [
+            {
+                "collectionName": null
+            }
+        ]
     }
 ]
