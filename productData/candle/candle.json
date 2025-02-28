@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "olfactory": "Flowers",
+        "name": "",
+        "type": "",
+        "notes": ["", "", "", ""],
+        "description": "",
+        "story": "",
+        "options": [
+            {
+                "size": "",
+                "price": 250,
+                "images": {
+                    "thumbnail": {
+                        "default": "",
+                        "hover": ""
+                    },
+                    "detail": [""]
+                },
+                "url": ""
+            }
+        ],
+        "collection": []
+    }
+]
