@@ -1,9 +1,9 @@
 import json
 
 # 원본 JSON 파일 경로
-input_file = "C:/Users/EZEN/Documents/data/productData/diffuser/diffuser.json"
+input_file = "diffuser.json"
 # 수정된 JSON 저장 경로
-output_file = "C:/Users/EZEN/Documents/data/productData/diffuser/diffuser_updated.json"
+output_file = "diffuser_updated.json"
 
 # JSON 파일 읽기
 with open(input_file, "r", encoding="utf-8") as f:
@@ -11,11 +11,11 @@ with open(input_file, "r", encoding="utf-8") as f:
 
 # 데이터 수정 (optionId 추가)
 for product in data:
-    # 리스트로 중첩된 경우 처리
+    # product가 리스트라면 첫 번째 요소를 가져오기
     if isinstance(product, list):
-        product = product[0]
+        product = product[0]  
 
-    product_id = product["id"]
+    product_id = product.get("id")  # 상품 ID 가져오기
 
     # 옵션이 존재하는 경우만 처리
     if "options" in product:
