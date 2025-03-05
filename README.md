@@ -1,85 +1,87 @@
-# DATA
+# Diptyque 제품 데이터셋 설명
 
-## 개요
+이 프로젝트는 Diptyque의 다양한 제품 정보를 담고 있는 JSON 데이터셋을 포함하고 있습니다.  
+각 JSON 파일은 해당 제품군에 대한 정보를 포함하며, 제품의 주요 속성과 옵션(예: 사이즈, 가격, 이미지 등)을 포함하고 있습니다.
 
-Diptyque 리뉴얼 프로젝트를 위한 데이터 저장소입니다.
+## 데이터 파일 설명
 
-`productData`에는 상품 카테고리별 데이터를 구분하였으며, `resources`에는 상품의 썸네일 혹은 상세페이지에 쓰일 사진들을 저장합니다.
+### 1. `perfume.json` (향수 데이터)
 
-## JSON 데이터 구조
+-   **id**: 제품 고유 ID
+-   **olfactory**: 향의 카테고리 (예: Amber, Floral 등)
+-   **name**: 제품 이름
+-   **type**: 제품 유형 (예: Eau de Parfum)
+-   **notes**: 향의 주요 노트 (예: Benzoin, Patchouli 등)
+-   **description**: 제품 설명
+-   **story**: 제품의 스토리와 영감
+-   **options**:
+    -   **size**: 용량 (예: 75ml)
+    -   **price**: 가격 (달러 기준)
+    -   **images**: 제품 이미지 (썸네일, 상세 이미지 포함)
+    -   **url**: 제품 상세 페이지 링크
+    -   **optionId**: 옵션의 고유 ID
+-   **collection**: 해당 제품이 속한 컬렉션 (빈 배열일 수도 있음)
 
-이 프로젝트는 Diptyque 리뉴얼을 위한 JSON 데이터 구조를 정의합니다. 아래는 각 필드에 대한 설명입니다.
+---
 
-### 📂 데이터 구조 설명
+### 2. `diffuser.json` (디퓨저 데이터)
 
-```json
-[
-    {
-        "id": 1,
-        "olfactory": "amber",
-        "name": "Sample Name",
-        "category": "fragrance",
-        "type": "Eau de parfum",
-        "notes": ["Vanilla", "Cypriol", "Incense", "Pink peppercorn"],
-        "description": "This is a sample description.",
-        "story": "This is a related story.",
-        "price": {
-            "75ml": 190
-        },
-        "images": {
-            "thumbnail": {
-                "default": "path/to/default.webp",
-                "hover": "path/to/hover.webp"
-            },
-            "detail": ["path/to/detail1.webp", "path/to/detail2.webp", "path/to/detail3.webp"],
-            "option": {
-                "75ml": "path/to/option.webp"
-            }
-        },
-        "option": [
-            {
-                "option": "75ml",
-                "url": "path/to/option_page"
-            }
-        ],
-        "collection": [
-            {
-                "collectionName": "Special Collection"
-            }
-        ]
-    }
-]
-```
+-   **id**: 제품 고유 ID
+-   **olfactory**: 향의 카테고리
+-   **name**: 제품 이름
+-   **type**: 제품 유형 (예: Room Spray)
+-   **notes**: 향의 주요 노트
+-   **description**: 제품 설명
+-   **options**:
+    -   **size**: 용량 (예: 150ml)
+    -   **price**: 가격
+    -   **weight**: 제품 무게
+    -   **images**: 제품 이미지
+    -   **url**: 제품 상세 페이지 링크
+    -   **optionId**: 옵션의 고유 ID
+-   **collection**: 해당 제품이 속한 컬렉션
 
-### 📝 필드 설명
+---
 
-| 필드명                     | 타입     | 설명                                                                    |
-| -------------------------- | -------- | ----------------------------------------------------------------------- |
-| `id`                       | `number` | 상품의 고유 ID (숫자 값)                                                |
-| `olfactory`                | `string` | 향 계열 (`amber`, `woody`, `floral`, `citrus` 중 하나)                  |
-| `name`                     | `string` | 영문 상품명                                                             |
-| `category`                 | `string` | 해당 JSON 파일에 따른 상품 카테고리                                     |
-| `type`                     | `string` | 상품 유형 (`Eau de parfum`, `Eau de toilette`, `Solid perfume` 중 하나) |
-| `notes`                    | `array`  | 향의 구성 요소 (영문 시향 종류)                                         |
-| `description`              | `string` | 상품 설명 (영문)                                                        |
-| `story`                    | `string` | 상품과 관련된 이야기 (영문)                                             |
-| `price`                    | `object` | 상품 가격 (예: `{ "75ml": 190 }`)                                       |
-| `images`                   | `object` | 이미지 정보                                                             |
-| `images.thumbnail.default` | `string` | 기본 썸네일 이미지 경로 (webp)                                          |
-| `images.thumbnail.hover`   | `string` | 호버 시 변경될 이미지 경로 (webp)                                       |
-| `images.detail`            | `array`  | 상세 이미지 경로 목록                                                   |
-| `images.option`            | `object` | 옵션별 이미지 경로                                                      |
-| `option`                   | `array`  | 상품 옵션 정보 (`option`: 옵션명, `url`: 옵션 관련 페이지)              |
-| `collection`               | `array`  | 특정 콜렉션에 포함된 경우에만 값이 존재 (`collectionName`: 콜렉션명)    |
+### 3. `candle.json` (캔들 데이터)
 
-### 🚀 기타 참고사항
+-   **id**: 제품 고유 ID
+-   **olfactory**: 향의 카테고리
+-   **name**: 제품 이름
+-   **notes**: 향의 주요 노트
+-   **description**: 제품 설명
+-   **options**:
+    -   **size**: 캔들 크기 (예: small, classic)
+    -   **price**: 가격
+    -   **weight**: 제품 무게 (예: 70g, 190g)
+    -   **images**: 제품 이미지
+    -   **url**: 제품 상세 페이지 링크
+    -   **optionId**: 옵션의 고유 ID
+-   **collection**: 해당 제품이 속한 컬렉션
 
--   `olfactory`, `type` 필드는 지정된 값 중 하나만 입력 가능
--   `collection` 필드는 특정 콜렉션 상품이 아닐 경우 `null` 값
--   모든 이미지 경로는 `.webp` 형식을 사용
+---
 
-### 🔄 카테고리 필드 관련
+### 4. `body.json` (바디 관련 데이터)
 
--   `category` 필드 사용 여부는 프로젝트 진행 방식에 따라 결정됩니다.
--   JSON 데이터를 카테고리별로 분리할 경우, `category` 필드는 생략 가능하지만 모든 데이터를 하나의 파일로 유지할 경우 필요합니다.
--   프로젝트 진행에 따라 해당 필드는 수정될 수 있습니다.
+-   **id**: 제품 고유 ID
+-   **olfactory**: 향의 카테고리
+-   **name**: 제품 이름
+-   **type**: 제품 유형 (예: Scented Soap)
+-   **notes**: 향의 주요 노트
+-   **description**: 제품 설명
+-   **story**: 제품의 스토리
+-   **options**:
+    -   **size**: 제품 크기 (예: 200g)
+    -   **price**: 가격
+    -   **weight**: 제품 무게
+    -   **images**: 제품 이미지
+    -   **url**: 제품 상세 페이지 링크
+-   **collection**: 해당 제품이 속한 컬렉션
+
+---
+
+## 데이터 활용 방법
+
+-   JSON 데이터를 이용해 Diptyque 제품의 상세 정보를 표시할 수 있습니다.
+-   옵션(`options`) 배열을 활용하여 제품의 다양한 변형을 표현할 수 있습니다.
+-   각 제품의 `collection`을 활용하여 특정 컬렉션별 제품을 분류할 수 있습니다.
