@@ -67,7 +67,7 @@
 -   **olfactory**: 향의 카테고리
 -   **name**: 제품 이름
 -   **type**: 제품 유형 (예: Scented Soap)
--   **notes**: 향의 주요 노트
+-   **keyword**: 상품 관련 키워드
 -   **description**: 제품 설명
 -   **story**: 제품의 스토리
 -   **options**:
