@@ -12,17 +12,16 @@
                 "weight": "70g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Roses\\Roses_default.jpg",
-                        "hover": "images\\candle\\Roses\\Roses_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Roses/Roses_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Roses/Roses_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Roses\\Roses_detail_1.jpg",
-                        "images\\candle\\Roses\\Roses_detail_2.jpg",
-                        "images\\candle\\Roses\\Roses_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Roses/Roses_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Roses/Roses_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Roses/Roses_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-roses-small-candle-70g-ro70v-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 11
+                "optionId": 3001
             },
             {
                 "size": "classic",
@@ -30,17 +29,16 @@
                 "weight": "190g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Roses\\Roses_default.jpg",
-                        "hover": "images\\candle\\Roses\\Roses_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Roses/Roses_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Roses/Roses_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Roses\\Roses_detail_1.jpg",
-                        "images\\candle\\Roses\\Roses_detail_2.jpg",
-                        "images\\candle\\Roses\\Roses_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Roses/Roses_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Roses/Roses_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Roses/Roses_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-roses-candle-190g-ro1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 12
+                "optionId": 3002
             },
             {
                 "size": "large",
@@ -48,17 +46,16 @@
                 "weight": "600g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Roses\\Roses_default.jpg",
-                        "hover": "images\\candle\\Roses\\Roses_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Roses/Roses_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Roses/Roses_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Roses\\Roses_detail_1.jpg",
-                        "images\\candle\\Roses\\Roses_detail_2.jpg",
-                        "images\\candle\\Roses\\Roses_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Roses/Roses_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Roses/Roses_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Roses/Roses_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-roses-candle-600g-ro600-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 13
+                "optionId": 3003
             },
             {
                 "size": "extra large",
@@ -66,25 +63,24 @@
                 "weight": "1500g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Roses\\Roses_default.jpg",
-                        "hover": "images\\candle\\Roses\\Roses_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Roses/Roses_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Roses/Roses_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Roses\\Roses_detail_1.jpg",
-                        "images\\candle\\Roses\\Roses_detail_2.jpg",
-                        "images\\candle\\Roses\\Roses_detail_3.jpg",
-                        "images\\candle\\Roses\\Roses_detail_4.jpg",
-                        "images\\candle\\Roses\\Roses_detail_5.jpg",
-                        "images\\candle\\Roses\\Roses_detail_6.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Roses/Roses_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Roses/Roses_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Roses/Roses_detail_3.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Roses/Roses_detail_4.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Roses/Roses_detail_5.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Roses/Roses_detail_6.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-roses-candle-1500g-ro1500-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 14
+                "optionId": 3004
             }
         ],
         "collection": "Roses",
-        "sales": 378,
-        "inStock": true
+        "sales": 423,
+        "inStock": false
     },
     {
         "id": 301,
@@ -99,17 +95,16 @@
                 "weight": "70g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Tubéreuse\\Tubéreuse_default.jpg",
-                        "hover": "images\\candle\\Tubéreuse\\Tubéreuse_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Tubéreuse/Tubéreuse_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Tubéreuse/Tubéreuse_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Tubéreuse\\Tubéreuse_detail_1.jpg",
-                        "images\\candle\\Tubéreuse\\Tubéreuse_detail_2.jpg",
-                        "images\\candle\\Tubéreuse\\Tubéreuse_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Tubéreuse/Tubéreuse_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Tubéreuse/Tubéreuse_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Tubéreuse/Tubéreuse_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tubereuse-tuberose-small-candle-70g-tb70v-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 21
+                "optionId": 3011
             },
             {
                 "size": "classic",
@@ -117,17 +112,16 @@
                 "weight": "190g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Tubéreuse\\Tubéreuse_default.jpg",
-                        "hover": "images\\candle\\Tubéreuse\\Tubéreuse_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Tubéreuse/Tubéreuse_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Tubéreuse/Tubéreuse_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Tubéreuse\\Tubéreuse_detail_1.jpg",
-                        "images\\candle\\Tubéreuse\\Tubéreuse_detail_2.jpg",
-                        "images\\candle\\Tubéreuse\\Tubéreuse_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Tubéreuse/Tubéreuse_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Tubéreuse/Tubéreuse_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Tubéreuse/Tubéreuse_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tubereuse-tuberose-candle-190g-tb1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 22
+                "optionId": 3012
             },
             {
                 "size": "medium",
@@ -135,16 +129,15 @@
                 "weight": "300g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Tubéreuse\\Tubéreuse_default.jpg",
-                        "hover": "images\\candle\\Tubéreuse\\Tubéreuse_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Tubéreuse/Tubéreuse_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Tubéreuse/Tubéreuse_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Tubéreuse\\Tubéreuse_detail_1.jpg",
-                        "images\\candle\\Tubéreuse\\Tubéreuse_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Tubéreuse/Tubéreuse_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Tubéreuse/Tubéreuse_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tubereuse-tuberose-candle-300g-tbr2-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 23
+                "optionId": 3013
             },
             {
                 "size": "large",
@@ -152,17 +145,16 @@
                 "weight": "600g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Tubéreuse\\Tubéreuse_default.jpg",
-                        "hover": "images\\candle\\Tubéreuse\\Tubéreuse_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Tubéreuse/Tubéreuse_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Tubéreuse/Tubéreuse_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Tubéreuse\\Tubéreuse_detail_1.jpg",
-                        "images\\candle\\Tubéreuse\\Tubéreuse_detail_2.jpg",
-                        "images\\candle\\Tubéreuse\\Tubéreuse_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Tubéreuse/Tubéreuse_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Tubéreuse/Tubéreuse_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Tubéreuse/Tubéreuse_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tubereuse-tuberose-candle-600g-tb600-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 24
+                "optionId": 3014
             },
             {
                 "size": "extra large",
@@ -170,22 +162,21 @@
                 "weight": "1500g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Tubéreuse\\Tubéreuse_default.jpg",
-                        "hover": "images\\candle\\Tubéreuse\\Tubéreuse_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Tubéreuse/Tubéreuse_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Tubéreuse/Tubéreuse_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Tubéreuse\\Tubéreuse_detail_1.jpg",
-                        "images\\candle\\Tubéreuse\\Tubéreuse_detail_2.jpg",
-                        "images\\candle\\Tubéreuse\\Tubéreuse_detail_3.jpg",
-                        "images\\candle\\Tubéreuse\\Tubéreuse_detail_4.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Tubéreuse/Tubéreuse_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Tubéreuse/Tubéreuse_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Tubéreuse/Tubéreuse_detail_3.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Tubéreuse/Tubéreuse_detail_4.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tubereuse-tuberose-candle-1500g-tb1500-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 25
+                "optionId": 3015
             }
         ],
         "collection": "Tubéreuse",
-        "sales": 117,
+        "sales": 235,
         "inStock": true
     },
     {
@@ -201,17 +192,16 @@
                 "weight": "70g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Mimosa\\Mimosa_default.jpg",
-                        "hover": "images\\candle\\Mimosa\\Mimosa_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Mimosa/Mimosa_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Mimosa/Mimosa_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Mimosa\\Mimosa_detail_1.jpg",
-                        "images\\candle\\Mimosa\\Mimosa_detail_2.jpg",
-                        "images\\candle\\Mimosa\\Mimosa_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Mimosa/Mimosa_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Mimosa/Mimosa_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Mimosa/Mimosa_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-mimosa-small-candle-70g-mi70v-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 31
+                "optionId": 3021
             },
             {
                 "size": "classic",
@@ -219,21 +209,20 @@
                 "weight": "190g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Mimosa\\Mimosa_default.jpg",
-                        "hover": "images\\candle\\Mimosa\\Mimosa_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Mimosa/Mimosa_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Mimosa/Mimosa_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Mimosa\\Mimosa_detail_1.jpg",
-                        "images\\candle\\Mimosa\\Mimosa_detail_2.jpg",
-                        "images\\candle\\Mimosa\\Mimosa_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Mimosa/Mimosa_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Mimosa/Mimosa_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Mimosa/Mimosa_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tubereuse-tuberose-candle-190g-tb1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 32
+                "optionId": 3022
             }
         ],
         "collection": "Mimosa",
-        "sales": 222,
+        "sales": 400,
         "inStock": true
     },
     {
@@ -249,17 +238,16 @@
                 "weight": "70g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Jasmin_\\Jasmin__default.jpg",
-                        "hover": "images\\candle\\Jasmin_\\Jasmin__hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Jasmin_/Jasmin__default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Jasmin_/Jasmin__hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Jasmin_\\Jasmin__detail_1.jpg",
-                        "images\\candle\\Jasmin_\\Jasmin__detail_2.jpg",
-                        "images\\candle\\Jasmin_\\Jasmin__detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Jasmin_/Jasmin__detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Jasmin_/Jasmin__detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Jasmin_/Jasmin__detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-jasmin-small-candle-70g-ja70v-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 41
+                "optionId": 3031
             },
             {
                 "size": "classic",
@@ -267,22 +255,21 @@
                 "weight": "190g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Jasmin_\\Jasmin__default.jpg",
-                        "hover": "images\\candle\\Jasmin_\\Jasmin__hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Jasmin_/Jasmin__default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Jasmin_/Jasmin__hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Jasmin_\\Jasmin__detail_1.jpg",
-                        "images\\candle\\Jasmin_\\Jasmin__detail_2.jpg",
-                        "images\\candle\\Jasmin_\\Jasmin__detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Jasmin_/Jasmin__detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Jasmin_/Jasmin__detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Jasmin_/Jasmin__detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-jasmin-candle-190g-ja1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 42
+                "optionId": 3032
             }
         ],
         "collection": null,
-        "sales": 324,
-        "inStock": true
+        "sales": 89,
+        "inStock": false
     },
     {
         "id": 304,
@@ -297,22 +284,21 @@
                 "weight": "190g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Muguet_(Lily_of_the_Valley)\\Muguet_(Lily_of_the_Valley)_default.jpg",
-                        "hover": "images\\candle\\Muguet_(Lily_of_the_Valley)\\Muguet_(Lily_of_the_Valley)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Muguet_(Lily_of_the_Valley)/Muguet_(Lily_of_the_Valley)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Muguet_(Lily_of_the_Valley)/Muguet_(Lily_of_the_Valley)_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Muguet_(Lily_of_the_Valley)\\Muguet_(Lily_of_the_Valley)_detail_1.jpg",
-                        "images\\candle\\Muguet_(Lily_of_the_Valley)\\Muguet_(Lily_of_the_Valley)_detail_2.jpg",
-                        "images\\candle\\Muguet_(Lily_of_the_Valley)\\Muguet_(Lily_of_the_Valley)_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Muguet_(Lily_of_the_Valley)/Muguet_(Lily_of_the_Valley)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Muguet_(Lily_of_the_Valley)/Muguet_(Lily_of_the_Valley)_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Muguet_(Lily_of_the_Valley)/Muguet_(Lily_of_the_Valley)_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-muguet-lily-of-the-valley-candle-190g-mg1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 51
+                "optionId": 3041
             }
         ],
         "collection": null,
-        "sales": 362,
-        "inStock": false
+        "sales": 368,
+        "inStock": true
     },
     {
         "id": 305,
@@ -327,21 +313,20 @@
                 "weight": "190g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Tilleul_(Linden_Tree)\\Tilleul_(Linden_Tree)_default.jpg",
-                        "hover": "images\\candle\\Tilleul_(Linden_Tree)\\Tilleul_(Linden_Tree)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Tilleul_(Linden_Tree)/Tilleul_(Linden_Tree)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Tilleul_(Linden_Tree)/Tilleul_(Linden_Tree)_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Tilleul_(Linden_Tree)\\Tilleul_(Linden_Tree)_detail_1.jpg",
-                        "images\\candle\\Tilleul_(Linden_Tree)\\Tilleul_(Linden_Tree)_detail_2.jpg",
-                        "images\\candle\\Tilleul_(Linden_Tree)\\Tilleul_(Linden_Tree)_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Tilleul_(Linden_Tree)/Tilleul_(Linden_Tree)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Tilleul_(Linden_Tree)/Tilleul_(Linden_Tree)_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Tilleul_(Linden_Tree)/Tilleul_(Linden_Tree)_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tilleul-linden-tree-candle-190g-ti1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 61
+                "optionId": 3051
             }
         ],
         "collection": null,
-        "sales": 141,
+        "sales": 13,
         "inStock": false
     },
     {
@@ -357,21 +342,20 @@
                 "weight": "190g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Lys_(Lily)\\Lys_(Lily)_default.jpg",
-                        "hover": "images\\candle\\Lys_(Lily)\\Lys_(Lily)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Lys_(Lily)/Lys_(Lily)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Lys_(Lily)/Lys_(Lily)_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Lys_(Lily)\\Lys_(Lily)_detail_1.jpg",
-                        "images\\candle\\Lys_(Lily)\\Lys_(Lily)_detail_2.jpg",
-                        "images\\candle\\Lys_(Lily)\\Lys_(Lily)_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Lys_(Lily)/Lys_(Lily)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Lys_(Lily)/Lys_(Lily)_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Lys_(Lily)/Lys_(Lily)_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-lys-lily-candle-190g-ly1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 71
+                "optionId": 3061
             }
         ],
         "collection": null,
-        "sales": 257,
+        "sales": 463,
         "inStock": false
     },
     {
@@ -387,22 +371,21 @@
                 "weight": "190g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Violette_(Violet)\\Violette_(Violet)_default.jpg",
-                        "hover": "images\\candle\\Violette_(Violet)\\Violette_(Violet)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Violette_(Violet)/Violette_(Violet)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Violette_(Violet)/Violette_(Violet)_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Violette_(Violet)\\Violette_(Violet)_detail_1.jpg",
-                        "images\\candle\\Violette_(Violet)\\Violette_(Violet)_detail_2.jpg",
-                        "images\\candle\\Violette_(Violet)\\Violette_(Violet)_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Violette_(Violet)/Violette_(Violet)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Violette_(Violet)/Violette_(Violet)_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Violette_(Violet)/Violette_(Violet)_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-violette-violet-candle-190g-vl1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 81
+                "optionId": 3071
             }
         ],
         "collection": null,
-        "sales": 279,
-        "inStock": false
+        "sales": 271,
+        "inStock": true
     },
     {
         "id": 308,
@@ -417,21 +400,20 @@
                 "weight": "190g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Geranium_Rosa\\Geranium_Rosa_default.jpg",
-                        "hover": "images\\candle\\Geranium_Rosa\\Geranium_Rosa_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Geranium_Rosa/Geranium_Rosa_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Geranium_Rosa/Geranium_Rosa_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Geranium_Rosa\\Geranium_Rosa_detail_1.jpg",
-                        "images\\candle\\Geranium_Rosa\\Geranium_Rosa_detail_2.jpg",
-                        "images\\candle\\Geranium_Rosa\\Geranium_Rosa_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Geranium_Rosa/Geranium_Rosa_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Geranium_Rosa/Geranium_Rosa_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Geranium_Rosa/Geranium_Rosa_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-rose-geranium-geranium-rosa-candle-190g-gr1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 91
+                "optionId": 3081
             }
         ],
         "collection": null,
-        "sales": 207,
+        "sales": 104,
         "inStock": false
     },
     {
@@ -447,22 +429,21 @@
                 "weight": "190g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Gardenia\\Gardenia_default.jpg",
-                        "hover": "images\\candle\\Gardenia\\Gardenia_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Gardenia/Gardenia_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Gardenia/Gardenia_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Gardenia\\Gardenia_detail_1.jpg",
-                        "images\\candle\\Gardenia\\Gardenia_detail_2.jpg",
-                        "images\\candle\\Gardenia\\Gardenia_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Gardenia/Gardenia_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Gardenia/Gardenia_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Gardenia/Gardenia_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-gardenia-candle-190g-ga1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 101
+                "optionId": 3091
             }
         ],
         "collection": null,
-        "sales": 10,
-        "inStock": true
+        "sales": 37,
+        "inStock": false
     },
     {
         "id": 310,
@@ -477,22 +458,21 @@
                 "weight": "190g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Choisya_(Orange_Blossom)\\Choisya_(Orange_Blossom)_default.jpg",
-                        "hover": "images\\candle\\Choisya_(Orange_Blossom)\\Choisya_(Orange_Blossom)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Choisya_(Orange_Blossom)/Choisya_(Orange_Blossom)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Choisya_(Orange_Blossom)/Choisya_(Orange_Blossom)_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Choisya_(Orange_Blossom)\\Choisya_(Orange_Blossom)_detail_1.jpg",
-                        "images\\candle\\Choisya_(Orange_Blossom)\\Choisya_(Orange_Blossom)_detail_2.jpg",
-                        "images\\candle\\Choisya_(Orange_Blossom)\\Choisya_(Orange_Blossom)_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Choisya_(Orange_Blossom)/Choisya_(Orange_Blossom)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Choisya_(Orange_Blossom)/Choisya_(Orange_Blossom)_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Choisya_(Orange_Blossom)/Choisya_(Orange_Blossom)_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-choisya-orange-blossom-candle-190g-cy1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 111
+                "optionId": 3101
             }
         ],
         "collection": null,
-        "sales": 494,
-        "inStock": false
+        "sales": 21,
+        "inStock": true
     },
     {
         "id": 311,
@@ -507,22 +487,21 @@
                 "weight": "190g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Aubépine_(Hawthorn)\\Aubépine_(Hawthorn)_default.jpg",
-                        "hover": "images\\candle\\Aubépine_(Hawthorn)\\Aubépine_(Hawthorn)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Aubépine_(Hawthorn)/Aubépine_(Hawthorn)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Aubépine_(Hawthorn)/Aubépine_(Hawthorn)_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Aubépine_(Hawthorn)\\Aubépine_(Hawthorn)_detail_1.jpg",
-                        "images\\candle\\Aubépine_(Hawthorn)\\Aubépine_(Hawthorn)_detail_2.jpg",
-                        "images\\candle\\Aubépine_(Hawthorn)\\Aubépine_(Hawthorn)_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Aubépine_(Hawthorn)/Aubépine_(Hawthorn)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Aubépine_(Hawthorn)/Aubépine_(Hawthorn)_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Aubépine_(Hawthorn)/Aubépine_(Hawthorn)_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-aubepine-hawthorn-candle-190g-au1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 121
+                "optionId": 3111
             }
         ],
         "collection": null,
-        "sales": 500,
-        "inStock": false
+        "sales": 191,
+        "inStock": true
     },
     {
         "id": 312,
@@ -537,17 +516,16 @@
                 "weight": "70g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Freesia\\Freesia_default.jpg",
-                        "hover": "images\\candle\\Freesia\\Freesia_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Freesia/Freesia_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Freesia/Freesia_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Freesia\\Freesia_detail_1.jpg",
-                        "images\\candle\\Freesia\\Freesia_detail_2.jpg",
-                        "images\\candle\\Freesia\\Freesia_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Freesia/Freesia_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Freesia/Freesia_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Freesia/Freesia_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-freesia-mini-candle-70g-fr70v-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 131
+                "optionId": 3121
             },
             {
                 "size": "classic",
@@ -555,21 +533,20 @@
                 "weight": "190g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Freesia\\Freesia_default.jpg",
-                        "hover": "images\\candle\\Freesia\\Freesia_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Freesia/Freesia_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Freesia/Freesia_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Freesia\\Freesia_detail_1.jpg",
-                        "images\\candle\\Freesia\\Freesia_detail_2.jpg",
-                        "images\\candle\\Freesia\\Freesia_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Freesia/Freesia_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Freesia/Freesia_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Freesia/Freesia_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-freesia-candle-190g-fr1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 132
+                "optionId": 3122
             }
         ],
         "collection": null,
-        "sales": 221,
+        "sales": 102,
         "inStock": true
     },
     {
@@ -585,21 +562,20 @@
                 "weight": "190g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Iris\\Iris_default.jpg",
-                        "hover": "images\\candle\\Iris\\Iris_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Iris/Iris_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Iris/Iris_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Iris\\Iris_detail_1.jpg",
-                        "images\\candle\\Iris\\Iris_detail_2.jpg",
-                        "images\\candle\\Iris\\Iris_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Iris/Iris_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Iris/Iris_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Iris/Iris_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-iris-candle-190g-i1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 141
+                "optionId": 3131
             }
         ],
         "collection": null,
-        "sales": 189,
+        "sales": 343,
         "inStock": true
     },
     {
@@ -615,17 +591,16 @@
                 "weight": "70g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Feu_de_Bois_(Wood_Fire)\\Feu_de_Bois_(Wood_Fire)_default.jpg",
-                        "hover": "images\\candle\\Feu_de_Bois_(Wood_Fire)\\Feu_de_Bois_(Wood_Fire)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Feu_de_Bois_(Wood_Fire)/Feu_de_Bois_(Wood_Fire)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Feu_de_Bois_(Wood_Fire)/Feu_de_Bois_(Wood_Fire)_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Feu_de_Bois_(Wood_Fire)\\Feu_de_Bois_(Wood_Fire)_detail_1.jpg",
-                        "images\\candle\\Feu_de_Bois_(Wood_Fire)\\Feu_de_Bois_(Wood_Fire)_detail_2.jpg",
-                        "images\\candle\\Feu_de_Bois_(Wood_Fire)\\Feu_de_Bois_(Wood_Fire)_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Feu_de_Bois_(Wood_Fire)/Feu_de_Bois_(Wood_Fire)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Feu_de_Bois_(Wood_Fire)/Feu_de_Bois_(Wood_Fire)_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Feu_de_Bois_(Wood_Fire)/Feu_de_Bois_(Wood_Fire)_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-feu-de-bois-small-candle-70g-fb70v-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 151
+                "optionId": 3141
             },
             {
                 "size": "classic",
@@ -633,17 +608,16 @@
                 "weight": "190g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Feu_de_Bois_(Wood_Fire)\\Feu_de_Bois_(Wood_Fire)_default.jpg",
-                        "hover": "images\\candle\\Feu_de_Bois_(Wood_Fire)\\Feu_de_Bois_(Wood_Fire)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Feu_de_Bois_(Wood_Fire)/Feu_de_Bois_(Wood_Fire)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Feu_de_Bois_(Wood_Fire)/Feu_de_Bois_(Wood_Fire)_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Feu_de_Bois_(Wood_Fire)\\Feu_de_Bois_(Wood_Fire)_detail_1.jpg",
-                        "images\\candle\\Feu_de_Bois_(Wood_Fire)\\Feu_de_Bois_(Wood_Fire)_detail_2.jpg",
-                        "images\\candle\\Feu_de_Bois_(Wood_Fire)\\Feu_de_Bois_(Wood_Fire)_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Feu_de_Bois_(Wood_Fire)/Feu_de_Bois_(Wood_Fire)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Feu_de_Bois_(Wood_Fire)/Feu_de_Bois_(Wood_Fire)_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Feu_de_Bois_(Wood_Fire)/Feu_de_Bois_(Wood_Fire)_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-feu-de-bois-wood-fire-candle-190g-fb1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 152
+                "optionId": 3142
             },
             {
                 "size": "medium",
@@ -651,16 +625,15 @@
                 "weight": "300g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Feu_de_Bois_(Wood_Fire)\\Feu_de_Bois_(Wood_Fire)_default.jpg",
-                        "hover": "images\\candle\\Feu_de_Bois_(Wood_Fire)\\Feu_de_Bois_(Wood_Fire)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Feu_de_Bois_(Wood_Fire)/Feu_de_Bois_(Wood_Fire)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Feu_de_Bois_(Wood_Fire)/Feu_de_Bois_(Wood_Fire)_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Feu_de_Bois_(Wood_Fire)\\Feu_de_Bois_(Wood_Fire)_detail_1.jpg",
-                        "images\\candle\\Feu_de_Bois_(Wood_Fire)\\Feu_de_Bois_(Wood_Fire)_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Feu_de_Bois_(Wood_Fire)/Feu_de_Bois_(Wood_Fire)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Feu_de_Bois_(Wood_Fire)/Feu_de_Bois_(Wood_Fire)_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-feu-de-bois-wood-fire-candle-300g-fbg2-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 153
+                "optionId": 3143
             },
             {
                 "size": "large",
@@ -668,17 +641,16 @@
                 "weight": "600g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Feu_de_Bois_(Wood_Fire)\\Feu_de_Bois_(Wood_Fire)_default.jpg",
-                        "hover": "images\\candle\\Feu_de_Bois_(Wood_Fire)\\Feu_de_Bois_(Wood_Fire)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Feu_de_Bois_(Wood_Fire)/Feu_de_Bois_(Wood_Fire)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Feu_de_Bois_(Wood_Fire)/Feu_de_Bois_(Wood_Fire)_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Feu_de_Bois_(Wood_Fire)\\Feu_de_Bois_(Wood_Fire)_detail_1.jpg",
-                        "images\\candle\\Feu_de_Bois_(Wood_Fire)\\Feu_de_Bois_(Wood_Fire)_detail_2.jpg",
-                        "images\\candle\\Feu_de_Bois_(Wood_Fire)\\Feu_de_Bois_(Wood_Fire)_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Feu_de_Bois_(Wood_Fire)/Feu_de_Bois_(Wood_Fire)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Feu_de_Bois_(Wood_Fire)/Feu_de_Bois_(Wood_Fire)_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Feu_de_Bois_(Wood_Fire)/Feu_de_Bois_(Wood_Fire)_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-feu-de-bois-wood-fire-candle-600g-fb600-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 154
+                "optionId": 3144
             },
             {
                 "size": "extra large",
@@ -686,22 +658,21 @@
                 "weight": "600g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Feu_de_Bois_(Wood_Fire)\\Feu_de_Bois_(Wood_Fire)_default.jpg",
-                        "hover": "images\\candle\\Feu_de_Bois_(Wood_Fire)\\Feu_de_Bois_(Wood_Fire)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Feu_de_Bois_(Wood_Fire)/Feu_de_Bois_(Wood_Fire)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Feu_de_Bois_(Wood_Fire)/Feu_de_Bois_(Wood_Fire)_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Feu_de_Bois_(Wood_Fire)\\Feu_de_Bois_(Wood_Fire)_detail_1.jpg",
-                        "images\\candle\\Feu_de_Bois_(Wood_Fire)\\Feu_de_Bois_(Wood_Fire)_detail_2.jpg",
-                        "images\\candle\\Feu_de_Bois_(Wood_Fire)\\Feu_de_Bois_(Wood_Fire)_detail_3.jpg",
-                        "images\\candle\\Feu_de_Bois_(Wood_Fire)\\Feu_de_Bois_(Wood_Fire)_detail_4.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Feu_de_Bois_(Wood_Fire)/Feu_de_Bois_(Wood_Fire)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Feu_de_Bois_(Wood_Fire)/Feu_de_Bois_(Wood_Fire)_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Feu_de_Bois_(Wood_Fire)/Feu_de_Bois_(Wood_Fire)_detail_3.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Feu_de_Bois_(Wood_Fire)/Feu_de_Bois_(Wood_Fire)_detail_4.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-feu-de-bois-wood-fire-candle-1500g-fb1500-1_1_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 155
+                "optionId": 3145
             }
         ],
         "collection": "Feu de Bois (Wood Fire)",
-        "sales": 310,
+        "sales": 268,
         "inStock": true
     },
     {
@@ -717,16 +688,15 @@
                 "weight": "300g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\34_boulevard_Saint_Germain\\34_boulevard_Saint_Germain_default.jpg",
-                        "hover": "images\\candle\\34_boulevard_Saint_Germain\\34_boulevard_Saint_Germain_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/34_boulevard_Saint_Germain/34_boulevard_Saint_Germain_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/34_boulevard_Saint_Germain/34_boulevard_Saint_Germain_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\34_boulevard_Saint_Germain\\34_boulevard_Saint_Germain_detail_1.jpg",
-                        "images\\candle\\34_boulevard_Saint_Germain\\34_boulevard_Saint_Germain_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/34_boulevard_Saint_Germain/34_boulevard_Saint_Germain_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/34_boulevard_Saint_Germain/34_boulevard_Saint_Germain_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-34-boulevard-saint-germain-candle-300g-34b300-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 161
+                "optionId": 3151
             },
             {
                 "size": "large",
@@ -734,16 +704,15 @@
                 "weight": "600g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\34_boulevard_Saint_Germain\\34_boulevard_Saint_Germain_default.jpg",
-                        "hover": "images\\candle\\34_boulevard_Saint_Germain\\34_boulevard_Saint_Germain_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/34_boulevard_Saint_Germain/34_boulevard_Saint_Germain_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/34_boulevard_Saint_Germain/34_boulevard_Saint_Germain_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\34_boulevard_Saint_Germain\\34_boulevard_Saint_Germain_detail_1.jpg",
-                        "images\\candle\\34_boulevard_Saint_Germain\\34_boulevard_Saint_Germain_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/34_boulevard_Saint_Germain/34_boulevard_Saint_Germain_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/34_boulevard_Saint_Germain/34_boulevard_Saint_Germain_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-34-boulevard-saint-germain-candle-600g-34b600-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 162
+                "optionId": 3152
             },
             {
                 "size": "extra large",
@@ -751,23 +720,22 @@
                 "weight": "600g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\34_boulevard_Saint_Germain\\34_boulevard_Saint_Germain_default.jpg",
-                        "hover": "images\\candle\\34_boulevard_Saint_Germain\\34_boulevard_Saint_Germain_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/34_boulevard_Saint_Germain/34_boulevard_Saint_Germain_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/34_boulevard_Saint_Germain/34_boulevard_Saint_Germain_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\34_boulevard_Saint_Germain\\34_boulevard_Saint_Germain_detail_1.jpg",
-                        "images\\candle\\34_boulevard_Saint_Germain\\34_boulevard_Saint_Germain_detail_2.jpg",
-                        "images\\candle\\34_boulevard_Saint_Germain\\34_boulevard_Saint_Germain_detail_3.jpg",
-                        "images\\candle\\34_boulevard_Saint_Germain\\34_boulevard_Saint_Germain_detail_4.jpg",
-                        "images\\candle\\34_boulevard_Saint_Germain\\34_boulevard_Saint_Germain_detail_5.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/34_boulevard_Saint_Germain/34_boulevard_Saint_Germain_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/34_boulevard_Saint_Germain/34_boulevard_Saint_Germain_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/34_boulevard_Saint_Germain/34_boulevard_Saint_Germain_detail_3.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/34_boulevard_Saint_Germain/34_boulevard_Saint_Germain_detail_4.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/34_boulevard_Saint_Germain/34_boulevard_Saint_Germain_detail_5.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-34-boulevard-saint-germain-candle-1500g-34b1500-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 163
+                "optionId": 3153
             }
         ],
         "collection": "34 boulevard Saint Germain",
-        "sales": 296,
+        "sales": 384,
         "inStock": true
     },
     {
@@ -783,17 +751,16 @@
                 "weight": "70g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Ambre_(Amber)\\Ambre_(Amber)_default.jpg",
-                        "hover": "images\\candle\\Ambre_(Amber)\\Ambre_(Amber)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Ambre_(Amber)/Ambre_(Amber)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Ambre_(Amber)/Ambre_(Amber)_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Ambre_(Amber)\\Ambre_(Amber)_detail_1.jpg",
-                        "images\\candle\\Ambre_(Amber)\\Ambre_(Amber)_detail_2.jpg",
-                        "images\\candle\\Ambre_(Amber)\\Ambre_(Amber)_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Ambre_(Amber)/Ambre_(Amber)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Ambre_(Amber)/Ambre_(Amber)_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Ambre_(Amber)/Ambre_(Amber)_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-ambre-small-candle-70g-ab70v-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 171
+                "optionId": 3161
             },
             {
                 "size": "classic",
@@ -801,17 +768,16 @@
                 "weight": "190g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Ambre_(Amber)\\Ambre_(Amber)_default.jpg",
-                        "hover": "images\\candle\\Ambre_(Amber)\\Ambre_(Amber)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Ambre_(Amber)/Ambre_(Amber)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Ambre_(Amber)/Ambre_(Amber)_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Ambre_(Amber)\\Ambre_(Amber)_detail_1.jpg",
-                        "images\\candle\\Ambre_(Amber)\\Ambre_(Amber)_detail_2.jpg",
-                        "images\\candle\\Ambre_(Amber)\\Ambre_(Amber)_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Ambre_(Amber)/Ambre_(Amber)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Ambre_(Amber)/Ambre_(Amber)_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Ambre_(Amber)/Ambre_(Amber)_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-ambre-amber-candle-190g-ab-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 172
+                "optionId": 3162
             },
             {
                 "size": "medium",
@@ -819,16 +785,15 @@
                 "weight": "300g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Ambre_(Amber)\\Ambre_(Amber)_default.jpg",
-                        "hover": "images\\candle\\Ambre_(Amber)\\Ambre_(Amber)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Ambre_(Amber)/Ambre_(Amber)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Ambre_(Amber)/Ambre_(Amber)_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Ambre_(Amber)\\Ambre_(Amber)_detail_1.jpg",
-                        "images\\candle\\Ambre_(Amber)\\Ambre_(Amber)_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Ambre_(Amber)/Ambre_(Amber)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Ambre_(Amber)/Ambre_(Amber)_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-ambre-amber-candle-300g-aba2-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 173
+                "optionId": 3163
             },
             {
                 "size": "large",
@@ -836,18 +801,17 @@
                 "weight": "600g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Ambre_(Amber)\\Ambre_(Amber)_default.jpg",
-                        "hover": "images\\candle\\Ambre_(Amber)\\Ambre_(Amber)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Ambre_(Amber)/Ambre_(Amber)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Ambre_(Amber)/Ambre_(Amber)_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Ambre_(Amber)\\Ambre_(Amber)_detail_1.jpg",
-                        "images\\candle\\Ambre_(Amber)\\Ambre_(Amber)_detail_2.jpg",
-                        "images\\candle\\Ambre_(Amber)\\Ambre_(Amber)_detail_3.jpg",
-                        "images\\candle\\Ambre_(Amber)\\Ambre_(Amber)_detail_4.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Ambre_(Amber)/Ambre_(Amber)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Ambre_(Amber)/Ambre_(Amber)_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Ambre_(Amber)/Ambre_(Amber)_detail_3.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Ambre_(Amber)/Ambre_(Amber)_detail_4.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-ambre-amber-candle-600g-amb600-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 174
+                "optionId": 3164
             },
             {
                 "size": "extra large",
@@ -855,23 +819,22 @@
                 "weight": "1500g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Ambre_(Amber)\\Ambre_(Amber)_default.jpg",
-                        "hover": "images\\candle\\Ambre_(Amber)\\Ambre_(Amber)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Ambre_(Amber)/Ambre_(Amber)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Ambre_(Amber)/Ambre_(Amber)_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Ambre_(Amber)\\Ambre_(Amber)_detail_1.jpg",
-                        "images\\candle\\Ambre_(Amber)\\Ambre_(Amber)_detail_2.jpg",
-                        "images\\candle\\Ambre_(Amber)\\Ambre_(Amber)_detail_3.jpg",
-                        "images\\candle\\Ambre_(Amber)\\Ambre_(Amber)_detail_4.jpg",
-                        "images\\candle\\Ambre_(Amber)\\Ambre_(Amber)_detail_5.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Ambre_(Amber)/Ambre_(Amber)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Ambre_(Amber)/Ambre_(Amber)_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Ambre_(Amber)/Ambre_(Amber)_detail_3.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Ambre_(Amber)/Ambre_(Amber)_detail_4.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Ambre_(Amber)/Ambre_(Amber)_detail_5.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-ambre-amber-candle-1500g-amb1500-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 175
+                "optionId": 3165
             }
         ],
         "collection": "Ambre (Amber)",
-        "sales": 489,
+        "sales": 435,
         "inStock": true
     },
     {
@@ -887,21 +850,20 @@
                 "weight": "190g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Oud\\Oud_default.jpg",
-                        "hover": "images\\candle\\Oud\\Oud_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Oud/Oud_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Oud/Oud_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Oud\\Oud_detail_1.jpg",
-                        "images\\candle\\Oud\\Oud_detail_2.jpg",
-                        "images\\candle\\Oud\\Oud_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Oud/Oud_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Oud/Oud_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Oud/Oud_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-oud-candle-190g-ou1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 181
+                "optionId": 3171
             }
         ],
         "collection": null,
-        "sales": 213,
+        "sales": 76,
         "inStock": false
     },
     {
@@ -917,21 +879,20 @@
                 "weight": "190g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Santal_(Sandalwood)\\Santal_(Sandalwood)_default.jpg",
-                        "hover": "images\\candle\\Santal_(Sandalwood)\\Santal_(Sandalwood)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Santal_(Sandalwood)/Santal_(Sandalwood)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Santal_(Sandalwood)/Santal_(Sandalwood)_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Santal_(Sandalwood)\\Santal_(Sandalwood)_detail_1.jpg",
-                        "images\\candle\\Santal_(Sandalwood)\\Santal_(Sandalwood)_detail_2.jpg",
-                        "images\\candle\\Santal_(Sandalwood)\\Santal_(Sandalwood)_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Santal_(Sandalwood)/Santal_(Sandalwood)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Santal_(Sandalwood)/Santal_(Sandalwood)_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Santal_(Sandalwood)/Santal_(Sandalwood)_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-santal-sandalwood-candle-190g-sa1-1_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 191
+                "optionId": 3181
             }
         ],
         "collection": null,
-        "sales": 223,
+        "sales": 133,
         "inStock": true
     },
     {
@@ -947,22 +908,21 @@
                 "weight": "190g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Maquis(Scrub)\\Maquis(Scrub)_default.jpg",
-                        "hover": "images\\candle\\Maquis(Scrub)\\Maquis(Scrub)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Maquis(Scrub)/Maquis(Scrub)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Maquis(Scrub)/Maquis(Scrub)_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Maquis(Scrub)\\Maquis(Scrub)_detail_1.jpg",
-                        "images\\candle\\Maquis(Scrub)\\Maquis(Scrub)_detail_2.jpg",
-                        "images\\candle\\Maquis(Scrub)\\Maquis(Scrub)_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Maquis(Scrub)/Maquis(Scrub)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Maquis(Scrub)/Maquis(Scrub)_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Maquis(Scrub)/Maquis(Scrub)_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-maquis-scrub-candle-190g-mq1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 201
+                "optionId": 3191
             }
         ],
         "collection": null,
-        "sales": 382,
-        "inStock": true
+        "sales": 365,
+        "inStock": false
     },
     {
         "id": 320,
@@ -977,22 +937,21 @@
                 "weight": "190g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Bois_Ciré_(Waxed_Wood)\\Bois_Ciré_(Waxed_Wood)_default.jpg",
-                        "hover": "images\\candle\\Bois_Ciré_(Waxed_Wood)\\Bois_Ciré_(Waxed_Wood)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Bois_Ciré_(Waxed_Wood)/Bois_Ciré_(Waxed_Wood)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Bois_Ciré_(Waxed_Wood)/Bois_Ciré_(Waxed_Wood)_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Bois_Ciré_(Waxed_Wood)\\Bois_Ciré_(Waxed_Wood)_detail_1.jpg",
-                        "images\\candle\\Bois_Ciré_(Waxed_Wood)\\Bois_Ciré_(Waxed_Wood)_detail_2.jpg",
-                        "images\\candle\\Bois_Ciré_(Waxed_Wood)\\Bois_Ciré_(Waxed_Wood)_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Bois_Ciré_(Waxed_Wood)/Bois_Ciré_(Waxed_Wood)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Bois_Ciré_(Waxed_Wood)/Bois_Ciré_(Waxed_Wood)_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Bois_Ciré_(Waxed_Wood)/Bois_Ciré_(Waxed_Wood)_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-bois-cire-waxed-wood-candle-190g-bc1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 211
+                "optionId": 3201
             }
         ],
         "collection": null,
-        "sales": 251,
-        "inStock": false
+        "sales": 270,
+        "inStock": true
     },
     {
         "id": 321,
@@ -1007,22 +966,21 @@
                 "weight": "190g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Opopanax\\Opopanax_default.jpg",
-                        "hover": "images\\candle\\Opopanax\\Opopanax_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Opopanax/Opopanax_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Opopanax/Opopanax_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Opopanax\\Opopanax_detail_1.jpg",
-                        "images\\candle\\Opopanax\\Opopanax_detail_2.jpg",
-                        "images\\candle\\Opopanax\\Opopanax_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Opopanax/Opopanax_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Opopanax/Opopanax_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Opopanax/Opopanax_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-opopanax-candle-190g-ox1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 221
+                "optionId": 3211
             }
         ],
         "collection": null,
-        "sales": 229,
-        "inStock": false
+        "sales": 198,
+        "inStock": true
     },
     {
         "id": 322,
@@ -1037,22 +995,21 @@
                 "weight": "190g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Noisetier_(Hazel_Tree)\\Noisetier_(Hazel_Tree)_default.jpg",
-                        "hover": "images\\candle\\Noisetier_(Hazel_Tree)\\Noisetier_(Hazel_Tree)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Noisetier_(Hazel_Tree)/Noisetier_(Hazel_Tree)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Noisetier_(Hazel_Tree)/Noisetier_(Hazel_Tree)_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Noisetier_(Hazel_Tree)\\Noisetier_(Hazel_Tree)_detail_1.jpg",
-                        "images\\candle\\Noisetier_(Hazel_Tree)\\Noisetier_(Hazel_Tree)_detail_2.jpg",
-                        "images\\candle\\Noisetier_(Hazel_Tree)\\Noisetier_(Hazel_Tree)_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Noisetier_(Hazel_Tree)/Noisetier_(Hazel_Tree)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Noisetier_(Hazel_Tree)/Noisetier_(Hazel_Tree)_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Noisetier_(Hazel_Tree)/Noisetier_(Hazel_Tree)_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-noisetier-hazel-tree-candle-190g-no1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 231
+                "optionId": 3221
             }
         ],
         "collection": null,
-        "sales": 474,
-        "inStock": true
+        "sales": 429,
+        "inStock": false
     },
     {
         "id": 323,
@@ -1067,21 +1024,20 @@
                 "weight": "190g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Chêne_(Oak_Tree)\\Chêne_(Oak_Tree)_default.jpg",
-                        "hover": "images\\candle\\Chêne_(Oak_Tree)\\Chêne_(Oak_Tree)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Chêne_(Oak_Tree)/Chêne_(Oak_Tree)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Chêne_(Oak_Tree)/Chêne_(Oak_Tree)_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Chêne_(Oak_Tree)\\Chêne_(Oak_Tree)_detail_1.jpg",
-                        "images\\candle\\Chêne_(Oak_Tree)\\Chêne_(Oak_Tree)_detail_2.jpg",
-                        "images\\candle\\Chêne_(Oak_Tree)\\Chêne_(Oak_Tree)_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Chêne_(Oak_Tree)/Chêne_(Oak_Tree)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Chêne_(Oak_Tree)/Chêne_(Oak_Tree)_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Chêne_(Oak_Tree)/Chêne_(Oak_Tree)_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-chene-oak-tree-candle-190g-cn1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 241
+                "optionId": 3231
             }
         ],
         "collection": null,
-        "sales": 95,
+        "sales": 135,
         "inStock": false
     },
     {
@@ -1097,17 +1053,16 @@
                 "weight": "70g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Cyprès_(Cypress)\\Cyprès_(Cypress)_default.jpg",
-                        "hover": "images\\candle\\Cyprès_(Cypress)\\Cyprès_(Cypress)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Cyprès_(Cypress)/Cyprès_(Cypress)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Cyprès_(Cypress)/Cyprès_(Cypress)_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Cyprès_(Cypress)\\Cyprès_(Cypress)_detail_1.jpg",
-                        "images\\candle\\Cyprès_(Cypress)\\Cyprès_(Cypress)_detail_2.jpg",
-                        "images\\candle\\Cyprès_(Cypress)\\Cyprès_(Cypress)_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Cyprès_(Cypress)/Cyprès_(Cypress)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Cyprès_(Cypress)/Cyprès_(Cypress)_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Cyprès_(Cypress)/Cyprès_(Cypress)_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-cypres-small-candle-70g-cp70v-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 251
+                "optionId": 3241
             },
             {
                 "size": "classic",
@@ -1115,22 +1070,21 @@
                 "weight": "190g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Cyprès_(Cypress)\\Cyprès_(Cypress)_default.jpg",
-                        "hover": "images\\candle\\Cyprès_(Cypress)\\Cyprès_(Cypress)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Cyprès_(Cypress)/Cyprès_(Cypress)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Cyprès_(Cypress)/Cyprès_(Cypress)_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Cyprès_(Cypress)\\Cyprès_(Cypress)_detail_1.jpg",
-                        "images\\candle\\Cyprès_(Cypress)\\Cyprès_(Cypress)_detail_2.jpg",
-                        "images\\candle\\Cyprès_(Cypress)\\Cyprès_(Cypress)_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Cyprès_(Cypress)/Cyprès_(Cypress)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Cyprès_(Cypress)/Cyprès_(Cypress)_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Cyprès_(Cypress)/Cyprès_(Cypress)_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-cypres-cypress-candle-190g-cp1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 252
+                "optionId": 3242
             }
         ],
         "collection": null,
-        "sales": 204,
-        "inStock": true
+        "sales": 105,
+        "inStock": false
     },
     {
         "id": 325,
@@ -1145,21 +1099,20 @@
                 "weight": "190g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\John_Galliano\\John_Galliano_default.jpg",
-                        "hover": "images\\candle\\John_Galliano\\John_Galliano_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/John_Galliano/John_Galliano_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/John_Galliano/John_Galliano_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\John_Galliano\\John_Galliano_detail_1.jpg",
-                        "images\\candle\\John_Galliano\\John_Galliano_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/John_Galliano/John_Galliano_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/John_Galliano/John_Galliano_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-john-galliano-candle-190g-jg2-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 261
+                "optionId": 3251
             }
         ],
         "collection": null,
-        "sales": 134,
-        "inStock": false
+        "sales": 83,
+        "inStock": true
     },
     {
         "id": 326,
@@ -1174,21 +1127,20 @@
                 "weight": "190g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Musc(Musk)\\Musc(Musk)_default.jpg",
-                        "hover": "images\\candle\\Musc(Musk)\\Musc(Musk)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Musc(Musk)/Musc(Musk)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Musc(Musk)/Musc(Musk)_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Musc(Musk)\\Musc(Musk)_detail_1.jpg",
-                        "images\\candle\\Musc(Musk)\\Musc(Musk)_detail_2.jpg",
-                        "images\\candle\\Musc(Musk)\\Musc(Musk)_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Musc(Musk)/Musc(Musk)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Musc(Musk)/Musc(Musk)_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Musc(Musk)/Musc(Musk)_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-musc-musk-candle-190g-mu1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 271
+                "optionId": 3261
             }
         ],
         "collection": null,
-        "sales": 31,
+        "sales": 359,
         "inStock": false
     },
     {
@@ -1204,22 +1156,21 @@
                 "weight": "190g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Benjoin(Benzoin)\\Benjoin(Benzoin)_default.jpg",
-                        "hover": "images\\candle\\Benjoin(Benzoin)\\Benjoin(Benzoin)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Benjoin(Benzoin)/Benjoin(Benzoin)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Benjoin(Benzoin)/Benjoin(Benzoin)_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Benjoin(Benzoin)\\Benjoin(Benzoin)_detail_1.jpg",
-                        "images\\candle\\Benjoin(Benzoin)\\Benjoin(Benzoin)_detail_2.jpg",
-                        "images\\candle\\Benjoin(Benzoin)\\Benjoin(Benzoin)_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Benjoin(Benzoin)/Benjoin(Benzoin)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Benjoin(Benzoin)/Benjoin(Benzoin)_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Benjoin(Benzoin)/Benjoin(Benzoin)_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-benjoin-candle-190g-bj1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 281
+                "optionId": 3271
             }
         ],
         "collection": null,
-        "sales": 199,
-        "inStock": false
+        "sales": 157,
+        "inStock": true
     },
     {
         "id": 328,
@@ -1234,22 +1185,21 @@
                 "weight": "190g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Myrrhe(Myrrh)\\Myrrhe(Myrrh)_default.jpg",
-                        "hover": "images\\candle\\Myrrhe(Myrrh)\\Myrrhe(Myrrh)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Myrrhe(Myrrh)/Myrrhe(Myrrh)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Myrrhe(Myrrh)/Myrrhe(Myrrh)_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Myrrhe(Myrrh)\\Myrrhe(Myrrh)_detail_1.jpg",
-                        "images\\candle\\Myrrhe(Myrrh)\\Myrrhe(Myrrh)_detail_2.jpg",
-                        "images\\candle\\Myrrhe(Myrrh)\\Myrrhe(Myrrh)_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Myrrhe(Myrrh)/Myrrhe(Myrrh)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Myrrhe(Myrrh)/Myrrhe(Myrrh)_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Myrrhe(Myrrh)/Myrrhe(Myrrh)_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-myrrhe-candle-190g-my1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 291
+                "optionId": 3281
             }
         ],
         "collection": null,
-        "sales": 474,
-        "inStock": false
+        "sales": 321,
+        "inStock": true
     },
     {
         "id": 329,
@@ -1264,21 +1214,20 @@
                 "weight": "190g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Cuir(Leather)\\Cuir(Leather)_default.jpg",
-                        "hover": "images\\candle\\Cuir(Leather)\\Cuir(Leather)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Cuir(Leather)/Cuir(Leather)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Cuir(Leather)/Cuir(Leather)_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Cuir(Leather)\\Cuir(Leather)_detail_1.jpg",
-                        "images\\candle\\Cuir(Leather)\\Cuir(Leather)_detail_2.jpg",
-                        "images\\candle\\Cuir(Leather)\\Cuir(Leather)_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Cuir(Leather)/Cuir(Leather)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Cuir(Leather)/Cuir(Leather)_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Cuir(Leather)/Cuir(Leather)_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-cuir-leather-candle-190g-cu1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 301
+                "optionId": 3291
             }
         ],
         "collection": null,
-        "sales": 199,
+        "sales": 460,
         "inStock": true
     },
     {
@@ -1294,17 +1243,16 @@
                 "weight": "70g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Baies(Berries)\\Baies(Berries)_default.jpg",
-                        "hover": "images\\candle\\Baies(Berries)\\Baies(Berries)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Baies(Berries)/Baies(Berries)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Baies(Berries)/Baies(Berries)_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Baies(Berries)\\Baies(Berries)_detail_1.jpg",
-                        "images\\candle\\Baies(Berries)\\Baies(Berries)_detail_2.jpg",
-                        "images\\candle\\Baies(Berries)\\Baies(Berries)_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Baies(Berries)/Baies(Berries)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Baies(Berries)/Baies(Berries)_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Baies(Berries)/Baies(Berries)_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-baies-berries-small-candle-70g-b70v-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 311
+                "optionId": 3301
             },
             {
                 "size": "classic",
@@ -1312,17 +1260,16 @@
                 "weight": "190g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Baies(Berries)\\Baies(Berries)_default.jpg",
-                        "hover": "images\\candle\\Baies(Berries)\\Baies(Berries)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Baies(Berries)/Baies(Berries)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Baies(Berries)/Baies(Berries)_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Baies(Berries)\\Baies(Berries)_detail_1.jpg",
-                        "images\\candle\\Baies(Berries)\\Baies(Berries)_detail_2.jpg",
-                        "images\\candle\\Baies(Berries)\\Baies(Berries)_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Baies(Berries)/Baies(Berries)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Baies(Berries)/Baies(Berries)_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Baies(Berries)/Baies(Berries)_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-baies-berries-candle-190g-b1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 312
+                "optionId": 3302
             },
             {
                 "size": "medium",
@@ -1330,16 +1277,15 @@
                 "weight": "300g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Baies(Berries)\\Baies(Berries)_default.jpg",
-                        "hover": "images\\candle\\Baies(Berries)\\Baies(Berries)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Baies(Berries)/Baies(Berries)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Baies(Berries)/Baies(Berries)_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Baies(Berries)\\Baies(Berries)_detail_1.jpg",
-                        "images\\candle\\Baies(Berries)\\Baies(Berries)_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Baies(Berries)/Baies(Berries)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Baies(Berries)/Baies(Berries)_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-baies-berries-candle-300g-bn2-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 313
+                "optionId": 3303
             },
             {
                 "size": "large",
@@ -1347,17 +1293,16 @@
                 "weight": "600g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Baies(Berries)\\Baies(Berries)_default.jpg",
-                        "hover": "images\\candle\\Baies(Berries)\\Baies(Berries)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Baies(Berries)/Baies(Berries)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Baies(Berries)/Baies(Berries)_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Baies(Berries)\\Baies(Berries)_detail_1.jpg",
-                        "images\\candle\\Baies(Berries)\\Baies(Berries)_detail_2.jpg",
-                        "images\\candle\\Baies(Berries)\\Baies(Berries)_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Baies(Berries)/Baies(Berries)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Baies(Berries)/Baies(Berries)_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Baies(Berries)/Baies(Berries)_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-baies-berries-candle-600g-b600-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 314
+                "optionId": 3304
             },
             {
                 "size": "extra large",
@@ -1365,24 +1310,23 @@
                 "weight": "1500g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Baies(Berries)\\Baies(Berries)_default.jpg",
-                        "hover": "images\\candle\\Baies(Berries)\\Baies(Berries)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Baies(Berries)/Baies(Berries)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Baies(Berries)/Baies(Berries)_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Baies(Berries)\\Baies(Berries)_detail_1.jpg",
-                        "images\\candle\\Baies(Berries)\\Baies(Berries)_detail_2.jpg",
-                        "images\\candle\\Baies(Berries)\\Baies(Berries)_detail_3.jpg",
-                        "images\\candle\\Baies(Berries)\\Baies(Berries)_detail_4.jpg",
-                        "images\\candle\\Baies(Berries)\\Baies(Berries)_detail_5.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Baies(Berries)/Baies(Berries)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Baies(Berries)/Baies(Berries)_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Baies(Berries)/Baies(Berries)_detail_3.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Baies(Berries)/Baies(Berries)_detail_4.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Baies(Berries)/Baies(Berries)_detail_5.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-baies-berries-candle-1500g-b1500-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 315
+                "optionId": 3305
             }
         ],
         "collection": "Baies(Berries)",
-        "sales": 27,
-        "inStock": true
+        "sales": 439,
+        "inStock": false
     },
     {
         "id": 331,
@@ -1397,21 +1341,20 @@
                 "weight": "190g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Oranger(Orange_Tree)\\Oranger(Orange_Tree)_default.jpg",
-                        "hover": "images\\candle\\Oranger(Orange_Tree)\\Oranger(Orange_Tree)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Oranger(Orange_Tree)/Oranger(Orange_Tree)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Oranger(Orange_Tree)/Oranger(Orange_Tree)_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Oranger(Orange_Tree)\\Oranger(Orange_Tree)_detail_1.jpg",
-                        "images\\candle\\Oranger(Orange_Tree)\\Oranger(Orange_Tree)_detail_2.jpg",
-                        "images\\candle\\Oranger(Orange_Tree)\\Oranger(Orange_Tree)_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Oranger(Orange_Tree)/Oranger(Orange_Tree)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Oranger(Orange_Tree)/Oranger(Orange_Tree)_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Oranger(Orange_Tree)/Oranger(Orange_Tree)_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-oranger-orange-tree-candle-190g-o1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 321
+                "optionId": 3311
             }
         ],
         "collection": null,
-        "sales": 386,
+        "sales": 210,
         "inStock": false
     },
     {
@@ -1427,17 +1370,16 @@
                 "weight": "70g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Figuier(Fig_Tree)\\Figuier(Fig_Tree)_default.jpg",
-                        "hover": "images\\candle\\Figuier(Fig_Tree)\\Figuier(Fig_Tree)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Figuier(Fig_Tree)/Figuier(Fig_Tree)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Figuier(Fig_Tree)/Figuier(Fig_Tree)_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Figuier(Fig_Tree)\\Figuier(Fig_Tree)_detail_1.jpg",
-                        "images\\candle\\Figuier(Fig_Tree)\\Figuier(Fig_Tree)_detail_2.jpg",
-                        "images\\candle\\Figuier(Fig_Tree)\\Figuier(Fig_Tree)_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Figuier(Fig_Tree)/Figuier(Fig_Tree)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Figuier(Fig_Tree)/Figuier(Fig_Tree)_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Figuier(Fig_Tree)/Figuier(Fig_Tree)_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-figuier-fig-tree-candle-70g-fi70v-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 331
+                "optionId": 3321
             },
             {
                 "size": "classic",
@@ -1445,17 +1387,16 @@
                 "weight": "190g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Figuier(Fig_Tree)\\Figuier(Fig_Tree)_default.jpg",
-                        "hover": "images\\candle\\Figuier(Fig_Tree)\\Figuier(Fig_Tree)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Figuier(Fig_Tree)/Figuier(Fig_Tree)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Figuier(Fig_Tree)/Figuier(Fig_Tree)_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Figuier(Fig_Tree)\\Figuier(Fig_Tree)_detail_1.jpg",
-                        "images\\candle\\Figuier(Fig_Tree)\\Figuier(Fig_Tree)_detail_2.jpg",
-                        "images\\candle\\Figuier(Fig_Tree)\\Figuier(Fig_Tree)_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Figuier(Fig_Tree)/Figuier(Fig_Tree)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Figuier(Fig_Tree)/Figuier(Fig_Tree)_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Figuier(Fig_Tree)/Figuier(Fig_Tree)_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-figuier-fig-tree-candle-190g-fi1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 332
+                "optionId": 3322
             },
             {
                 "size": "medium",
@@ -1463,16 +1404,15 @@
                 "weight": "300g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Figuier(Fig_Tree)\\Figuier(Fig_Tree)_default.jpg",
-                        "hover": "images\\candle\\Figuier(Fig_Tree)\\Figuier(Fig_Tree)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Figuier(Fig_Tree)/Figuier(Fig_Tree)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Figuier(Fig_Tree)/Figuier(Fig_Tree)_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Figuier(Fig_Tree)\\Figuier(Fig_Tree)_detail_1.jpg",
-                        "images\\candle\\Figuier(Fig_Tree)\\Figuier(Fig_Tree)_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Figuier(Fig_Tree)/Figuier(Fig_Tree)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Figuier(Fig_Tree)/Figuier(Fig_Tree)_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-figuier-fig-tree-candle-300g-fiv2-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 333
+                "optionId": 3323
             },
             {
                 "size": "extra large",
@@ -1480,24 +1420,23 @@
                 "weight": "1500g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Figuier(Fig_Tree)\\Figuier(Fig_Tree)_default.jpg",
-                        "hover": "images\\candle\\Figuier(Fig_Tree)\\Figuier(Fig_Tree)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Figuier(Fig_Tree)/Figuier(Fig_Tree)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Figuier(Fig_Tree)/Figuier(Fig_Tree)_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Figuier(Fig_Tree)\\Figuier(Fig_Tree)_detail_1.jpg",
-                        "images\\candle\\Figuier(Fig_Tree)\\Figuier(Fig_Tree)_detail_2.jpg",
-                        "images\\candle\\Figuier(Fig_Tree)\\Figuier(Fig_Tree)_detail_3.jpg",
-                        "images\\candle\\Figuier(Fig_Tree)\\Figuier(Fig_Tree)_detail_4.jpg",
-                        "images\\candle\\Figuier(Fig_Tree)\\Figuier(Fig_Tree)_detail_5.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Figuier(Fig_Tree)/Figuier(Fig_Tree)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Figuier(Fig_Tree)/Figuier(Fig_Tree)_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Figuier(Fig_Tree)/Figuier(Fig_Tree)_detail_3.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Figuier(Fig_Tree)/Figuier(Fig_Tree)_detail_4.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Figuier(Fig_Tree)/Figuier(Fig_Tree)_detail_5.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-figuier-fig-tree-candle-1500g-fi1500-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 334
+                "optionId": 3324
             }
         ],
         "collection": "Figuier(Fig Tree)",
-        "sales": 400,
-        "inStock": false
+        "sales": 111,
+        "inStock": true
     },
     {
         "id": 333,
@@ -1512,22 +1451,21 @@
                 "weight": "190g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Coing(Quince)\\Coing(Quince)_default.jpg",
-                        "hover": "images\\candle\\Coing(Quince)\\Coing(Quince)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Coing(Quince)/Coing(Quince)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Coing(Quince)/Coing(Quince)_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Coing(Quince)\\Coing(Quince)_detail_1.jpg",
-                        "images\\candle\\Coing(Quince)\\Coing(Quince)_detail_2.jpg",
-                        "images\\candle\\Coing(Quince)\\Coing(Quince)_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Coing(Quince)/Coing(Quince)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Coing(Quince)/Coing(Quince)_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Coing(Quince)/Coing(Quince)_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-coing-quince-candle-190g-co1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 341
+                "optionId": 3331
             }
         ],
         "collection": null,
-        "sales": 483,
-        "inStock": true
+        "sales": 21,
+        "inStock": false
     },
     {
         "id": 334,
@@ -1542,21 +1480,20 @@
                 "weight": "190g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Oyédo\\Oyédo_default.jpg",
-                        "hover": "images\\candle\\Oyédo\\Oyédo_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Oyédo/Oyédo_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Oyédo/Oyédo_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Oyédo\\Oyédo_detail_1.jpg",
-                        "images\\candle\\Oyédo\\Oyédo_detail_2.jpg",
-                        "images\\candle\\Oyédo\\Oyédo_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Oyédo/Oyédo_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Oyédo/Oyédo_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Oyédo/Oyédo_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-oyedo-candle-190g-oy1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 351
+                "optionId": 3341
             }
         ],
         "collection": null,
-        "sales": 94,
+        "sales": 302,
         "inStock": false
     },
     {
@@ -1572,21 +1509,20 @@
                 "weight": "190g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Narguilé\\Narguilé_default.jpg",
-                        "hover": "images\\candle\\Narguilé\\Narguilé_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Narguilé/Narguilé_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Narguilé/Narguilé_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Narguilé\\Narguilé_detail_1.jpg",
-                        "images\\candle\\Narguilé\\Narguilé_detail_2.jpg",
-                        "images\\candle\\Narguilé\\Narguilé_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Narguilé/Narguilé_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Narguilé/Narguilé_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Narguilé/Narguilé_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-narguile-candle-190g-ng1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 361
+                "optionId": 3351
             }
         ],
         "collection": null,
-        "sales": 195,
+        "sales": 440,
         "inStock": false
     },
     {
@@ -1602,21 +1538,20 @@
                 "weight": "190g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Vanille(Vanilla)\\Vanille(Vanilla)_default.jpg",
-                        "hover": "images\\candle\\Vanille(Vanilla)\\Vanille(Vanilla)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Vanille(Vanilla)/Vanille(Vanilla)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Vanille(Vanilla)/Vanille(Vanilla)_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Vanille(Vanilla)\\Vanille(Vanilla)_detail_1.jpg",
-                        "images\\candle\\Vanille(Vanilla)\\Vanille(Vanilla)_detail_2.jpg",
-                        "images\\candle\\Vanille(Vanilla)\\Vanille(Vanilla)_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Vanille(Vanilla)/Vanille(Vanilla)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Vanille(Vanilla)/Vanille(Vanilla)_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Vanille(Vanilla)/Vanille(Vanilla)_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-vanille-vanilla-candle-190g-va1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 371
+                "optionId": 3361
             }
         ],
         "collection": null,
-        "sales": 366,
+        "sales": 265,
         "inStock": false
     },
     {
@@ -1632,22 +1567,21 @@
                 "weight": "190g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Cannelle(Cinnamon)\\Cannelle(Cinnamon)_default.jpg",
-                        "hover": "images\\candle\\Cannelle(Cinnamon)\\Cannelle(Cinnamon)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Cannelle(Cinnamon)/Cannelle(Cinnamon)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Cannelle(Cinnamon)/Cannelle(Cinnamon)_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Cannelle(Cinnamon)\\Cannelle(Cinnamon)_detail_1.jpg",
-                        "images\\candle\\Cannelle(Cinnamon)\\Cannelle(Cinnamon)_detail_2.jpg",
-                        "images\\candle\\Cannelle(Cinnamon)\\Cannelle(Cinnamon)_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Cannelle(Cinnamon)/Cannelle(Cinnamon)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Cannelle(Cinnamon)/Cannelle(Cinnamon)_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Cannelle(Cinnamon)/Cannelle(Cinnamon)_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-cannelle-cinnamon-candle-190g-c1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 381
+                "optionId": 3371
             }
         ],
         "collection": null,
-        "sales": 366,
-        "inStock": true
+        "sales": 84,
+        "inStock": false
     },
     {
         "id": 338,
@@ -1662,21 +1596,20 @@
                 "weight": "190g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Thé(Tea)\\Thé(Tea)_default.jpg",
-                        "hover": "images\\candle\\Thé(Tea)\\Thé(Tea)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Thé(Tea)/Thé(Tea)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Thé(Tea)/Thé(Tea)_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Thé(Tea)\\Thé(Tea)_detail_1.jpg",
-                        "images\\candle\\Thé(Tea)\\Thé(Tea)_detail_2.jpg",
-                        "images\\candle\\Thé(Tea)\\Thé(Tea)_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Thé(Tea)/Thé(Tea)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Thé(Tea)/Thé(Tea)_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Thé(Tea)/Thé(Tea)_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-the-tea-candle-190g-t1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 391
+                "optionId": 3381
             }
         ],
         "collection": null,
-        "sales": 284,
+        "sales": 332,
         "inStock": false
     },
     {
@@ -1692,22 +1625,21 @@
                 "weight": "190g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Genévrier(Juniper)\\Genévrier(Juniper)_default.jpg",
-                        "hover": "images\\candle\\Genévrier(Juniper)\\Genévrier(Juniper)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Genévrier(Juniper)/Genévrier(Juniper)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Genévrier(Juniper)/Genévrier(Juniper)_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Genévrier(Juniper)\\Genévrier(Juniper)_detail_1.jpg",
-                        "images\\candle\\Genévrier(Juniper)\\Genévrier(Juniper)_detail_2.jpg",
-                        "images\\candle\\Genévrier(Juniper)\\Genévrier(Juniper)_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Genévrier(Juniper)/Genévrier(Juniper)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Genévrier(Juniper)/Genévrier(Juniper)_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Genévrier(Juniper)/Genévrier(Juniper)_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-juniper-genevrier-candle-190g-gv1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 401
+                "optionId": 3391
             }
         ],
         "collection": null,
-        "sales": 193,
-        "inStock": false
+        "sales": 20,
+        "inStock": true
     },
     {
         "id": 340,
@@ -1722,17 +1654,16 @@
                 "weight": "70g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Pomander\\Pomander_default.jpg",
-                        "hover": "images\\candle\\Pomander\\Pomander_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Pomander/Pomander_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Pomander/Pomander_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Pomander\\Pomander_detail_1.jpg",
-                        "images\\candle\\Pomander\\Pomander_detail_2.jpg",
-                        "images\\candle\\Pomander\\Pomander_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Pomander/Pomander_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Pomander/Pomander_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Pomander/Pomander_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-pomander-small-candle-70g-pm70v-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 411
+                "optionId": 3401
             },
             {
                 "size": "classic",
@@ -1740,22 +1671,21 @@
                 "weight": "190g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Pomander\\Pomander_default.jpg",
-                        "hover": "images\\candle\\Pomander\\Pomander_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Pomander/Pomander_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Pomander/Pomander_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Pomander\\Pomander_detail_1.jpg",
-                        "images\\candle\\Pomander\\Pomander_detail_2.jpg",
-                        "images\\candle\\Pomander\\Pomander_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Pomander/Pomander_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Pomander/Pomander_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Pomander/Pomander_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-pomander-candle-190g-pm1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 412
+                "optionId": 3402
             }
         ],
         "collection": null,
-        "sales": 421,
-        "inStock": true
+        "sales": 349,
+        "inStock": false
     },
     {
         "id": 341,
@@ -1770,17 +1700,16 @@
                 "weight": "70g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Verveine(Lemon_Verbena_Scented)\\Verveine(Lemon_Verbena_Scented)_default.jpg",
-                        "hover": "images\\candle\\Verveine(Lemon_Verbena_Scented)\\Verveine(Lemon_Verbena_Scented)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Verveine(Lemon_Verbena_Scented)/Verveine(Lemon_Verbena_Scented)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Verveine(Lemon_Verbena_Scented)/Verveine(Lemon_Verbena_Scented)_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Verveine(Lemon_Verbena_Scented)\\Verveine(Lemon_Verbena_Scented)_detail_1.jpg",
-                        "images\\candle\\Verveine(Lemon_Verbena_Scented)\\Verveine(Lemon_Verbena_Scented)_detail_2.jpg",
-                        "images\\candle\\Verveine(Lemon_Verbena_Scented)\\Verveine(Lemon_Verbena_Scented)_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Verveine(Lemon_Verbena_Scented)/Verveine(Lemon_Verbena_Scented)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Verveine(Lemon_Verbena_Scented)/Verveine(Lemon_Verbena_Scented)_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Verveine(Lemon_Verbena_Scented)/Verveine(Lemon_Verbena_Scented)_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-verveine-lemon-verbena-small-candle-70g-v70v-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 421
+                "optionId": 3411
             },
             {
                 "size": "classic",
@@ -1788,22 +1717,21 @@
                 "weight": "190g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Verveine(Lemon_Verbena_Scented)\\Verveine(Lemon_Verbena_Scented)_default.jpg",
-                        "hover": "images\\candle\\Verveine(Lemon_Verbena_Scented)\\Verveine(Lemon_Verbena_Scented)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Verveine(Lemon_Verbena_Scented)/Verveine(Lemon_Verbena_Scented)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Verveine(Lemon_Verbena_Scented)/Verveine(Lemon_Verbena_Scented)_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Verveine(Lemon_Verbena_Scented)\\Verveine(Lemon_Verbena_Scented)_detail_1.jpg",
-                        "images\\candle\\Verveine(Lemon_Verbena_Scented)\\Verveine(Lemon_Verbena_Scented)_detail_2.jpg",
-                        "images\\candle\\Verveine(Lemon_Verbena_Scented)\\Verveine(Lemon_Verbena_Scented)_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Verveine(Lemon_Verbena_Scented)/Verveine(Lemon_Verbena_Scented)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Verveine(Lemon_Verbena_Scented)/Verveine(Lemon_Verbena_Scented)_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Verveine(Lemon_Verbena_Scented)/Verveine(Lemon_Verbena_Scented)_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-verveine-lemon-verbena-scented-candle-190g-v1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 422
+                "optionId": 3412
             }
         ],
         "collection": null,
-        "sales": 400,
-        "inStock": true
+        "sales": 455,
+        "inStock": false
     },
     {
         "id": 342,
@@ -1818,21 +1746,20 @@
                 "weight": "190g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Patchouli\\Patchouli_default.jpg",
-                        "hover": "images\\candle\\Patchouli\\Patchouli_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Patchouli/Patchouli_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Patchouli/Patchouli_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Patchouli\\Patchouli_detail_1.jpg",
-                        "images\\candle\\Patchouli\\Patchouli_detail_2.jpg",
-                        "images\\candle\\Patchouli\\Patchouli_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Patchouli/Patchouli_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Patchouli/Patchouli_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Patchouli/Patchouli_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-patchouli-candle-190g-pa1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 431
+                "optionId": 3421
             }
         ],
         "collection": null,
-        "sales": 366,
+        "sales": 140,
         "inStock": false
     },
     {
@@ -1848,20 +1775,19 @@
                 "weight": "220g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\L'Elide\\L'Elide_default.jpg",
-                        "hover": "images\\candle\\L'Elide\\L'Elide_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/L'Elide/L'Elide_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/L'Elide/L'Elide_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\L'Elide\\L'Elide_detail_1.jpg",
-                        "images\\candle\\L'Elide\\L'Elide_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/L'Elide/L'Elide_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/L'Elide/L'Elide_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-elide-candle-220g-34bfau220-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 441
+                "optionId": 3431
             }
         ],
         "collection": null,
-        "sales": 487,
+        "sales": 443,
         "inStock": true
     },
     {
@@ -1877,22 +1803,21 @@
                 "weight": "190g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Mousses(Moss)\\Mousses(Moss)_default.jpg",
-                        "hover": "images\\candle\\Mousses(Moss)\\Mousses(Moss)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Mousses(Moss)/Mousses(Moss)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Mousses(Moss)/Mousses(Moss)_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Mousses(Moss)\\Mousses(Moss)_detail_1.jpg",
-                        "images\\candle\\Mousses(Moss)\\Mousses(Moss)_detail_2.jpg",
-                        "images\\candle\\Mousses(Moss)\\Mousses(Moss)_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Mousses(Moss)/Mousses(Moss)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Mousses(Moss)/Mousses(Moss)_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Mousses(Moss)/Mousses(Moss)_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-mousses-moss-candle-190g-ms1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 451
+                "optionId": 3441
             }
         ],
         "collection": null,
-        "sales": 461,
-        "inStock": false
+        "sales": 277,
+        "inStock": true
     },
     {
         "id": 345,
@@ -1907,17 +1832,16 @@
                 "weight": "70g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Feuille_de_Lavande(Lavender_Leaf)\\Feuille_de_Lavande(Lavender_Leaf)_default.jpg",
-                        "hover": "images\\candle\\Feuille_de_Lavande(Lavender_Leaf)\\Feuille_de_Lavande(Lavender_Leaf)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Feuille_de_Lavande(Lavender_Leaf)/Feuille_de_Lavande(Lavender_Leaf)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Feuille_de_Lavande(Lavender_Leaf)/Feuille_de_Lavande(Lavender_Leaf)_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Feuille_de_Lavande(Lavender_Leaf)\\Feuille_de_Lavande(Lavender_Leaf)_detail_1.jpg",
-                        "images\\candle\\Feuille_de_Lavande(Lavender_Leaf)\\Feuille_de_Lavande(Lavender_Leaf)_detail_2.jpg",
-                        "images\\candle\\Feuille_de_Lavande(Lavender_Leaf)\\Feuille_de_Lavande(Lavender_Leaf)_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Feuille_de_Lavande(Lavender_Leaf)/Feuille_de_Lavande(Lavender_Leaf)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Feuille_de_Lavande(Lavender_Leaf)/Feuille_de_Lavande(Lavender_Leaf)_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Feuille_de_Lavande(Lavender_Leaf)/Feuille_de_Lavande(Lavender_Leaf)_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-feuille-de-lavande-small-candle-70g-fl70v-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 461
+                "optionId": 3451
             },
             {
                 "size": "classic",
@@ -1925,22 +1849,21 @@
                 "weight": "190g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Feuille_de_Lavande(Lavender_Leaf)\\Feuille_de_Lavande(Lavender_Leaf)_default.jpg",
-                        "hover": "images\\candle\\Feuille_de_Lavande(Lavender_Leaf)\\Feuille_de_Lavande(Lavender_Leaf)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Feuille_de_Lavande(Lavender_Leaf)/Feuille_de_Lavande(Lavender_Leaf)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Feuille_de_Lavande(Lavender_Leaf)/Feuille_de_Lavande(Lavender_Leaf)_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Feuille_de_Lavande(Lavender_Leaf)\\Feuille_de_Lavande(Lavender_Leaf)_detail_1.jpg",
-                        "images\\candle\\Feuille_de_Lavande(Lavender_Leaf)\\Feuille_de_Lavande(Lavender_Leaf)_detail_2.jpg",
-                        "images\\candle\\Feuille_de_Lavande(Lavender_Leaf)\\Feuille_de_Lavande(Lavender_Leaf)_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Feuille_de_Lavande(Lavender_Leaf)/Feuille_de_Lavande(Lavender_Leaf)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Feuille_de_Lavande(Lavender_Leaf)/Feuille_de_Lavande(Lavender_Leaf)_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Feuille_de_Lavande(Lavender_Leaf)/Feuille_de_Lavande(Lavender_Leaf)_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-feuille-de-lavande-lavender-leaf-candle-190g-fl1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 462
+                "optionId": 3452
             }
         ],
         "collection": null,
-        "sales": 132,
-        "inStock": false
+        "sales": 17,
+        "inStock": true
     },
     {
         "id": 346,
@@ -1955,22 +1878,21 @@
                 "weight": "190g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Eucalyptus\\Eucalyptus_default.jpg",
-                        "hover": "images\\candle\\Eucalyptus\\Eucalyptus_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Eucalyptus/Eucalyptus_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Eucalyptus/Eucalyptus_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Eucalyptus\\Eucalyptus_detail_1.jpg",
-                        "images\\candle\\Eucalyptus\\Eucalyptus_detail_2.jpg",
-                        "images\\candle\\Eucalyptus\\Eucalyptus_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Eucalyptus/Eucalyptus_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Eucalyptus/Eucalyptus_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Eucalyptus/Eucalyptus_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eucalyptus-candle-190g-eu1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 471
+                "optionId": 3461
             }
         ],
         "collection": null,
-        "sales": 443,
-        "inStock": false
+        "sales": 35,
+        "inStock": true
     },
     {
         "id": 347,
@@ -1985,22 +1907,21 @@
                 "weight": "190g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Vétyver(Vetiver)\\Vétyver(Vetiver)_default.jpg",
-                        "hover": "images\\candle\\Vétyver(Vetiver)\\Vétyver(Vetiver)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Vétyver(Vetiver)/Vétyver(Vetiver)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Vétyver(Vetiver)/Vétyver(Vetiver)_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Vétyver(Vetiver)\\Vétyver(Vetiver)_detail_1.jpg",
-                        "images\\candle\\Vétyver(Vetiver)\\Vétyver(Vetiver)_detail_2.jpg",
-                        "images\\candle\\Vétyver(Vetiver)\\Vétyver(Vetiver)_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Vétyver(Vetiver)/Vétyver(Vetiver)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Vétyver(Vetiver)/Vétyver(Vetiver)_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Vétyver(Vetiver)/Vétyver(Vetiver)_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-vetyver-vetiver-candle-190g-vy1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 481
+                "optionId": 3471
             }
         ],
         "collection": null,
-        "sales": 166,
-        "inStock": false
+        "sales": 19,
+        "inStock": true
     },
     {
         "id": 348,
@@ -2015,22 +1936,21 @@
                 "weight": "190g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Foin_Coupé(Fresh_Mown_Hay)\\Foin_Coupé(Fresh_Mown_Hay)_default.jpg",
-                        "hover": "images\\candle\\Foin_Coupé(Fresh_Mown_Hay)\\Foin_Coupé(Fresh_Mown_Hay)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Foin_Coupé(Fresh_Mown_Hay)/Foin_Coupé(Fresh_Mown_Hay)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Foin_Coupé(Fresh_Mown_Hay)/Foin_Coupé(Fresh_Mown_Hay)_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Foin_Coupé(Fresh_Mown_Hay)\\Foin_Coupé(Fresh_Mown_Hay)_detail_1.jpg",
-                        "images\\candle\\Foin_Coupé(Fresh_Mown_Hay)\\Foin_Coupé(Fresh_Mown_Hay)_detail_2.jpg",
-                        "images\\candle\\Foin_Coupé(Fresh_Mown_Hay)\\Foin_Coupé(Fresh_Mown_Hay)_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Foin_Coupé(Fresh_Mown_Hay)/Foin_Coupé(Fresh_Mown_Hay)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Foin_Coupé(Fresh_Mown_Hay)/Foin_Coupé(Fresh_Mown_Hay)_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Foin_Coupé(Fresh_Mown_Hay)/Foin_Coupé(Fresh_Mown_Hay)_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-fresh-mown-hay-candle-190g-fc1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 491
+                "optionId": 3481
             }
         ],
         "collection": null,
-        "sales": 365,
-        "inStock": false
+        "sales": 85,
+        "inStock": true
     },
     {
         "id": 349,
@@ -2045,21 +1965,20 @@
                 "weight": "190g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\candle\\Menthe_Verte(Spearmint)\\Menthe_Verte(Spearmint)_default.jpg",
-                        "hover": "images\\candle\\Menthe_Verte(Spearmint)\\Menthe_Verte(Spearmint)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Menthe_Verte(Spearmint)/Menthe_Verte(Spearmint)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Menthe_Verte(Spearmint)/Menthe_Verte(Spearmint)_hover.jpg"
                     },
                     "detail": [
-                        "images\\candle\\Menthe_Verte(Spearmint)\\Menthe_Verte(Spearmint)_detail_1.jpg",
-                        "images\\candle\\Menthe_Verte(Spearmint)\\Menthe_Verte(Spearmint)_detail_2.jpg",
-                        "images\\candle\\Menthe_Verte(Spearmint)\\Menthe_Verte(Spearmint)_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Menthe_Verte(Spearmint)/Menthe_Verte(Spearmint)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Menthe_Verte(Spearmint)/Menthe_Verte(Spearmint)_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/candle/Menthe_Verte(Spearmint)/Menthe_Verte(Spearmint)_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-menthe-verte-spearmint-candle-190g-mv1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 511
+                "optionId": 3491
             }
         ],
         "collection": null,
-        "sales": 287,
+        "sales": 188,
         "inStock": false
     }
 ]

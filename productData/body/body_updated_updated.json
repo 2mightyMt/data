@@ -18,21 +18,20 @@
                 "weight": "200g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\body\\34_Boulevard_Saint_Germain\\34_Boulevard_Saint_Germain_default.jpg",
-                        "hover": "images\\body\\34_Boulevard_Saint_Germain\\34_Boulevard_Saint_Germain_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/34_Boulevard_Saint_Germain/34_Boulevard_Saint_Germain_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/34_Boulevard_Saint_Germain/34_Boulevard_Saint_Germain_hover.jpg"
                     },
                     "detail": [
-                        "images\\body\\34_Boulevard_Saint_Germain\\34_Boulevard_Saint_Germain_detail_1.jpg",
-                        "images\\body\\34_Boulevard_Saint_Germain\\34_Boulevard_Saint_Germain_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/34_Boulevard_Saint_Germain/34_Boulevard_Saint_Germain_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/34_Boulevard_Saint_Germain/34_Boulevard_Saint_Germain_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-34-boulevard-saint-germain-perfumed-soap-s34b-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 11
+                "optionId": 1001
             }
         ],
         "collection": "34 Boulevard Saint Germain",
-        "sales": 253,
-        "inStock": false
+        "sales": 213,
+        "inStock": true
     },
     {
         "id": 101,
@@ -53,21 +52,20 @@
                 "weight": "200ml",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\body\\Do_Son\\Do_Son_default.jpg",
-                        "hover": "images\\body\\Do_Son\\Do_Son_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Do_Son/Do_Son_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Do_Son/Do_Son_hover.jpg"
                     },
                     "detail": [
-                        "images\\body\\Do_Son\\Do_Son_detail_1.jpg",
-                        "images\\body\\Do_Son\\Do_Son_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Do_Son/Do_Son_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Do_Son/Do_Son_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-do-son-body-mist-dosmist-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 21
+                "optionId": 1011
             }
         ],
         "collection": "Do Son",
-        "sales": 108,
-        "inStock": false
+        "sales": 467,
+        "inStock": true
     },
     {
         "id": 102,
@@ -88,20 +86,19 @@
                 "weight": "45ml",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\body\\Do_Son\\Do_Son_default.jpg",
-                        "hover": "images\\body\\Do_Son\\Do_Son_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Do_Son/Do_Son_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Do_Son/Do_Son_hover.jpg"
                     },
                     "detail": [
-                        "images\\body\\Do_Son\\Do_Son_detail_1.jpg",
-                        "images\\body\\Do_Son\\Do_Son_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Do_Son/Do_Son_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Do_Son/Do_Son_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-do-son-hand-cream-45-ml-doshcream-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 31
+                "optionId": 1021
             }
         ],
         "collection": "Do Son",
-        "sales": 241,
+        "sales": 91,
         "inStock": true
     },
     {
@@ -123,20 +120,19 @@
                 "weight": "200ml",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\body\\Do_Son\\Do_Son_default.jpg",
-                        "hover": "images\\body\\Do_Son\\Do_Son_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Do_Son/Do_Son_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Do_Son/Do_Son_hover.jpg"
                     },
                     "detail": [
-                        "images\\body\\Do_Son\\Do_Son_detail_1.jpg",
-                        "images\\body\\Do_Son\\Do_Son_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Do_Son/Do_Son_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Do_Son/Do_Son_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-do-son-shower-oil-shoildoson-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 41
+                "optionId": 1031
             }
         ],
         "collection": "Do Son",
-        "sales": 198,
+        "sales": 26,
         "inStock": false
     },
     {
@@ -158,20 +154,19 @@
                 "weight": "150g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\body\\Do_Son\\Do_Son_default.jpg",
-                        "hover": "images\\body\\Do_Son\\Do_Son_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Do_Son/Do_Son_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Do_Son/Do_Son_hover.jpg"
                     },
                     "detail": [
-                        "images\\body\\Do_Son\\Do_Son_detail_1.jpg",
-                        "images\\body\\Do_Son\\Do_Son_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Do_Son/Do_Son_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Do_Son/Do_Son_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-do-son-perfumed-soap-soapdoson-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 51
+                "optionId": 1041
             }
         ],
         "collection": "Do Son",
-        "sales": 253,
+        "sales": 469,
         "inStock": false
     },
     {
@@ -193,21 +188,20 @@
                 "weight": "45ml",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\body\\Eau_Capitale\\Eau_Capitale_default.jpg",
-                        "hover": "images\\body\\Eau_Capitale\\Eau_Capitale_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Eau_Capitale/Eau_Capitale_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Eau_Capitale/Eau_Capitale_hover.jpg"
                     },
                     "detail": [
-                        "images\\body\\Eau_Capitale\\Eau_Capitale_detail_1.jpg",
-                        "images\\body\\Eau_Capitale\\Eau_Capitale_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Eau_Capitale/Eau_Capitale_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Eau_Capitale/Eau_Capitale_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-capitale-hand-cream-45-ml-capihcreamv1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 61
+                "optionId": 1051
             }
         ],
         "collection": "Eau Capitale",
-        "sales": 332,
-        "inStock": true
+        "sales": 300,
+        "inStock": false
     },
     {
         "id": 106,
@@ -229,20 +223,19 @@
                 "weight": "200ml",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\body\\Eau_des_Sens\\Eau_des_Sens_default.jpg",
-                        "hover": "images\\body\\Eau_des_Sens\\Eau_des_Sens_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Eau_des_Sens/Eau_des_Sens_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Eau_des_Sens/Eau_des_Sens_hover.jpg"
                     },
                     "detail": [
-                        "images\\body\\Eau_des_Sens\\Eau_des_Sens_detail_1.jpg",
-                        "images\\body\\Eau_des_Sens\\Eau_des_Sens_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Eau_des_Sens/Eau_des_Sens_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Eau_des_Sens/Eau_des_Sens_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-des-sens-cleansing-hand-and-body-gel-sensbgel-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 71
+                "optionId": 1061
             }
         ],
         "collection": "Eau des Sens",
-        "sales": 6,
+        "sales": 399,
         "inStock": true
     },
     {
@@ -265,21 +258,20 @@
                 "weight": "150g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\body\\Eau_des_Sens\\Eau_des_Sens_default.jpg",
-                        "hover": "images\\body\\Eau_des_Sens\\Eau_des_Sens_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Eau_des_Sens/Eau_des_Sens_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Eau_des_Sens/Eau_des_Sens_hover.jpg"
                     },
                     "detail": [
-                        "images\\body\\Eau_des_Sens\\Eau_des_Sens_detail_1.jpg",
-                        "images\\body\\Eau_des_Sens\\Eau_des_Sens_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Eau_des_Sens/Eau_des_Sens_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Eau_des_Sens/Eau_des_Sens_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-des-sens-perfumed-soap-soapsens-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 81
+                "optionId": 1071
             }
         ],
         "collection": "Eau des Sens",
-        "sales": 144,
-        "inStock": false
+        "sales": 303,
+        "inStock": true
     },
     {
         "id": 108,
@@ -300,21 +292,20 @@
                 "weight": "200g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\body\\Eau_Rihla\\Eau_Rihla_default.jpg",
-                        "hover": "images\\body\\Eau_Rihla\\Eau_Rihla_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Eau_Rihla/Eau_Rihla_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Eau_Rihla/Eau_Rihla_hover.jpg"
                     },
                     "detail": [
-                        "images\\body\\Eau_Rihla\\Eau_Rihla_detail_1.jpg",
-                        "images\\body\\Eau_Rihla\\Eau_Rihla_detail_2.jpg",
-                        "images\\body\\Eau_Rihla\\Eau_Rihla_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Eau_Rihla/Eau_Rihla_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Eau_Rihla/Eau_Rihla_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Eau_Rihla/Eau_Rihla_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-rihla-body-perfumed-balm-rihlbbalm200-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 91
+                "optionId": 1081
             }
         ],
         "collection": "Eau Rihla",
-        "sales": 94,
+        "sales": 235,
         "inStock": true
     },
     {
@@ -337,21 +328,20 @@
                 "weight": "200ml",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\body\\Eau_Rose\\Eau_Rose_default.jpg",
-                        "hover": "images\\body\\Eau_Rose\\Eau_Rose_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Eau_Rose/Eau_Rose_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Eau_Rose/Eau_Rose_hover.jpg"
                     },
                     "detail": [
-                        "images\\body\\Eau_Rose\\Eau_Rose_detail_1.jpg",
-                        "images\\body\\Eau_Rose\\Eau_Rose_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Eau_Rose/Eau_Rose_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Eau_Rose/Eau_Rose_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-rose-hand-and-body-lotion-roseblotion-1_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 101
+                "optionId": 1091
             }
         ],
         "collection": "Eau Rose",
-        "sales": 91,
-        "inStock": true
+        "sales": 148,
+        "inStock": false
     },
     {
         "id": 110,
@@ -372,20 +362,19 @@
                 "weight": "45ml",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\body\\Eau_Rose\\Eau_Rose_default.jpg",
-                        "hover": "images\\body\\Eau_Rose\\Eau_Rose_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Eau_Rose/Eau_Rose_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Eau_Rose/Eau_Rose_hover.jpg"
                     },
                     "detail": [
-                        "images\\body\\Eau_Rose\\Eau_Rose_detail_1.jpg",
-                        "images\\body\\Eau_Rose\\Eau_Rose_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Eau_Rose/Eau_Rose_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Eau_Rose/Eau_Rose_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-rose-hand-emulsion-rosehcream-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 111
+                "optionId": 1101
             }
         ],
         "collection": "Eau Rose",
-        "sales": 362,
+        "sales": 207,
         "inStock": true
     },
     {
@@ -407,21 +396,20 @@
                 "weight": "150ml",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\body\\Eau_Rose\\Eau_Rose_default.jpg",
-                        "hover": "images\\body\\Eau_Rose\\Eau_Rose_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Eau_Rose/Eau_Rose_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Eau_Rose/Eau_Rose_hover.jpg"
                     },
                     "detail": [
-                        "images\\body\\Eau_Rose\\Eau_Rose_detail_1.jpg",
-                        "images\\body\\Eau_Rose\\Eau_Rose_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Eau_Rose/Eau_Rose_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Eau_Rose/Eau_Rose_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-rose-shower-foam-rosfoam-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 121
+                "optionId": 1111
             }
         ],
         "collection": "Eau Rose",
-        "sales": 358,
-        "inStock": true
+        "sales": 302,
+        "inStock": false
     },
     {
         "id": 112,
@@ -442,21 +430,20 @@
                 "weight": "150g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\body\\Eau_Rose\\Eau_Rose_default.jpg",
-                        "hover": "images\\body\\Eau_Rose\\Eau_Rose_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Eau_Rose/Eau_Rose_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Eau_Rose/Eau_Rose_hover.jpg"
                     },
                     "detail": [
-                        "images\\body\\Eau_Rose\\Eau_Rose_detail_1.jpg",
-                        "images\\body\\Eau_Rose\\Eau_Rose_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Eau_Rose/Eau_Rose_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Eau_Rose/Eau_Rose_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-rose-perfumed-soap-soaprose-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 131
+                "optionId": 1121
             }
         ],
         "collection": "Eau Rose",
-        "sales": 153,
-        "inStock": false
+        "sales": 323,
+        "inStock": true
     },
     {
         "id": 113,
@@ -477,20 +464,19 @@
                 "weight": "200ml",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\body\\Exfoliating_ointment\\Exfoliating_ointment_default.jpg",
-                        "hover": "images\\body\\Exfoliating_ointment\\Exfoliating_ointment_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Exfoliating_ointment/Exfoliating_ointment_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Exfoliating_ointment/Exfoliating_ointment_hover.jpg"
                     },
                     "detail": [
-                        "images\\body\\Exfoliating_ointment\\Exfoliating_ointment_detail_1.jpg",
-                        "images\\body\\Exfoliating_ointment\\Exfoliating_ointment_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Exfoliating_ointment/Exfoliating_ointment_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Exfoliating_ointment/Exfoliating_ointment_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-smoothing-body-polish-bodyscrub-1_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 141
+                "optionId": 1131
             }
         ],
         "collection": "Exfoliating",
-        "sales": 158,
+        "sales": 95,
         "inStock": true
     },
     {
@@ -512,21 +498,20 @@
                 "weight": "350ml",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\body\\Exfoliating_Wash\\Exfoliating_Wash_default.jpg",
-                        "hover": "images\\body\\Exfoliating_Wash\\Exfoliating_Wash_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Exfoliating_Wash/Exfoliating_Wash_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Exfoliating_Wash/Exfoliating_Wash_hover.jpg"
                     },
                     "detail": [
-                        "images\\body\\Exfoliating_Wash\\Exfoliating_Wash_detail_1.jpg",
-                        "images\\body\\Exfoliating_Wash\\Exfoliating_Wash_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Exfoliating_Wash/Exfoliating_Wash_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Exfoliating_Wash/Exfoliating_Wash_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-exfoliating-hand-wash-350ml-handscrub-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 151
+                "optionId": 1141
             }
         ],
         "collection": "Exfoliating",
-        "sales": 474,
-        "inStock": false
+        "sales": 262,
+        "inStock": true
     },
     {
         "id": 115,
@@ -548,21 +533,20 @@
                 "weight": "200ml",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\body\\Fleur_de_Peau\\Fleur_de_Peau_default.jpg",
-                        "hover": "images\\body\\Fleur_de_Peau\\Fleur_de_Peau_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Fleur_de_Peau/Fleur_de_Peau_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Fleur_de_Peau/Fleur_de_Peau_hover.jpg"
                     },
                     "detail": [
-                        "images\\body\\Fleur_de_Peau\\Fleur_de_Peau_detail_1.jpg",
-                        "images\\body\\Fleur_de_Peau\\Fleur_de_Peau_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Fleur_de_Peau/Fleur_de_Peau_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Fleur_de_Peau/Fleur_de_Peau_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-fleur-de-peau-cleansing-hand-and-body-gel-fleurbgel200-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 161
+                "optionId": 1151
             }
         ],
         "collection": "Fleur de Peau",
-        "sales": 363,
-        "inStock": true
+        "sales": 189,
+        "inStock": false
     },
     {
         "id": 116,
@@ -584,21 +568,20 @@
                 "weight": "200ml",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\body\\Fleur_de_Peau\\Fleur_de_Peau_default.jpg",
-                        "hover": "images\\body\\Fleur_de_Peau\\Fleur_de_Peau_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Fleur_de_Peau/Fleur_de_Peau_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Fleur_de_Peau/Fleur_de_Peau_hover.jpg"
                     },
                     "detail": [
-                        "images\\body\\Fleur_de_Peau\\Fleur_de_Peau_detail_1.jpg",
-                        "images\\body\\Fleur_de_Peau\\Fleur_de_Peau_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Fleur_de_Peau/Fleur_de_Peau_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Fleur_de_Peau/Fleur_de_Peau_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-fleur-de-peau-hand-and-body-lotion-fleurblotion-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 171
+                "optionId": 1161
             }
         ],
         "collection": "Fleur de Peau",
-        "sales": 121,
-        "inStock": false
+        "sales": 406,
+        "inStock": true
     },
     {
         "id": 117,
@@ -619,20 +602,19 @@
                 "weight": "200ml",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\body\\Fleur_de_Peau\\Fleur_de_Peau_default.jpg",
-                        "hover": "images\\body\\Fleur_de_Peau\\Fleur_de_Peau_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Fleur_de_Peau/Fleur_de_Peau_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Fleur_de_Peau/Fleur_de_Peau_hover.jpg"
                     },
                     "detail": [
-                        "images\\body\\Fleur_de_Peau\\Fleur_de_Peau_detail_1.jpg",
-                        "images\\body\\Fleur_de_Peau\\Fleur_de_Peau_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Fleur_de_Peau/Fleur_de_Peau_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Fleur_de_Peau/Fleur_de_Peau_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-fleur-de-peau-body-balm-fleurbbalm-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 181
+                "optionId": 1171
             }
         ],
         "collection": "Fleur de Peau",
-        "sales": 255,
+        "sales": 407,
         "inStock": false
     },
     {
@@ -654,21 +636,20 @@
                 "weight": "45ml",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\body\\Fleur_de_Peau\\Fleur_de_Peau_default.jpg",
-                        "hover": "images\\body\\Fleur_de_Peau\\Fleur_de_Peau_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Fleur_de_Peau/Fleur_de_Peau_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Fleur_de_Peau/Fleur_de_Peau_hover.jpg"
                     },
                     "detail": [
-                        "images\\body\\Fleur_de_Peau\\Fleur_de_Peau_detail_1.jpg",
-                        "images\\body\\Fleur_de_Peau\\Fleur_de_Peau_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Fleur_de_Peau/Fleur_de_Peau_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Fleur_de_Peau/Fleur_de_Peau_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-fleur-de-peau-hand-cream-45-ml-fleurhcream-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 191
+                "optionId": 1181
             }
         ],
         "collection": "Fleur de Peau",
-        "sales": 170,
-        "inStock": false
+        "sales": 111,
+        "inStock": true
     },
     {
         "id": 119,
@@ -689,20 +670,19 @@
                 "weight": "250ml",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\body\\Fresh_Lotion\\Fresh_Lotion_default.jpg",
-                        "hover": "images\\body\\Fresh_Lotion\\Fresh_Lotion_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Fresh_Lotion/Fresh_Lotion_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Fresh_Lotion/Fresh_Lotion_hover.jpg"
                     },
                     "detail": [
-                        "images\\body\\Fresh_Lotion\\Fresh_Lotion_detail_1.jpg",
-                        "images\\body\\Fresh_Lotion\\Fresh_Lotion_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Fresh_Lotion/Fresh_Lotion_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Fresh_Lotion/Fresh_Lotion_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-fresh-lotion-for-the-body-250-ml-fbodylotion-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 201
+                "optionId": 1191
             }
         ],
         "collection": null,
-        "sales": 21,
+        "sales": 407,
         "inStock": false
     },
     {
@@ -725,21 +705,20 @@
                 "weight": "200ml",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\body\\L'Eau_Papier\\L'Eau_Papier_default.jpg",
-                        "hover": "images\\body\\L'Eau_Papier\\L'Eau_Papier_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/L'Eau_Papier/L'Eau_Papier_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/L'Eau_Papier/L'Eau_Papier_hover.jpg"
                     },
                     "detail": [
-                        "images\\body\\L'Eau_Papier\\L'Eau_Papier_detail_1.jpg",
-                        "images\\body\\L'Eau_Papier\\L'Eau_Papier_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/L'Eau_Papier/L'Eau_Papier_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/L'Eau_Papier/L'Eau_Papier_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/l/_/l_eau-papier-shower-gel_repush-l_eau-papier-2024_200ml_papierbgel_rvb_hd_fond-gris_spec-ecom_1_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 211
+                "optionId": 1201
             }
         ],
         "collection": "L'Eau Papier",
-        "sales": 455,
-        "inStock": true
+        "sales": 48,
+        "inStock": false
     },
     {
         "id": 121,
@@ -760,20 +739,19 @@
                 "weight": "150g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\body\\L'Ombre_dans_l'Eau\\L'Ombre_dans_l'Eau_default.jpg",
-                        "hover": "images\\body\\L'Ombre_dans_l'Eau\\L'Ombre_dans_l'Eau_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/L'Ombre_dans_l'Eau/L'Ombre_dans_l'Eau_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/L'Ombre_dans_l'Eau/L'Ombre_dans_l'Eau_hover.jpg"
                     },
                     "detail": [
-                        "images\\body\\L'Ombre_dans_l'Eau\\L'Ombre_dans_l'Eau_detail_1.jpg",
-                        "images\\body\\L'Ombre_dans_l'Eau\\L'Ombre_dans_l'Eau_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/L'Ombre_dans_l'Eau/L'Ombre_dans_l'Eau_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/L'Ombre_dans_l'Eau/L'Ombre_dans_l'Eau_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-ombre-dans-l-eau-perfumed-soap-soapombre-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 221
+                "optionId": 1211
             }
         ],
         "collection": "L'Ombre dans l'Eau",
-        "sales": 348,
+        "sales": 446,
         "inStock": false
     },
     {
@@ -795,21 +773,20 @@
                 "weight": "45ml",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\body\\Luxurious_balm\\Luxurious_balm_default.jpg",
-                        "hover": "images\\body\\Luxurious_balm\\Luxurious_balm_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Luxurious_balm/Luxurious_balm_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Luxurious_balm/Luxurious_balm_hover.jpg"
                     },
                     "detail": [
-                        "images\\body\\Luxurious_balm\\Luxurious_balm_detail_1.jpg",
-                        "images\\body\\Luxurious_balm\\Luxurious_balm_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Luxurious_balm/Luxurious_balm_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Luxurious_balm/Luxurious_balm_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-hand-balm-50-ml-baumemain-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 231
+                "optionId": 1221
             }
         ],
         "collection": null,
-        "sales": 206,
-        "inStock": true
+        "sales": 42,
+        "inStock": false
     },
     {
         "id": 123,
@@ -831,21 +808,20 @@
                 "weight": "200ml",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\body\\Orphéon\\Orphéon_default.jpg",
-                        "hover": "images\\body\\Orphéon\\Orphéon_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Orphéon/Orphéon_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Orphéon/Orphéon_hover.jpg"
                     },
                     "detail": [
-                        "images\\body\\Orphéon\\Orphéon_detail_1.jpg",
-                        "images\\body\\Orphéon\\Orphéon_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Orphéon/Orphéon_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Orphéon/Orphéon_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-orpheon-shower-gel-orphbgel-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 241
+                "optionId": 1231
             }
         ],
         "collection": "Orphéon",
-        "sales": 145,
-        "inStock": true
+        "sales": 5,
+        "inStock": false
     },
     {
         "id": 124,
@@ -867,20 +843,19 @@
                 "weight": "200ml",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\body\\Philosykos\\Philosykos_default.jpg",
-                        "hover": "images\\body\\Philosykos\\Philosykos_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Philosykos/Philosykos_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Philosykos/Philosykos_hover.jpg"
                     },
                     "detail": [
-                        "images\\body\\Philosykos\\Philosykos_detail_1.jpg",
-                        "images\\body\\Philosykos\\Philosykos_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Philosykos/Philosykos_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Philosykos/Philosykos_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-philosykos-hand-and-body-lotion-phiblotion-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 251
+                "optionId": 1241
             }
         ],
         "collection": "Philosykos",
-        "sales": 468,
+        "sales": 322,
         "inStock": false
     },
     {
@@ -903,21 +878,20 @@
                 "weight": "200ml",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\body\\Philosykos\\Philosykos_default.jpg",
-                        "hover": "images\\body\\Philosykos\\Philosykos_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Philosykos/Philosykos_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Philosykos/Philosykos_hover.jpg"
                     },
                     "detail": [
-                        "images\\body\\Philosykos\\Philosykos_detail_1.jpg",
-                        "images\\body\\Philosykos\\Philosykos_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Philosykos/Philosykos_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Philosykos/Philosykos_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-philosykos-cleansing-hand-and-body-gel-phibgel-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 261
+                "optionId": 1251
             }
         ],
         "collection": "Philosykos",
-        "sales": 175,
-        "inStock": false
+        "sales": 195,
+        "inStock": true
     },
     {
         "id": 126,
@@ -939,20 +913,19 @@
                 "weight": "150g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\body\\Philosykos\\Philosykos_default.jpg",
-                        "hover": "images\\body\\Philosykos\\Philosykos_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Philosykos/Philosykos_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Philosykos/Philosykos_hover.jpg"
                     },
                     "detail": [
-                        "images\\body\\Philosykos\\Philosykos_detail_1.jpg",
-                        "images\\body\\Philosykos\\Philosykos_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Philosykos/Philosykos_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Philosykos/Philosykos_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-philosykos-perfumed-soap-soapphilo-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 271
+                "optionId": 1261
             }
         ],
         "collection": "Philosykos",
-        "sales": 247,
+        "sales": 75,
         "inStock": true
     },
     {
@@ -974,20 +947,19 @@
                 "weight": "350ml",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\body\\Exfoliating_Wash\\Exfoliating_Wash_default.jpg",
-                        "hover": "images\\body\\Exfoliating_Wash\\Exfoliating_Wash_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Exfoliating_Wash/Exfoliating_Wash_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Exfoliating_Wash/Exfoliating_Wash_hover.jpg"
                     },
                     "detail": [
-                        "images\\body\\Exfoliating_Wash\\Exfoliating_Wash_detail_1.jpg",
-                        "images\\body\\Exfoliating_Wash\\Exfoliating_Wash_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Exfoliating_Wash/Exfoliating_Wash_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Exfoliating_Wash/Exfoliating_Wash_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-refill-exfoliating-hand-wash-350ml-rhandscrub-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 281
+                "optionId": 1271
             }
         ],
         "collection": "Refill",
-        "sales": 273,
+        "sales": 191,
         "inStock": false
     },
     {
@@ -1009,21 +981,20 @@
                 "weight": "350ml",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\body\\Softening_and_comforting_wash\\Softening_and_comforting_wash_default.jpg",
-                        "hover": "images\\body\\Softening_and_comforting_wash\\Softening_and_comforting_wash_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Softening_and_comforting_wash/Softening_and_comforting_wash_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Softening_and_comforting_wash/Softening_and_comforting_wash_hover.jpg"
                     },
                     "detail": [
-                        "images\\body\\Softening_and_comforting_wash\\Softening_and_comforting_wash_detail_1.jpg",
-                        "images\\body\\Softening_and_comforting_wash\\Softening_and_comforting_wash_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Softening_and_comforting_wash/Softening_and_comforting_wash_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Softening_and_comforting_wash/Softening_and_comforting_wash_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-refill-softening-hand-wash-350ml-rhandsoap-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 291
+                "optionId": 1281
             }
         ],
         "collection": "Refill",
-        "sales": 248,
-        "inStock": true
+        "sales": 366,
+        "inStock": false
     },
     {
         "id": 129,
@@ -1044,20 +1015,19 @@
                 "weight": "350ml",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\body\\Velvet_Lotion\\Velvet_Lotion_default.jpg",
-                        "hover": "images\\body\\Velvet_Lotion\\Velvet_Lotion_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Velvet_Lotion/Velvet_Lotion_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Velvet_Lotion/Velvet_Lotion_hover.jpg"
                     },
                     "detail": [
-                        "images\\body\\Velvet_Lotion\\Velvet_Lotion_detail_1.jpg",
-                        "images\\body\\Velvet_Lotion\\Velvet_Lotion_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Velvet_Lotion/Velvet_Lotion_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Velvet_Lotion/Velvet_Lotion_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/1/0/10_recharge_emulsion_velours.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 301
+                "optionId": 1291
             }
         ],
         "collection": "Refill",
-        "sales": 56,
+        "sales": 72,
         "inStock": true
     },
     {
@@ -1079,20 +1049,19 @@
                 "weight": "200ml",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\body\\Revitalizing_Shower_Gel\\Revitalizing_Shower_Gel_default.jpg",
-                        "hover": "images\\body\\Revitalizing_Shower_Gel\\Revitalizing_Shower_Gel_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Revitalizing_Shower_Gel/Revitalizing_Shower_Gel_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Revitalizing_Shower_Gel/Revitalizing_Shower_Gel_hover.jpg"
                     },
                     "detail": [
-                        "images\\body\\Revitalizing_Shower_Gel\\Revitalizing_Shower_Gel_detail_1.jpg",
-                        "images\\body\\Revitalizing_Shower_Gel\\Revitalizing_Shower_Gel_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Revitalizing_Shower_Gel/Revitalizing_Shower_Gel_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Revitalizing_Shower_Gel/Revitalizing_Shower_Gel_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-revitalizing-shower-gel-200-ml-hbsgel-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 311
+                "optionId": 1301
             }
         ],
         "collection": null,
-        "sales": 107,
+        "sales": 372,
         "inStock": true
     },
     {
@@ -1114,20 +1083,19 @@
                 "weight": "200ml",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\body\\Rich_butter\\Rich_butter_default.jpg",
-                        "hover": "images\\body\\Rich_butter\\Rich_butter_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Rich_butter/Rich_butter_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Rich_butter/Rich_butter_hover.jpg"
                     },
                     "detail": [
-                        "images\\body\\Rich_butter\\Rich_butter_detail_1.jpg",
-                        "images\\body\\Rich_butter\\Rich_butter_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Rich_butter/Rich_butter_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Rich_butter/Rich_butter_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-rich-butter-for-the-body-cremecorps-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 321
+                "optionId": 1311
             }
         ],
         "collection": null,
-        "sales": 54,
+        "sales": 119,
         "inStock": true
     },
     {
@@ -1149,20 +1117,19 @@
                 "weight": "45ml",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\body\\Rinse-free_wash\\Rinse-free_wash_default.jpg",
-                        "hover": "images\\body\\Rinse-free_wash\\Rinse-free_wash_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Rinse-free_wash/Rinse-free_wash_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Rinse-free_wash/Rinse-free_wash_hover.jpg"
                     },
                     "detail": [
-                        "images\\body\\Rinse-free_wash\\Rinse-free_wash_detail_1.jpg",
-                        "images\\body\\Rinse-free_wash\\Rinse-free_wash_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Rinse-free_wash/Rinse-free_wash_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Rinse-free_wash/Rinse-free_wash_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-rinse-free-hand-wash-45-ml-rfhwash45-1_5.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 331
+                "optionId": 1321
             }
         ],
         "collection": null,
-        "sales": 441,
+        "sales": 359,
         "inStock": true
     },
     {
@@ -1184,20 +1151,19 @@
                 "weight": "100ml",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\body\\Satin_Oil\\Satin_Oil_default.jpg",
-                        "hover": "images\\body\\Satin_Oil\\Satin_Oil_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Satin_Oil/Satin_Oil_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Satin_Oil/Satin_Oil_hover.jpg"
                     },
                     "detail": [
-                        "images\\body\\Satin_Oil\\Satin_Oil_detail_1.jpg",
-                        "images\\body\\Satin_Oil\\Satin_Oil_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Satin_Oil/Satin_Oil_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Satin_Oil/Satin_Oil_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-satin-oil-hair-andbody-100ml-satinoil-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 341
+                "optionId": 1331
             }
         ],
         "collection": null,
-        "sales": 247,
+        "sales": 70,
         "inStock": true
     },
     {
@@ -1218,21 +1184,20 @@
                 "weight": "250ml",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\body\\Soft_lotion\\Soft_lotion_default.jpg",
-                        "hover": "images\\body\\Soft_lotion\\Soft_lotion_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Soft_lotion/Soft_lotion_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Soft_lotion/Soft_lotion_hover.jpg"
                     },
                     "detail": [
-                        "images\\body\\Soft_lotion\\Soft_lotion_detail_1.jpg",
-                        "images\\body\\Soft_lotion\\Soft_lotion_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Soft_lotion/Soft_lotion_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Soft_lotion/Soft_lotion_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-soft-lotion-for-the-body-250-ml-sbodylotion-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 351
+                "optionId": 1341
             }
         ],
         "collection": null,
-        "sales": 204,
-        "inStock": false
+        "sales": 315,
+        "inStock": true
     },
     {
         "id": 135,
@@ -1253,21 +1218,20 @@
                 "weight": "350ml",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\body\\Softening_and_comforting_wash\\Softening_and_comforting_wash_default.jpg",
-                        "hover": "images\\body\\Softening_and_comforting_wash\\Softening_and_comforting_wash_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Softening_and_comforting_wash/Softening_and_comforting_wash_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Softening_and_comforting_wash/Softening_and_comforting_wash_hover.jpg"
                     },
                     "detail": [
-                        "images\\body\\Softening_and_comforting_wash\\Softening_and_comforting_wash_detail_1.jpg",
-                        "images\\body\\Softening_and_comforting_wash\\Softening_and_comforting_wash_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Softening_and_comforting_wash/Softening_and_comforting_wash_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Softening_and_comforting_wash/Softening_and_comforting_wash_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-softening-hand-wash-350-ml-handsoapg-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 361
+                "optionId": 1351
             }
         ],
         "collection": null,
-        "sales": 61,
-        "inStock": true
+        "sales": 135,
+        "inStock": false
     },
     {
         "id": 136,
@@ -1288,20 +1252,19 @@
                 "weight": "150g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\body\\Tam_Dao\\Tam_Dao_default.jpg",
-                        "hover": "images\\body\\Tam_Dao\\Tam_Dao_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Tam_Dao/Tam_Dao_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Tam_Dao/Tam_Dao_hover.jpg"
                     },
                     "detail": [
-                        "images\\body\\Tam_Dao\\Tam_Dao_detail_1.jpg",
-                        "images\\body\\Tam_Dao\\Tam_Dao_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Tam_Dao/Tam_Dao_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Tam_Dao/Tam_Dao_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tam-dao-perfumed-soap-soaptam-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 371
+                "optionId": 1361
             }
         ],
         "collection": "Tam Dao",
-        "sales": 347,
+        "sales": 86,
         "inStock": false
     },
     {
@@ -1323,21 +1286,20 @@
                 "weight": "30ml",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\body\\The_art_of_hand_care\\The_art_of_hand_care_default.jpg",
-                        "hover": "images\\body\\The_art_of_hand_care\\The_art_of_hand_care_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/The_art_of_hand_care/The_art_of_hand_care_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/The_art_of_hand_care/The_art_of_hand_care_hover.jpg"
                     },
                     "detail": [
-                        "images\\body\\The_art_of_hand_care\\The_art_of_hand_care_detail_1.jpg",
-                        "images\\body\\The_art_of_hand_care\\The_art_of_hand_care_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/The_art_of_hand_care/The_art_of_hand_care_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/The_art_of_hand_care/The_art_of_hand_care_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-the-art-of-hand-care-travel-set-sethandcarev1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 381
+                "optionId": 1371
             }
         ],
         "collection": null,
-        "sales": 233,
-        "inStock": false
+        "sales": 145,
+        "inStock": true
     },
     {
         "id": 138,
@@ -1358,21 +1320,20 @@
                 "weight": "350ml",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\body\\Velvet_Lotion\\Velvet_Lotion_default.jpg",
-                        "hover": "images\\body\\Velvet_Lotion\\Velvet_Lotion_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Velvet_Lotion/Velvet_Lotion_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Velvet_Lotion/Velvet_Lotion_hover.jpg"
                     },
                     "detail": [
-                        "images\\body\\Velvet_Lotion\\Velvet_Lotion_detail_1.jpg",
-                        "images\\body\\Velvet_Lotion\\Velvet_Lotion_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Velvet_Lotion/Velvet_Lotion_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Velvet_Lotion/Velvet_Lotion_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-velvet-hand-lotion-350-ml-handlotiong-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 391
+                "optionId": 1381
             }
         ],
         "collection": null,
-        "sales": 301,
-        "inStock": true
+        "sales": 36,
+        "inStock": false
     },
     {
         "id": 139,
@@ -1389,20 +1350,19 @@
                 "weight": "200ml",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\body\\Vinaigre_de_toilette\\Vinaigre_de_toilette_default.jpg",
-                        "hover": "images\\body\\Vinaigre_de_toilette\\Vinaigre_de_toilette_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Vinaigre_de_toilette/Vinaigre_de_toilette_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Vinaigre_de_toilette/Vinaigre_de_toilette_hover.jpg"
                     },
                     "detail": [
-                        "images\\body\\Vinaigre_de_toilette\\Vinaigre_de_toilette_detail_1.jpg",
-                        "images\\body\\Vinaigre_de_toilette\\Vinaigre_de_toilette_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Vinaigre_de_toilette/Vinaigre_de_toilette_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/body/Vinaigre_de_toilette/Vinaigre_de_toilette_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-vinegar-200-ml-pvinaigre2-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 401
+                "optionId": 1391
             }
         ],
         "collection": null,
-        "sales": 297,
+        "sales": 113,
         "inStock": true
     }
 ]

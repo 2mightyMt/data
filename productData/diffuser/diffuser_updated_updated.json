@@ -13,20 +13,19 @@
                 "weight": "150ml",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\diffuser\\Fleur_d'Oranger_(Orange_Blossom)\\Fleur_d'Oranger_(Orange_Blossom)_default.jpg",
-                        "hover": "images\\diffuser\\Fleur_d'Oranger_(Orange_Blossom)\\Fleur_d'Oranger_(Orange_Blossom)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Fleur_d'Oranger_(Orange_Blossom)/Fleur_d'Oranger_(Orange_Blossom)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Fleur_d'Oranger_(Orange_Blossom)/Fleur_d'Oranger_(Orange_Blossom)_hover.jpg"
                     },
                     "detail": [
-                        "images\\diffuser\\Fleur_d'Oranger_(Orange_Blossom)\\Fleur_d'Oranger_(Orange_Blossom)_detail_1.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Fleur_d'Oranger_(Orange_Blossom)/Fleur_d'Oranger_(Orange_Blossom)_detail_1.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-fleur-d-oranger-orange-blossom-room-spray-vfov1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 11
+                "optionId": 5001
             }
         ],
         "collection": "Fleur d'Oranger (Orange Blossom)",
-        "sales": 477,
-        "inStock": true
+        "sales": 196,
+        "inStock": false
     },
     {
         "id": 501,
@@ -42,21 +41,20 @@
                 "weight": null,
                 "images": {
                     "thumbnail": {
-                        "default": "images\\diffuser\\Roses\\Roses_default.jpg",
-                        "hover": "images\\diffuser\\Roses\\Roses_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Roses/Roses_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Roses/Roses_hover.jpg"
                     },
                     "detail": [
-                        "images\\diffuser\\Roses\\Roses_detail_1.jpg",
-                        "images\\diffuser\\Roses\\Roses_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Roses/Roses_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Roses/Roses_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-car-diffuser-with-roses-insert-cardifro-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 21
+                "optionId": 5011
             }
         ],
         "collection": "Roses",
-        "sales": 358,
-        "inStock": true
+        "sales": 406,
+        "inStock": false
     },
     {
         "id": 502,
@@ -72,21 +70,20 @@
                 "weight": "200ml",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\diffuser\\Mimosa\\Mimosa_default.jpg",
-                        "hover": "images\\diffuser\\Mimosa\\Mimosa_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Mimosa/Mimosa_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Mimosa/Mimosa_hover.jpg"
                     },
                     "detail": [
-                        "images\\diffuser\\Mimosa\\Mimosa_detail_1.jpg",
-                        "images\\diffuser\\Mimosa\\Mimosa_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Mimosa/Mimosa_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Mimosa/Mimosa_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-refill-reed-diffuser-mimosa-200ml-refreedmi-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 31
+                "optionId": 5021
             }
         ],
         "collection": "Mimosa",
-        "sales": 192,
-        "inStock": true
+        "sales": 240,
+        "inStock": false
     },
     {
         "id": 503,
@@ -102,18 +99,19 @@
                 "weight": "150ml",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\diffuser\\Mimosa\\Mimosa_default.jpg",
-                        "hover": "images\\diffuser\\Mimosa\\Mimosa_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Mimosa/Mimosa_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Mimosa/Mimosa_hover.jpg"
                     },
-                    "detail": ["images\\diffuser\\Mimosa\\Mimosa_detail_1.jpg"]
+                    "detail": [
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Mimosa/Mimosa_detail_1.jpg"
+                    ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-mimosa-room-spray-vmi-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 41
+                "optionId": 5031
             }
         ],
         "collection": "Mimosa",
-        "sales": 454,
-        "inStock": true
+        "sales": 199,
+        "inStock": false
     },
     {
         "id": 504,
@@ -129,20 +127,19 @@
                 "weight": "200ml",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\diffuser\\Roses\\Roses_default.jpg",
-                        "hover": "images\\diffuser\\Roses\\Roses_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Roses/Roses_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Roses/Roses_hover.jpg"
                     },
                     "detail": [
-                        "images\\diffuser\\Roses\\Roses_detail_1.jpg",
-                        "images\\diffuser\\Roses\\Roses_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Roses/Roses_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Roses/Roses_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/r/o/roses-home-fragrance-diffuseur-refill_200ml_refreedro_rvb_bd_fond-gris_spec-ecom_1_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 51
+                "optionId": 5041
             }
         ],
         "collection": "Roses",
-        "sales": 121,
+        "sales": 376,
         "inStock": true
     },
     {
@@ -159,17 +156,18 @@
                 "weight": "150ml",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\diffuser\\Roses\\Roses_default.jpg",
-                        "hover": "images\\diffuser\\Roses\\Roses_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Roses/Roses_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Roses/Roses_hover.jpg"
                     },
-                    "detail": ["images\\diffuser\\Roses\\Roses_detail_1.jpg"]
+                    "detail": [
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Roses/Roses_detail_1.jpg"
+                    ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-roses-room-spray-vro-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 61
+                "optionId": 5051
             }
         ],
         "collection": "Roses",
-        "sales": 34,
+        "sales": 446,
         "inStock": true
     },
     {
@@ -186,19 +184,18 @@
                 "weight": null,
                 "images": {
                     "thumbnail": {
-                        "default": "images\\diffuser\\Fleur_d'Oranger_(Orange_Blossom)\\Fleur_d'Oranger_(Orange_Blossom)_default.jpg",
-                        "hover": "images\\diffuser\\Fleur_d'Oranger_(Orange_Blossom)\\Fleur_d'Oranger_(Orange_Blossom)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Fleur_d'Oranger_(Orange_Blossom)/Fleur_d'Oranger_(Orange_Blossom)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Fleur_d'Oranger_(Orange_Blossom)/Fleur_d'Oranger_(Orange_Blossom)_hover.jpg"
                     },
                     "detail": [
-                        "images\\diffuser\\Fleur_d'Oranger_(Orange_Blossom)\\Fleur_d'Oranger_(Orange_Blossom)_detail_1.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Fleur_d'Oranger_(Orange_Blossom)/Fleur_d'Oranger_(Orange_Blossom)_detail_1.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-fleur-d-oranger-orange-blossom-insert-capsfo-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 71
+                "optionId": 5061
             }
         ],
         "collection": "Fleur d'Oranger (Orange Blossom)",
-        "sales": 228,
+        "sales": 496,
         "inStock": true
     },
     {
@@ -215,18 +212,19 @@
                 "weight": "150ml",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\diffuser\\Tubéreuse_(Tuberose)\\Tubéreuse_(Tuberose)_default.jpg",
-                        "hover": "images\\diffuser\\Tubéreuse_(Tuberose)\\Tubéreuse_(Tuberose)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Tubéreuse_(Tuberose)/Tubéreuse_(Tuberose)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Tubéreuse_(Tuberose)/Tubéreuse_(Tuberose)_hover.jpg"
                     },
-                    "detail": ["images\\diffuser\\Tubéreuse_(Tuberose)\\Tubéreuse_(Tuberose)_detail_1.jpg"]
+                    "detail": [
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Tubéreuse_(Tuberose)/Tubéreuse_(Tuberose)_detail_1.jpg"
+                    ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tubereuse-tuberose-room-spray-vtb-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 81
+                "optionId": 5071
             }
         ],
         "collection": "Tubéreuse (Tuberose)",
-        "sales": 257,
-        "inStock": true
+        "sales": 446,
+        "inStock": false
     },
     {
         "id": 508,
@@ -242,18 +240,20 @@
                 "weight": "35g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\diffuser\\Rose\\Rose_default.jpg",
-                        "hover": "images\\diffuser\\Rose\\Rose_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Rose/Rose_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Rose/Rose_hover.jpg"
                     },
-                    "detail": ["images\\diffuser\\Rose\\Rose_detail_1.jpg", "images\\diffuser\\Rose\\Rose_detail_2.jpg"]
+                    "detail": [
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Rose/Rose_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Rose/Rose_detail_2.jpg"
+                    ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-roses-scented-oval-pro-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 91
+                "optionId": 5081
             }
         ],
         "collection": null,
-        "sales": 250,
-        "inStock": true
+        "sales": 190,
+        "inStock": false
     },
     {
         "id": 509,
@@ -269,20 +269,19 @@
                 "weight": null,
                 "images": {
                     "thumbnail": {
-                        "default": "images\\diffuser\\Tubéreuse_(Tuberose)\\Tubéreuse_(Tuberose)_default.jpg",
-                        "hover": "images\\diffuser\\Tubéreuse_(Tuberose)\\Tubéreuse_(Tuberose)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Tubéreuse_(Tuberose)/Tubéreuse_(Tuberose)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Tubéreuse_(Tuberose)/Tubéreuse_(Tuberose)_hover.jpg"
                     },
                     "detail": [
-                        "images\\diffuser\\Tubéreuse_(Tuberose)\\Tubéreuse_(Tuberose)_detail_1.jpg",
-                        "images\\diffuser\\Tubéreuse_(Tuberose)\\Tubéreuse_(Tuberose)_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Tubéreuse_(Tuberose)/Tubéreuse_(Tuberose)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Tubéreuse_(Tuberose)/Tubéreuse_(Tuberose)_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tubereuse-tuberose-insert-capstb-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 101
+                "optionId": 5091
             }
         ],
         "collection": "Tubéreuse (Tuberose)",
-        "sales": 381,
+        "sales": 175,
         "inStock": false
     },
     {
@@ -299,20 +298,19 @@
                 "weight": null,
                 "images": {
                     "thumbnail": {
-                        "default": "images\\diffuser\\Mimosa\\Mimosa_default.jpg",
-                        "hover": "images\\diffuser\\Mimosa\\Mimosa_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Mimosa/Mimosa_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Mimosa/Mimosa_hover.jpg"
                     },
                     "detail": [
-                        "images\\diffuser\\Mimosa\\Mimosa_detail_1.jpg",
-                        "images\\diffuser\\Mimosa\\Mimosa_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Mimosa/Mimosa_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Mimosa/Mimosa_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-car-diffuser-with-mimosa-insert-cardifmim-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 111
+                "optionId": 5101
             }
         ],
         "collection": "Mimosa",
-        "sales": 471,
+        "sales": 83,
         "inStock": true
     },
     {
@@ -329,20 +327,19 @@
                 "weight": "75ml",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\diffuser\\Mimosa\\Mimosa_default.jpg",
-                        "hover": "images\\diffuser\\Mimosa\\Mimosa_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Mimosa/Mimosa_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Mimosa/Mimosa_hover.jpg"
                     },
                     "detail": [
-                        "images\\diffuser\\Mimosa\\Mimosa_detail_1.jpg",
-                        "images\\diffuser\\Mimosa\\Mimosa_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Mimosa/Mimosa_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Mimosa/Mimosa_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-mimosa-hourglass-diffuser-hgmicarb-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 121
+                "optionId": 5111
             }
         ],
         "collection": "Mimosa",
-        "sales": 147,
+        "sales": 70,
         "inStock": true
     },
     {
@@ -359,20 +356,19 @@
                 "weight": "75ml",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\diffuser\\Fleur_d'Oranger_(Orange_Blossom)\\Fleur_d'Oranger_(Orange_Blossom)_default.jpg",
-                        "hover": "images\\diffuser\\Fleur_d'Oranger_(Orange_Blossom)\\Fleur_d'Oranger_(Orange_Blossom)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Fleur_d'Oranger_(Orange_Blossom)/Fleur_d'Oranger_(Orange_Blossom)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Fleur_d'Oranger_(Orange_Blossom)/Fleur_d'Oranger_(Orange_Blossom)_hover.jpg"
                     },
                     "detail": [
-                        "images\\diffuser\\Fleur_d'Oranger_(Orange_Blossom)\\Fleur_d'Oranger_(Orange_Blossom)_detail_1.jpg",
-                        "images\\diffuser\\Fleur_d'Oranger_(Orange_Blossom)\\Fleur_d'Oranger_(Orange_Blossom)_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Fleur_d'Oranger_(Orange_Blossom)/Fleur_d'Oranger_(Orange_Blossom)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Fleur_d'Oranger_(Orange_Blossom)/Fleur_d'Oranger_(Orange_Blossom)_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-fleur-d-oranger-orange-blossom-hourglass-diffuser-hgfocarb2-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 131
+                "optionId": 5121
             }
         ],
         "collection": "Fleur d'Oranger (Orange Blossom)",
-        "sales": 229,
+        "sales": 28,
         "inStock": true
     },
     {
@@ -389,21 +385,20 @@
                 "weight": null,
                 "images": {
                     "thumbnail": {
-                        "default": "images\\diffuser\\Roses\\Roses_default.jpg",
-                        "hover": "images\\diffuser\\Roses\\Roses_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Roses/Roses_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Roses/Roses_hover.jpg"
                     },
                     "detail": [
-                        "images\\diffuser\\Roses\\Roses_detail_1.jpg",
-                        "images\\diffuser\\Roses\\Roses_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Roses/Roses_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Roses/Roses_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-roses-insert-capsro-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 141
+                "optionId": 5131
             }
         ],
         "collection": "Roses",
-        "sales": 473,
-        "inStock": true
+        "sales": 485,
+        "inStock": false
     },
     {
         "id": 514,
@@ -419,20 +414,19 @@
                 "weight": "75ml",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\diffuser\\Tubéreuse_(Tuberose)\\Tubéreuse_(Tuberose)_default.jpg",
-                        "hover": "images\\diffuser\\Tubéreuse_(Tuberose)\\Tubéreuse_(Tuberose)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Tubéreuse_(Tuberose)/Tubéreuse_(Tuberose)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Tubéreuse_(Tuberose)/Tubéreuse_(Tuberose)_hover.jpg"
                     },
                     "detail": [
-                        "images\\diffuser\\Tubéreuse_(Tuberose)\\Tubéreuse_(Tuberose)_detail_1.jpg",
-                        "images\\diffuser\\Tubéreuse_(Tuberose)\\Tubéreuse_(Tuberose)_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Tubéreuse_(Tuberose)/Tubéreuse_(Tuberose)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Tubéreuse_(Tuberose)/Tubéreuse_(Tuberose)_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tubereuse-tuberose-hourglass-diffuser-hgtbcarb-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 151
+                "optionId": 5141
             }
         ],
         "collection": "Tubéreuse (Tuberose)",
-        "sales": 343,
+        "sales": 402,
         "inStock": true
     },
     {
@@ -449,21 +443,20 @@
                 "weight": null,
                 "images": {
                     "thumbnail": {
-                        "default": "images\\diffuser\\Mimosa\\Mimosa_default.jpg",
-                        "hover": "images\\diffuser\\Mimosa\\Mimosa_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Mimosa/Mimosa_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Mimosa/Mimosa_hover.jpg"
                     },
                     "detail": [
-                        "images\\diffuser\\Mimosa\\Mimosa_detail_1.jpg",
-                        "images\\diffuser\\Mimosa\\Mimosa_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Mimosa/Mimosa_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Mimosa/Mimosa_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-mimosa-insert-capsmi-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 161
+                "optionId": 5151
             }
         ],
         "collection": "Mimosa",
-        "sales": 375,
-        "inStock": true
+        "sales": 144,
+        "inStock": false
     },
     {
         "id": 516,
@@ -479,21 +472,20 @@
                 "weight": "200ml",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\diffuser\\Fleur_d'Oranger_(Orange_Blossom)\\Fleur_d'Oranger_(Orange_Blossom)_default.jpg",
-                        "hover": "images\\diffuser\\Fleur_d'Oranger_(Orange_Blossom)\\Fleur_d'Oranger_(Orange_Blossom)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Fleur_d'Oranger_(Orange_Blossom)/Fleur_d'Oranger_(Orange_Blossom)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Fleur_d'Oranger_(Orange_Blossom)/Fleur_d'Oranger_(Orange_Blossom)_hover.jpg"
                     },
                     "detail": [
-                        "images\\diffuser\\Fleur_d'Oranger_(Orange_Blossom)\\Fleur_d'Oranger_(Orange_Blossom)_detail_1.jpg",
-                        "images\\diffuser\\Fleur_d'Oranger_(Orange_Blossom)\\Fleur_d'Oranger_(Orange_Blossom)_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Fleur_d'Oranger_(Orange_Blossom)/Fleur_d'Oranger_(Orange_Blossom)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Fleur_d'Oranger_(Orange_Blossom)/Fleur_d'Oranger_(Orange_Blossom)_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-refill-reed-diffuser-fleur-d-oranger-200ml-refreedfo-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 171
+                "optionId": 5161
             }
         ],
         "collection": "Fleur d'Oranger (Orange Blossom)",
-        "sales": 448,
-        "inStock": false
+        "sales": 53,
+        "inStock": true
     },
     {
         "id": 517,
@@ -509,20 +501,19 @@
                 "weight": null,
                 "images": {
                     "thumbnail": {
-                        "default": "images\\diffuser\\Fleur_d'Oranger_(Orange_Blossom)\\Fleur_d'Oranger_(Orange_Blossom)_default.jpg",
-                        "hover": "images\\diffuser\\Fleur_d'Oranger_(Orange_Blossom)\\Fleur_d'Oranger_(Orange_Blossom)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Fleur_d'Oranger_(Orange_Blossom)/Fleur_d'Oranger_(Orange_Blossom)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Fleur_d'Oranger_(Orange_Blossom)/Fleur_d'Oranger_(Orange_Blossom)_hover.jpg"
                     },
                     "detail": [
-                        "images\\diffuser\\Fleur_d'Oranger_(Orange_Blossom)\\Fleur_d'Oranger_(Orange_Blossom)_detail_1.jpg",
-                        "images\\diffuser\\Fleur_d'Oranger_(Orange_Blossom)\\Fleur_d'Oranger_(Orange_Blossom)_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Fleur_d'Oranger_(Orange_Blossom)/Fleur_d'Oranger_(Orange_Blossom)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Fleur_d'Oranger_(Orange_Blossom)/Fleur_d'Oranger_(Orange_Blossom)_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-car-diffuser-with-fleur-d-oranger-insert-cardiffo-1_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 181
+                "optionId": 5171
             }
         ],
         "collection": "Fleur d'Oranger (Orange Blossom)",
-        "sales": 281,
+        "sales": 10,
         "inStock": true
     },
     {
@@ -539,21 +530,20 @@
                 "weight": "200ml",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\diffuser\\Tubéreuse_(Tuberose)\\Tubéreuse_(Tuberose)_default.jpg",
-                        "hover": "images\\diffuser\\Tubéreuse_(Tuberose)\\Tubéreuse_(Tuberose)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Tubéreuse_(Tuberose)/Tubéreuse_(Tuberose)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Tubéreuse_(Tuberose)/Tubéreuse_(Tuberose)_hover.jpg"
                     },
                     "detail": [
-                        "images\\diffuser\\Tubéreuse_(Tuberose)\\Tubéreuse_(Tuberose)_detail_1.jpg",
-                        "images\\diffuser\\Tubéreuse_(Tuberose)\\Tubéreuse_(Tuberose)_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Tubéreuse_(Tuberose)/Tubéreuse_(Tuberose)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Tubéreuse_(Tuberose)/Tubéreuse_(Tuberose)_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/t/u/tubereuse-home-fragrance-diffuseur-refill_200ml_refreedtb_rvb_bd_fond-gris_spec-ecom_1_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 191
+                "optionId": 5181
             }
         ],
         "collection": "Tubéreuse (Tuberose)",
-        "sales": 460,
-        "inStock": false
+        "sales": 292,
+        "inStock": true
     },
     {
         "id": 519,
@@ -569,20 +559,19 @@
                 "weight": "75ml",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\diffuser\\Roses\\Roses_default.jpg",
-                        "hover": "images\\diffuser\\Roses\\Roses_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Roses/Roses_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Roses/Roses_hover.jpg"
                     },
                     "detail": [
-                        "images\\diffuser\\Roses\\Roses_detail_1.jpg",
-                        "images\\diffuser\\Roses\\Roses_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Roses/Roses_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Roses/Roses_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-roses-hourglass-diffuser-hgrocarb2-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 201
+                "optionId": 5191
             }
         ],
         "collection": "Roses",
-        "sales": 211,
+        "sales": 296,
         "inStock": true
     },
     {
@@ -599,22 +588,21 @@
                 "weight": "200ml",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\diffuser\\Baies_(Berries)\\Baies_(Berries)_default.jpg",
-                        "hover": "images\\diffuser\\Baies_(Berries)\\Baies_(Berries)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Baies_(Berries)/Baies_(Berries)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Baies_(Berries)/Baies_(Berries)_hover.jpg"
                     },
                     "detail": [
-                        "images\\diffuser\\Baies_(Berries)\\Baies_(Berries)_detail_1.jpg",
-                        "images\\diffuser\\Baies_(Berries)\\Baies_(Berries)_detail_2.jpg",
-                        "images\\diffuser\\Baies_(Berries)\\Baies_(Berries)_detail_3.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Baies_(Berries)/Baies_(Berries)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Baies_(Berries)/Baies_(Berries)_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Baies_(Berries)/Baies_(Berries)_detail_3.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/r/e/reed-diffuseur-baies_200ml_reeddifb_rvb_bd_fond-gris_spec-ecom_1_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 211
+                "optionId": 5201
             }
         ],
         "collection": "Baies (Berries)",
-        "sales": 147,
-        "inStock": false
+        "sales": 285,
+        "inStock": true
     },
     {
         "id": 521,
@@ -630,18 +618,19 @@
                 "weight": "150ml",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\diffuser\\Baies_(Berries)\\Baies_(Berries)_default.jpg",
-                        "hover": "images\\diffuser\\Baies_(Berries)\\Baies_(Berries)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Baies_(Berries)/Baies_(Berries)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Baies_(Berries)/Baies_(Berries)_hover.jpg"
                     },
-                    "detail": ["images\\diffuser\\Baies_(Berries)\\Baies_(Berries)_detail_1.jpg"]
+                    "detail": [
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Baies_(Berries)/Baies_(Berries)_detail_1.jpg"
+                    ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-baies-berries-room-spray-vb-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 221
+                "optionId": 5211
             }
         ],
         "collection": "Baies (Berries)",
-        "sales": 35,
-        "inStock": true
+        "sales": 492,
+        "inStock": false
     },
     {
         "id": 522,
@@ -657,20 +646,19 @@
                 "weight": "35g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\diffuser\\Baies_(Berries)\\Baies_(Berries)_default.jpg",
-                        "hover": "images\\diffuser\\Baies_(Berries)\\Baies_(Berries)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Baies_(Berries)/Baies_(Berries)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Baies_(Berries)/Baies_(Berries)_hover.jpg"
                     },
                     "detail": [
-                        "images\\diffuser\\Baies_(Berries)\\Baies_(Berries)_detail_1.jpg",
-                        "images\\diffuser\\Baies_(Berries)\\Baies_(Berries)_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Baies_(Berries)/Baies_(Berries)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Baies_(Berries)/Baies_(Berries)_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-baies-berries-scented-oval-pb-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 231
+                "optionId": 5221
             }
         ],
         "collection": "Baies (Berries)",
-        "sales": 8,
+        "sales": 211,
         "inStock": true
     },
     {
@@ -687,20 +675,19 @@
                 "weight": null,
                 "images": {
                     "thumbnail": {
-                        "default": "images\\diffuser\\Figuier_(Fig_Tree)\\Figuier_(Fig_Tree)_default.jpg",
-                        "hover": "images\\diffuser\\Figuier_(Fig_Tree)\\Figuier_(Fig_Tree)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Figuier_(Fig_Tree)/Figuier_(Fig_Tree)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Figuier_(Fig_Tree)/Figuier_(Fig_Tree)_hover.jpg"
                     },
                     "detail": [
-                        "images\\diffuser\\Figuier_(Fig_Tree)\\Figuier_(Fig_Tree)_detail_1.jpg",
-                        "images\\diffuser\\Figuier_(Fig_Tree)\\Figuier_(Fig_Tree)_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Figuier_(Fig_Tree)/Figuier_(Fig_Tree)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Figuier_(Fig_Tree)/Figuier_(Fig_Tree)_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-car-diffuser-with-figuier-insert-cardiffi-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 241
+                "optionId": 5231
             }
         ],
         "collection": "Figuier (Fig Tree)",
-        "sales": 35,
+        "sales": 330,
         "inStock": false
     },
     {
@@ -717,24 +704,23 @@
                 "weight": null,
                 "images": {
                     "thumbnail": {
-                        "default": "images\\diffuser\\Baies_(Berries)\\Baies_(Berries)_default.jpg",
-                        "hover": "images\\diffuser\\Baies_(Berries)\\Baies_(Berries)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Baies_(Berries)/Baies_(Berries)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Baies_(Berries)/Baies_(Berries)_hover.jpg"
                     },
                     "detail": [
-                        "images\\diffuser\\Baies_(Berries)\\Baies_(Berries)_detail_1.jpg",
-                        "images\\diffuser\\Baies_(Berries)\\Baies_(Berries)_detail_2.jpg",
-                        "images\\diffuser\\Baies_(Berries)\\Baies_(Berries)_detail_3.jpg",
-                        "images\\diffuser\\Baies_(Berries)\\Baies_(Berries)_detail_4.jpg",
-                        "images\\diffuser\\Baies_(Berries)\\Baies_(Berries)_detail_5.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Baies_(Berries)/Baies_(Berries)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Baies_(Berries)/Baies_(Berries)_detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Baies_(Berries)/Baies_(Berries)_detail_3.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Baies_(Berries)/Baies_(Berries)_detail_4.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Baies_(Berries)/Baies_(Berries)_detail_5.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diffuseur-culbuto_culbutob_rvb_bd_fond-gris_spec-ecom_1_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 251
+                "optionId": 5241
             }
         ],
         "collection": "Baies (Berries)",
-        "sales": 453,
-        "inStock": true
+        "sales": 345,
+        "inStock": false
     },
     {
         "id": 525,
@@ -750,20 +736,19 @@
                 "weight": "150ml",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\diffuser\\Figuier_(Fig_Tree)\\Figuier_(Fig_Tree)_default.jpg",
-                        "hover": "images\\diffuser\\Figuier_(Fig_Tree)\\Figuier_(Fig_Tree)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Figuier_(Fig_Tree)/Figuier_(Fig_Tree)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Figuier_(Fig_Tree)/Figuier_(Fig_Tree)_hover.jpg"
                     },
                     "detail": [
-                        "images\\diffuser\\Figuier_(Fig_Tree)\\Figuier_(Fig_Tree)_detail_1.jpg",
-                        "images\\diffuser\\Figuier_(Fig_Tree)\\Figuier_(Fig_Tree)_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Figuier_(Fig_Tree)/Figuier_(Fig_Tree)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Figuier_(Fig_Tree)/Figuier_(Fig_Tree)_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-figuier-fig-tree-room-spray-vfi-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 261
+                "optionId": 5251
             }
         ],
         "collection": "Figuier (Fig Tree)",
-        "sales": 343,
+        "sales": 485,
         "inStock": false
     },
     {
@@ -780,20 +765,19 @@
                 "weight": null,
                 "images": {
                     "thumbnail": {
-                        "default": "images\\diffuser\\Baies_(Berries)\\Baies_(Berries)_default.jpg",
-                        "hover": "images\\diffuser\\Baies_(Berries)\\Baies_(Berries)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Baies_(Berries)/Baies_(Berries)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Baies_(Berries)/Baies_(Berries)_hover.jpg"
                     },
                     "detail": [
-                        "images\\diffuser\\Baies_(Berries)\\Baies_(Berries)_detail_1.jpg",
-                        "images\\diffuser\\Baies_(Berries)\\Baies_(Berries)_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Baies_(Berries)/Baies_(Berries)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Baies_(Berries)/Baies_(Berries)_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-baies-berries-insert-capsb-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 271
+                "optionId": 5261
             }
         ],
         "collection": "Baies (Berries)",
-        "sales": 58,
+        "sales": 214,
         "inStock": true
     },
     {
@@ -810,21 +794,20 @@
                 "weight": "75ml",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\diffuser\\Baies_(Berries)\\Baies_(Berries)_default.jpg",
-                        "hover": "images\\diffuser\\Baies_(Berries)\\Baies_(Berries)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Baies_(Berries)/Baies_(Berries)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Baies_(Berries)/Baies_(Berries)_hover.jpg"
                     },
                     "detail": [
-                        "images\\diffuser\\Baies_(Berries)\\Baies_(Berries)_detail_1.jpg",
-                        "images\\diffuser\\Baies_(Berries)\\Baies_(Berries)_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Baies_(Berries)/Baies_(Berries)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Baies_(Berries)/Baies_(Berries)_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-baies-berries-hourglass-diffuser-hgbcarb3-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 281
+                "optionId": 5271
             }
         ],
         "collection": "Baies (Berries)",
-        "sales": 320,
-        "inStock": true
+        "sales": 321,
+        "inStock": false
     },
     {
         "id": 528,
@@ -840,20 +823,19 @@
                 "weight": "35g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\diffuser\\Figuier_(Fig_Tree)\\Figuier_(Fig_Tree)_default.jpg",
-                        "hover": "images\\diffuser\\Figuier_(Fig_Tree)\\Figuier_(Fig_Tree)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Figuier_(Fig_Tree)/Figuier_(Fig_Tree)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Figuier_(Fig_Tree)/Figuier_(Fig_Tree)_hover.jpg"
                     },
                     "detail": [
-                        "images\\diffuser\\Figuier_(Fig_Tree)\\Figuier_(Fig_Tree)_detail_1.jpg",
-                        "images\\diffuser\\Figuier_(Fig_Tree)\\Figuier_(Fig_Tree)_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Figuier_(Fig_Tree)/Figuier_(Fig_Tree)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Figuier_(Fig_Tree)/Figuier_(Fig_Tree)_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-figuier-fig-tree-scented-oval-pfi-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 291
+                "optionId": 5281
             }
         ],
         "collection": "Figuier (Fig Tree)",
-        "sales": 150,
+        "sales": 60,
         "inStock": false
     },
     {
@@ -870,21 +852,20 @@
                 "weight": "75ml",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\diffuser\\Figuier_(Fig_Tree)\\Figuier_(Fig_Tree)_default.jpg",
-                        "hover": "images\\diffuser\\Figuier_(Fig_Tree)\\Figuier_(Fig_Tree)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Figuier_(Fig_Tree)/Figuier_(Fig_Tree)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Figuier_(Fig_Tree)/Figuier_(Fig_Tree)_hover.jpg"
                     },
                     "detail": [
-                        "images\\diffuser\\Figuier_(Fig_Tree)\\Figuier_(Fig_Tree)_detail_1.jpg",
-                        "images\\diffuser\\Figuier_(Fig_Tree)\\Figuier_(Fig_Tree)_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Figuier_(Fig_Tree)/Figuier_(Fig_Tree)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Figuier_(Fig_Tree)/Figuier_(Fig_Tree)_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-figuier-fig-tree-hourglass-diffuser-hgficarb2-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 301
+                "optionId": 5291
             }
         ],
         "collection": "Figuier (Fig Tree)",
-        "sales": 121,
-        "inStock": true
+        "sales": 448,
+        "inStock": false
     },
     {
         "id": 530,
@@ -900,20 +881,19 @@
                 "weight": null,
                 "images": {
                     "thumbnail": {
-                        "default": "images\\diffuser\\Baies_(Berries)\\Baies_(Berries)_default.jpg",
-                        "hover": "images\\diffuser\\Baies_(Berries)\\Baies_(Berries)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Baies_(Berries)/Baies_(Berries)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Baies_(Berries)/Baies_(Berries)_hover.jpg"
                     },
                     "detail": [
-                        "images\\diffuser\\Baies_(Berries)\\Baies_(Berries)_detail_1.jpg",
-                        "images\\diffuser\\Baies_(Berries)\\Baies_(Berries)_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Baies_(Berries)/Baies_(Berries)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Baies_(Berries)/Baies_(Berries)_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-car-diffuser-with-baies-insert-cardifb-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 311
+                "optionId": 5301
             }
         ],
         "collection": "Baies (Berries)",
-        "sales": 177,
+        "sales": 405,
         "inStock": false
     },
     {
@@ -930,21 +910,20 @@
                 "weight": null,
                 "images": {
                     "thumbnail": {
-                        "default": "images\\diffuser\\Figuier_(Fig_Tree)\\Figuier_(Fig_Tree)_default.jpg",
-                        "hover": "images\\diffuser\\Figuier_(Fig_Tree)\\Figuier_(Fig_Tree)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Figuier_(Fig_Tree)/Figuier_(Fig_Tree)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Figuier_(Fig_Tree)/Figuier_(Fig_Tree)_hover.jpg"
                     },
                     "detail": [
-                        "images\\diffuser\\Figuier_(Fig_Tree)\\Figuier_(Fig_Tree)_detail_1.jpg",
-                        "images\\diffuser\\Figuier_(Fig_Tree)\\Figuier_(Fig_Tree)_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Figuier_(Fig_Tree)/Figuier_(Fig_Tree)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Figuier_(Fig_Tree)/Figuier_(Fig_Tree)_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-figuier-fig-tree-insert-capsfi-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 321
+                "optionId": 5311
             }
         ],
         "collection": "Figuier (Fig Tree)",
-        "sales": 219,
-        "inStock": true
+        "sales": 290,
+        "inStock": false
     },
     {
         "id": 532,
@@ -960,20 +939,19 @@
                 "weight": "200ml",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\diffuser\\Baies_(Berries)\\Baies_(Berries)_default.jpg",
-                        "hover": "images\\diffuser\\Baies_(Berries)\\Baies_(Berries)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Baies_(Berries)/Baies_(Berries)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Baies_(Berries)/Baies_(Berries)_hover.jpg"
                     },
                     "detail": [
-                        "images\\diffuser\\Baies_(Berries)\\Baies_(Berries)_detail_1.jpg",
-                        "images\\diffuser\\Baies_(Berries)\\Baies_(Berries)_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Baies_(Berries)/Baies_(Berries)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Baies_(Berries)/Baies_(Berries)_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/b/a/baies-home-fragrance-diffuseur-refill_200ml_refreedb_rvb_bd_fond-gris_spec-ecom_1_diptyque_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 331
+                "optionId": 5321
             }
         ],
         "collection": "Baies (Berries)",
-        "sales": 362,
+        "sales": 235,
         "inStock": false
     },
     {
@@ -990,18 +968,19 @@
                 "weight": null,
                 "images": {
                     "thumbnail": {
-                        "default": "images\\diffuser\\Baies_(Berries)\\Baies_(Berries)_default.jpg",
-                        "hover": "images\\diffuser\\Baies_(Berries)\\Baies_(Berries)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Baies_(Berries)/Baies_(Berries)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Baies_(Berries)/Baies_(Berries)_hover.jpg"
                     },
-                    "detail": ["images\\diffuser\\Baies_(Berries)\\Baies_(Berries)_detail_1.jpg"]
+                    "detail": [
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Baies_(Berries)/Baies_(Berries)_detail_1.jpg"
+                    ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/r/e/recharge-diffuseur-culbuto_refb1culbut_rvb_fond-gris_spec-ecom_1_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 341
+                "optionId": 5331
             }
         ],
         "collection": "Baies (Berries)",
-        "sales": 195,
-        "inStock": false
+        "sales": 169,
+        "inStock": true
     },
     {
         "id": 534,
@@ -1017,21 +996,20 @@
                 "weight": "75ml",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\diffuser\\Gingembre_(Ginger)\\Gingembre_(Ginger)_default.jpg",
-                        "hover": "images\\diffuser\\Gingembre_(Ginger)\\Gingembre_(Ginger)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Gingembre_(Ginger)/Gingembre_(Ginger)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Gingembre_(Ginger)/Gingembre_(Ginger)_hover.jpg"
                     },
                     "detail": [
-                        "images\\diffuser\\Gingembre_(Ginger)\\Gingembre_(Ginger)_detail_1.jpg",
-                        "images\\diffuser\\Gingembre_(Ginger)\\Gingembre_(Ginger)_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Gingembre_(Ginger)/Gingembre_(Ginger)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Gingembre_(Ginger)/Gingembre_(Ginger)_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-gingembre-ginger-hourglass-diffuser-hgggcarb2-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 351
+                "optionId": 5341
             }
         ],
         "collection": "Gingembre (Ginger)",
-        "sales": 249,
-        "inStock": true
+        "sales": 218,
+        "inStock": false
     },
     {
         "id": 535,
@@ -1047,21 +1025,20 @@
                 "weight": "150ml",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\diffuser\\Gingembre_(Ginger)\\Gingembre_(Ginger)_default.jpg",
-                        "hover": "images\\diffuser\\Gingembre_(Ginger)\\Gingembre_(Ginger)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Gingembre_(Ginger)/Gingembre_(Ginger)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Gingembre_(Ginger)/Gingembre_(Ginger)_hover.jpg"
                     },
                     "detail": [
-                        "images\\diffuser\\Gingembre_(Ginger)\\Gingembre_(Ginger)_detail_1.jpg",
-                        "images\\diffuser\\Gingembre_(Ginger)\\Gingembre_(Ginger)_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Gingembre_(Ginger)/Gingembre_(Ginger)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Gingembre_(Ginger)/Gingembre_(Ginger)_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-gingembre-ginger-room-spray-vggv1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 361
+                "optionId": 5351
             }
         ],
         "collection": "Gingembre (Ginger)",
-        "sales": 279,
-        "inStock": true
+        "sales": 32,
+        "inStock": false
     },
     {
         "id": 536,
@@ -1077,21 +1054,20 @@
                 "weight": null,
                 "images": {
                     "thumbnail": {
-                        "default": "images\\diffuser\\Gingembre_(Ginger)\\Gingembre_(Ginger)_default.jpg",
-                        "hover": "images\\diffuser\\Gingembre_(Ginger)\\Gingembre_(Ginger)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Gingembre_(Ginger)/Gingembre_(Ginger)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Gingembre_(Ginger)/Gingembre_(Ginger)_hover.jpg"
                     },
                     "detail": [
-                        "images\\diffuser\\Gingembre_(Ginger)\\Gingembre_(Ginger)_detail_1.jpg",
-                        "images\\diffuser\\Gingembre_(Ginger)\\Gingembre_(Ginger)_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Gingembre_(Ginger)/Gingembre_(Ginger)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Gingembre_(Ginger)/Gingembre_(Ginger)_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-gingembre-ginger-insert-capsgg-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 371
+                "optionId": 5361
             }
         ],
         "collection": "Gingembre (Ginger)",
-        "sales": 308,
-        "inStock": false
+        "sales": 188,
+        "inStock": true
     },
     {
         "id": 537,
@@ -1107,18 +1083,19 @@
                 "weight": "150ml",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\diffuser\\34_boulevard_Saint_Germain\\34_boulevard_Saint_Germain_default.jpg",
-                        "hover": "images\\diffuser\\34_boulevard_Saint_Germain\\34_boulevard_Saint_Germain_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/34_boulevard_Saint_Germain/34_boulevard_Saint_Germain_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/34_boulevard_Saint_Germain/34_boulevard_Saint_Germain_hover.jpg"
                     },
-                    "detail": ["images\\diffuser\\34_boulevard_Saint_Germain\\34_boulevard_Saint_Germain_detail_1.jpg"]
+                    "detail": [
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/34_boulevard_Saint_Germain/34_boulevard_Saint_Germain_detail_1.jpg"
+                    ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-34-boulevard-saint-germain-room-spray-v34b-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 381
+                "optionId": 5371
             }
         ],
         "collection": "34 boulevard Saint Germain",
-        "sales": 184,
-        "inStock": true
+        "sales": 438,
+        "inStock": false
     },
     {
         "id": 538,
@@ -1134,21 +1111,20 @@
                 "weight": null,
                 "images": {
                     "thumbnail": {
-                        "default": "images\\diffuser\\34_boulevard_Saint_Germain\\34_boulevard_Saint_Germain_default.jpg",
-                        "hover": "images\\diffuser\\34_boulevard_Saint_Germain\\34_boulevard_Saint_Germain_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/34_boulevard_Saint_Germain/34_boulevard_Saint_Germain_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/34_boulevard_Saint_Germain/34_boulevard_Saint_Germain_hover.jpg"
                     },
                     "detail": [
-                        "images\\diffuser\\34_boulevard_Saint_Germain\\34_boulevard_Saint_Germain_detail_1.jpg",
-                        "images\\diffuser\\34_boulevard_Saint_Germain\\34_boulevard_Saint_Germain_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/34_boulevard_Saint_Germain/34_boulevard_Saint_Germain_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/34_boulevard_Saint_Germain/34_boulevard_Saint_Germain_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-34-boulevard-saint-germain-insert-caps34-1_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 391
+                "optionId": 5381
             }
         ],
         "collection": "34 boulevard Saint Germain",
-        "sales": 284,
-        "inStock": true
+        "sales": 13,
+        "inStock": false
     },
     {
         "id": 539,
@@ -1164,21 +1140,20 @@
                 "weight": null,
                 "images": {
                     "thumbnail": {
-                        "default": "images\\diffuser\\34_boulevard_Saint_Germain\\34_boulevard_Saint_Germain_default.jpg",
-                        "hover": "images\\diffuser\\34_boulevard_Saint_Germain\\34_boulevard_Saint_Germain_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/34_boulevard_Saint_Germain/34_boulevard_Saint_Germain_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/34_boulevard_Saint_Germain/34_boulevard_Saint_Germain_hover.jpg"
                     },
                     "detail": [
-                        "images\\diffuser\\34_boulevard_Saint_Germain\\34_boulevard_Saint_Germain_detail_1.jpg",
-                        "images\\diffuser\\34_boulevard_Saint_Germain\\34_boulevard_Saint_Germain_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/34_boulevard_Saint_Germain/34_boulevard_Saint_Germain_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/34_boulevard_Saint_Germain/34_boulevard_Saint_Germain_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-car-diffuser-with-34-boulevard-saint-germain-insert-cardif34b-1_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 401
+                "optionId": 5391
             }
         ],
         "collection": "34 boulevard Saint Germain",
-        "sales": 438,
-        "inStock": true
+        "sales": 125,
+        "inStock": false
     },
     {
         "id": 540,
@@ -1194,21 +1169,20 @@
                 "weight": "75ml",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\diffuser\\34_boulevard_Saint_Germain\\34_boulevard_Saint_Germain_default.jpg",
-                        "hover": "images\\diffuser\\34_boulevard_Saint_Germain\\34_boulevard_Saint_Germain_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/34_boulevard_Saint_Germain/34_boulevard_Saint_Germain_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/34_boulevard_Saint_Germain/34_boulevard_Saint_Germain_hover.jpg"
                     },
                     "detail": [
-                        "images\\diffuser\\34_boulevard_Saint_Germain\\34_boulevard_Saint_Germain_detail_1.jpg",
-                        "images\\diffuser\\34_boulevard_Saint_Germain\\34_boulevard_Saint_Germain_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/34_boulevard_Saint_Germain/34_boulevard_Saint_Germain_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/34_boulevard_Saint_Germain/34_boulevard_Saint_Germain_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-34-boulevard-saint-germain-hourglass-diffuser-hg34bcarb2-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 411
+                "optionId": 5401
             }
         ],
         "collection": "34 boulevard Saint Germain",
-        "sales": 185,
-        "inStock": false
+        "sales": 453,
+        "inStock": true
     },
     {
         "id": 541,
@@ -1224,21 +1198,20 @@
                 "weight": "35g",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\diffuser\\34_boulevard_Saint_Germain\\34_boulevard_Saint_Germain_default.jpg",
-                        "hover": "images\\diffuser\\34_boulevard_Saint_Germain\\34_boulevard_Saint_Germain_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/34_boulevard_Saint_Germain/34_boulevard_Saint_Germain_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/34_boulevard_Saint_Germain/34_boulevard_Saint_Germain_hover.jpg"
                     },
                     "detail": [
-                        "images\\diffuser\\34_boulevard_Saint_Germain\\34_boulevard_Saint_Germain_detail_1.jpg",
-                        "images\\diffuser\\34_boulevard_Saint_Germain\\34_boulevard_Saint_Germain_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/34_boulevard_Saint_Germain/34_boulevard_Saint_Germain_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/34_boulevard_Saint_Germain/34_boulevard_Saint_Germain_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-34-boulevard-saint-germain-scented-oval-p34b-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 421
+                "optionId": 5411
             }
         ],
         "collection": "34 boulevard Saint Germain",
-        "sales": 466,
-        "inStock": false
+        "sales": 19,
+        "inStock": true
     },
     {
         "id": 542,
@@ -1254,18 +1227,19 @@
                 "weight": "150ml",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\diffuser\\Ambre_(Amber)\\Ambre_(Amber)_default.jpg",
-                        "hover": "images\\diffuser\\Ambre_(Amber)\\Ambre_(Amber)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Ambre_(Amber)/Ambre_(Amber)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Ambre_(Amber)/Ambre_(Amber)_hover.jpg"
                     },
-                    "detail": ["images\\diffuser\\Ambre_(Amber)\\Ambre_(Amber)_detail_1.jpg"]
+                    "detail": [
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Ambre_(Amber)/Ambre_(Amber)_detail_1.jpg"
+                    ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-ambre-amber-room-spray-vab-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 431
+                "optionId": 5421
             }
         ],
         "collection": "Ambre (Amber)",
-        "sales": 15,
-        "inStock": true
+        "sales": 17,
+        "inStock": false
     },
     {
         "id": 543,
@@ -1281,20 +1255,19 @@
                 "weight": "200ml",
                 "images": {
                     "thumbnail": {
-                        "default": "images\\diffuser\\34_boulevard_Saint_Germain\\34_boulevard_Saint_Germain_default.jpg",
-                        "hover": "images\\diffuser\\34_boulevard_Saint_Germain\\34_boulevard_Saint_Germain_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/34_boulevard_Saint_Germain/34_boulevard_Saint_Germain_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/34_boulevard_Saint_Germain/34_boulevard_Saint_Germain_hover.jpg"
                     },
                     "detail": [
-                        "images\\diffuser\\34_boulevard_Saint_Germain\\34_boulevard_Saint_Germain_detail_1.jpg",
-                        "images\\diffuser\\34_boulevard_Saint_Germain\\34_boulevard_Saint_Germain_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/34_boulevard_Saint_Germain/34_boulevard_Saint_Germain_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/34_boulevard_Saint_Germain/34_boulevard_Saint_Germain_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-34-boulevard-saint-germain-home-fragrance-diffuser-refill-refreed34b-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 441
+                "optionId": 5431
             }
         ],
         "collection": "34 boulevard Saint Germain",
-        "sales": 63,
+        "sales": 428,
         "inStock": true
     },
     {
@@ -1311,20 +1284,19 @@
                 "weight": null,
                 "images": {
                     "thumbnail": {
-                        "default": "images\\diffuser\\Ambre_(Amber)\\Ambre_(Amber)_default.jpg",
-                        "hover": "images\\diffuser\\Ambre_(Amber)\\Ambre_(Amber)_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Ambre_(Amber)/Ambre_(Amber)_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Ambre_(Amber)/Ambre_(Amber)_hover.jpg"
                     },
                     "detail": [
-                        "images\\diffuser\\Ambre_(Amber)\\Ambre_(Amber)_detail_1.jpg",
-                        "images\\diffuser\\Ambre_(Amber)\\Ambre_(Amber)_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Ambre_(Amber)/Ambre_(Amber)_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Ambre_(Amber)/Ambre_(Amber)_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-ambre-insert-capsab-1_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 451
+                "optionId": 5441
             }
         ],
         "collection": "Ambre (Amber)",
-        "sales": 207,
+        "sales": 290,
         "inStock": false
     },
     {
@@ -1341,20 +1313,19 @@
                 "weight": null,
                 "images": {
                     "thumbnail": {
-                        "default": "images\\diffuser\\Electric_Diffuser\\Electric_Diffuser_default.jpg",
-                        "hover": "images\\diffuser\\Electric_Diffuser\\Electric_Diffuser_hover.jpg"
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Electric_Diffuser/Electric_Diffuser_default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Electric_Diffuser/Electric_Diffuser_hover.jpg"
                     },
                     "detail": [
-                        "images\\diffuser\\Electric_Diffuser\\Electric_Diffuser_detail_1.jpg",
-                        "images\\diffuser\\Electric_Diffuser\\Electric_Diffuser_detail_2.jpg"
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Electric_Diffuser/Electric_Diffuser_detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic/main/images/diffuser/Electric_Diffuser/Electric_Diffuser_detail_2.jpg"
                     ]
                 },
-                "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-electric-wall-diffuser-elecplug-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
-                "optionId": 461
+                "optionId": 5451
             }
         ],
         "collection": null,
-        "sales": 442,
+        "sales": 184,
         "inStock": false
     }
 ]
