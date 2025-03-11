@@ -18,13 +18,13 @@
                 "price": 250,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-de-parfum-benjoin-boheme-75ml-bohemep75c-1_2.jpg?quality=100&width=1024",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-de-parfum-benjoin-boheme-75ml-bohemep75c-2_2.jpg?quality=100&width=1024"
+                        "default": "images\\perfume\\Benjoin_Bohème\\Benjoin_Bohème_default.jpg",
+                        "hover": "images\\perfume\\Benjoin_Bohème\\Benjoin_Bohème_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-de-parfum-benjoin-boheme-75ml-bohemep75c-1_2.jpg?quality=100&width=1024",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-de-parfum-benjoin-boheme-75ml-bohemep75c-2_2.jpg?quality=100&width=1024",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-de-parfum-benjoin-boheme-75ml-bohemep75c-3_2.jpg?quality=100&width=1024"
+                        "images\\perfume\\Benjoin_Bohème\\Benjoin_Bohème_detail_1.jpg",
+                        "images\\perfume\\Benjoin_Bohème\\Benjoin_Bohème_detail_2.jpg",
+                        "images\\perfume\\Benjoin_Bohème\\Benjoin_Bohème_detail_3.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-duelle-eau-de-toilette-50ml-duelle50-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -52,13 +52,13 @@
                 "price": 170,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-duelle-eau-de-parfum-75ml-duellep75-1.jpg?quality=100&width=1024",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-duelle-eau-de-parfum-75ml-duellep75-2.jpg?quality=100&width=1024"
+                        "default": "images\\perfume\\Eau_Duelle\\Eau_Duelle_default.jpg",
+                        "hover": "images\\perfume\\Eau_Duelle\\Eau_Duelle_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-duelle-eau-de-parfum-75ml-duellep75-1.jpg?quality=100&width=1024",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-duelle-eau-de-parfum-75ml-duellep75-2.jpg?quality=100&width=1024",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-duelle-eau-de-parfum-75ml-duellep75-3.jpg?quality=100&width=1024"
+                        "images\\perfume\\Eau_Duelle\\Eau_Duelle_detail_1.jpg",
+                        "images\\perfume\\Eau_Duelle\\Eau_Duelle_detail_2.jpg",
+                        "images\\perfume\\Eau_Duelle\\Eau_Duelle_detail_3.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-duelle-eau-de-parfum-75ml-duellep75-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -86,13 +86,13 @@
                 "price": 105,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-duelle-eau-de-toilette-50ml-duelle50-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-duelle-eau-de-toilette-50ml-duelle50-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\Eau_Duelle\\Eau_Duelle_default.jpg",
+                        "hover": "images\\perfume\\Eau_Duelle\\Eau_Duelle_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-duelle-eau-de-toilette-50ml-duelle50-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-duelle-eau-de-toilette-50ml-duelle50-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-duelle-eau-de-toilette-50ml-duelle50-3.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\Eau_Duelle\\Eau_Duelle_detail_1.jpg",
+                        "images\\perfume\\Eau_Duelle\\Eau_Duelle_detail_2.jpg",
+                        "images\\perfume\\Eau_Duelle\\Eau_Duelle_detail_3.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-duelle-eau-de-toilette-50ml-duelle50-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -103,13 +103,13 @@
                 "price": 145,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-duelle-eau-de-toilette-100ml-duelle100-1_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-duelle-eau-de-toilette-100ml-duelle100-2_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\Eau_Duelle\\Eau_Duelle_default.jpg",
+                        "hover": "images\\perfume\\Eau_Duelle\\Eau_Duelle_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-duelle-eau-de-toilette-100ml-duelle100-1_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-duelle-eau-de-toilette-100ml-duelle100-2_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-duelle-eau-de-toilette-100ml-duelle100-3_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\Eau_Duelle\\Eau_Duelle_detail_1.jpg",
+                        "images\\perfume\\Eau_Duelle\\Eau_Duelle_detail_2.jpg",
+                        "images\\perfume\\Eau_Duelle\\Eau_Duelle_detail_3.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-duelle-eau-de-toilette-100ml-duelle100-1_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -141,13 +141,13 @@
                 "price": 145,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-lente-eau-de-toilette-100ml-lente100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-lente-eau-de-toilette-100ml-lente100-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\Eau_Lente\\Eau_Lente_default.jpg",
+                        "hover": "images\\perfume\\Eau_Lente\\Eau_Lente_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-lente-eau-de-toilette-100ml-lente100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-lente-eau-de-toilette-100ml-lente100-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-lente-eau-de-toilette-100ml-lente100-3.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\Eau_Lente\\Eau_Lente_detail_1.jpg",
+                        "images\\perfume\\Eau_Lente\\Eau_Lente_detail_2.jpg",
+                        "images\\perfume\\Eau_Lente\\Eau_Lente_detail_3.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-lente-eau-de-toilette-100ml-lente100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -178,13 +178,13 @@
                 "price": 250,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-nabati-eau-de-parfum-75ml-nabatip75c-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-nabati-eau-de-parfum-75ml-nabatip75c-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\Eau_Navati\\Eau_Navati_default.jpg",
+                        "hover": "images\\perfume\\Eau_Navati\\Eau_Navati_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-nabati-eau-de-parfum-75ml-nabatip75c-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-nabati-eau-de-parfum-75ml-nabatip75c-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-nabati-eau-de-parfum-75ml-nabatip75c-3.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\Eau_Navati\\Eau_Navati_detail_1.jpg",
+                        "images\\perfume\\Eau_Navati\\Eau_Navati_detail_2.jpg",
+                        "images\\perfume\\Eau_Navati\\Eau_Navati_detail_3.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-nabati-eau-de-parfum-75ml-nabatip75c-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -216,13 +216,13 @@
                 "price": 250,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-rihla-eau-de-parfum-75ml-meastp75c-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-rihla-eau-de-parfum-75ml-meastp75c-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\Eau_Rihla\\Eau_Rihla_default.jpg",
+                        "hover": "images\\perfume\\Eau_Rihla\\Eau_Rihla_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-rihla-eau-de-parfum-75ml-meastp75c-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-rihla-eau-de-parfum-75ml-meastp75c-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-rihla-eau-de-parfum-75ml-meastp75c-3.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\Eau_Rihla\\Eau_Rihla_detail_1.jpg",
+                        "images\\perfume\\Eau_Rihla\\Eau_Rihla_detail_2.jpg",
+                        "images\\perfume\\Eau_Rihla\\Eau_Rihla_detail_3.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-rihla-eau-de-parfum-75ml-meastp75c-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -254,13 +254,13 @@
                 "price": 145,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-autre-eau-de-toilette-100ml-autre100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-autre-eau-de-toilette-100ml-autre100-2.jpg?format=webp&width=430&quality=90"
+                        "default": "images\\perfume\\L'Autre_\\L'Autre__default.jpg",
+                        "hover": "images\\perfume\\L'Autre_\\L'Autre__hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-autre-eau-de-toilette-100ml-autre100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-autre-eau-de-toilette-100ml-autre100-2.jpg?format=webp&width=430&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-autre-eau-de-toilette-100ml-autre100-3_2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\L'Autre_\\L'Autre__detail_1.jpg",
+                        "images\\perfume\\L'Autre_\\L'Autre__detail_2.jpg",
+                        "images\\perfume\\L'Autre_\\L'Autre__detail_3.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-autre-eau-de-toilette-100ml-autre100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -292,13 +292,13 @@
                 "price": 145,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-eau-eau-de-toilette-100ml-eau100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-eau-eau-de-toilette-100ml-eau100-2.jpg?format=webp&width=430&quality=90"
+                        "default": "images\\perfume\\L'Eau\\L'Eau_default.jpg",
+                        "hover": "images\\perfume\\L'Eau\\L'Eau_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-eau-eau-de-toilette-100ml-eau100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-eau-eau-de-toilette-100ml-eau100-2.jpg?format=webp&width=430&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-eau-eau-de-toilette-100ml-eau100-3.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\L'Eau\\L'Eau_detail_1.jpg",
+                        "images\\perfume\\L'Eau\\L'Eau_detail_2.jpg",
+                        "images\\perfume\\L'Eau\\L'Eau_detail_3.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-eau-eau-de-toilette-100ml-eau100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -329,15 +329,15 @@
                 "price": 275,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/l/i/lilyph_a_100ml_lilyphea100_rvb_hd_fond-gris_spec-ecom_1_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/l/i/lilyph_a_100ml_lilyphea100_rvb_hd_fond-gris_spec-ecom_3_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\Lilyphéa_\\Lilyphéa__default.jpg",
+                        "hover": "images\\perfume\\Lilyphéa_\\Lilyphéa__hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/l/i/lilyph_a_100ml_lilyphea100_rvb_hd_fond-gris_spec-ecom_1_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/l/i/lilyph_a_100ml_lilyphea100_rvb_hd_fond-gris_spec-ecom_3_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/l/e/les_essences_2024_visuel_mono_lilyph_a_rvb_2025x2700px_diptyque__visual_only.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/l/i/lilyph_a_100ml_lilyphea100_rvb_hd_spec-ecom_4_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/l/i/lilyph_a_100ml_lilyphea100_rvb_hd_fond-gris_spec-ecom_2_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\Lilyphéa_\\Lilyphéa__detail_1.jpg",
+                        "images\\perfume\\Lilyphéa_\\Lilyphéa__detail_2.jpg",
+                        "images\\perfume\\Lilyphéa_\\Lilyphéa__detail_3.jpg",
+                        "images\\perfume\\Lilyphéa_\\Lilyphéa__detail_4.jpg",
+                        "images\\perfume\\Lilyphéa_\\Lilyphéa__detail_5.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/l/i/lilyph_a_100ml_lilyphea100_rvb_hd_fond-gris_spec-ecom_1_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -368,15 +368,15 @@
                 "price": 275,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/l/u/lunamaris_100ml_lunamar100_rvb_hd_fond-gris_spec-ecom_1_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/l/e/les_essences_2024_visuel_mono_lunamaris_rvb_2025x2700px_diptyque_visual_only.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\Lunamaris_\\Lunamaris__default.jpg",
+                        "hover": "images\\perfume\\Lunamaris_\\Lunamaris__hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/l/u/lunamaris_100ml_lunamar100_rvb_hd_fond-gris_spec-ecom_1_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/l/e/les_essences_2024_visuel_mono_lunamaris_rvb_2025x2700px_diptyque_visual_only.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/l/u/lunamaris_100ml_lunamar100_rvb_hd_fond-gris_spec-ecom_3_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/l/u/lunamaris_les-essences-de-diptyque_100ml_lunamar100_rvb_hd_spec-ecom_4_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/l/u/lunamaris_100ml_lunamar100_rvb_hd_fond-gris_spec-ecom_2_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\Lunamaris_\\Lunamaris__detail_1.jpg",
+                        "images\\perfume\\Lunamaris_\\Lunamaris__detail_2.jpg",
+                        "images\\perfume\\Lunamaris_\\Lunamaris__detail_3.jpg",
+                        "images\\perfume\\Lunamaris_\\Lunamaris__detail_4.jpg",
+                        "images\\perfume\\Lunamaris_\\Lunamaris__detail_5.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/l/u/lunamaris_100ml_lunamar100_rvb_hd_fond-gris_spec-ecom_1_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -408,13 +408,13 @@
                 "price": 170,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-volutes-eau-de-parfum-75ml-volutp75v1-1_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-volutes-eau-de-parfum-75ml-volutp75v1-2_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\Volutes_\\Volutes__default.jpg",
+                        "hover": "images\\perfume\\Volutes_\\Volutes__hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-volutes-eau-de-parfum-75ml-volutp75v1-1_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-volutes-eau-de-parfum-75ml-volutp75v1-2_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-volutes-eau-de-parfum-75ml-volutp75v1-3_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\Volutes_\\Volutes__detail_1.jpg",
+                        "images\\perfume\\Volutes_\\Volutes__detail_2.jpg",
+                        "images\\perfume\\Volutes_\\Volutes__detail_3.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-volutes-eau-de-parfum-75ml-volutp75v1-1_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -446,13 +446,13 @@
                 "price": 170,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-do-son-eau-de-parfum-75ml-dosonp75-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-do-son-eau-de-parfum-75ml-dosonp75-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\Do_son_\\Do_son__default.jpg",
+                        "hover": "images\\perfume\\Do_son_\\Do_son__hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-do-son-eau-de-parfum-75ml-dosonp75-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-do-son-eau-de-parfum-75ml-dosonp75-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-do-son-eau-de-parfum-75ml-dosonp75-3.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\Do_son_\\Do_son__detail_1.jpg",
+                        "images\\perfume\\Do_son_\\Do_son__detail_2.jpg",
+                        "images\\perfume\\Do_son_\\Do_son__detail_3.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-do-son-eau-de-parfum-75ml-dosonp75-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -484,13 +484,13 @@
                 "price": 105,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-do-son-eau-de-toilette-50ml-doson50-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-do-son-eau-de-toilette-50ml-doson50-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\Do_son\\Do_son_default.jpg",
+                        "hover": "images\\perfume\\Do_son\\Do_son_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-do-son-eau-de-toilette-50ml-doson50-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-do-son-eau-de-toilette-50ml-doson50-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-do-son-eau-de-toilette-50ml-doson50-3.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\Do_son\\Do_son_detail_1.jpg",
+                        "images\\perfume\\Do_son\\Do_son_detail_2.jpg",
+                        "images\\perfume\\Do_son\\Do_son_detail_3.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-do-son-eau-de-toilette-50ml-doson50-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -501,13 +501,13 @@
                 "price": 145,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-do-son-eau-de-toilette-100ml-doson100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-do-son-eau-de-toilette-100ml-doson100-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\Do_son\\Do_son_default.jpg",
+                        "hover": "images\\perfume\\Do_son\\Do_son_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-do-son-eau-de-toilette-50ml-doson50-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-do-son-eau-de-toilette-50ml-doson50-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-do-son-eau-de-toilette-100ml-doson100-3.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\Do_son\\Do_son_detail_1.jpg",
+                        "images\\perfume\\Do_son\\Do_son_detail_2.jpg",
+                        "images\\perfume\\Do_son\\Do_son_detail_3.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-do-son-eau-de-toilette-100ml-doson100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -539,12 +539,12 @@
                 "price": 60,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-do-son-refillable-solid-perfume-solidedoson-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-do-son-refillable-solid-perfume-solidedoson-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\Do_son\\Do_son_default.jpg",
+                        "hover": "images\\perfume\\Do_son\\Do_son_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-do-son-refillable-solid-perfume-solidedoson-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-do-son-refillable-solid-perfume-solidedoson-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\Do_son\\Do_son_detail_1.jpg",
+                        "images\\perfume\\Do_son\\Do_son_detail_2.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-do-son-refillable-solid-perfume-solidedoson-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -576,14 +576,14 @@
                 "price": 170,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-capitale-eau-de-parfum-75ml-capitap75c-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-capitale-eau-de-parfum-75ml-capitap75c-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\Eau_Capitale\\Eau_Capitale_default.jpg",
+                        "hover": "images\\perfume\\Eau_Capitale\\Eau_Capitale_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-capitale-eau-de-parfum-75ml-capitap75c-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-capitale-eau-de-parfum-75ml-capitap75c-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-capitale-eau-de-parfum-75ml-capitap75c-3.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/e/destination-paris_visuel_edp-eau-capitale_2024_2025x2700_rvb_hd_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\Eau_Capitale\\Eau_Capitale_detail_1.jpg",
+                        "images\\perfume\\Eau_Capitale\\Eau_Capitale_detail_2.jpg",
+                        "images\\perfume\\Eau_Capitale\\Eau_Capitale_detail_3.jpg",
+                        "images\\perfume\\Eau_Capitale\\Eau_Capitale_detail_4.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-capitale-eau-de-parfum-75ml-capitap75c-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -615,12 +615,12 @@
                 "price": 60,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-capitale-refillable-solid-perfume-solidecapi-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-capitale-refillable-solid-perfume-solidecapi-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\Eau_Capitale\\Eau_Capitale_default.jpg",
+                        "hover": "images\\perfume\\Eau_Capitale\\Eau_Capitale_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-capitale-refillable-solid-perfume-solidecapi-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-capitale-refillable-solid-perfume-solidecapi-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\Eau_Capitale\\Eau_Capitale_detail_1.jpg",
+                        "images\\perfume\\Eau_Capitale\\Eau_Capitale_detail_2.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-capitale-refillable-solid-perfume-solidecapi-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -652,13 +652,13 @@
                 "price": 105,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-des-sens-eau-de-toilette-50ml-sens50v1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-des-sens-eau-de-toilette-50ml-sens50v1-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\Eau_des_Sens\\Eau_des_Sens_default.jpg",
+                        "hover": "images\\perfume\\Eau_des_Sens\\Eau_des_Sens_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-des-sens-eau-de-toilette-50ml-sens50v1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-des-sens-eau-de-toilette-50ml-sens50v1-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-des-sens-eau-de-toilette-50ml-sens50v1-3.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\Eau_des_Sens\\Eau_des_Sens_detail_1.jpg",
+                        "images\\perfume\\Eau_des_Sens\\Eau_des_Sens_detail_2.jpg",
+                        "images\\perfume\\Eau_des_Sens\\Eau_des_Sens_detail_3.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-des-sens-eau-de-toilette-50ml-sens50v1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -669,13 +669,13 @@
                 "price": 145,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-des-sens-eau-de-toilette-100ml-sens100v1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-des-sens-eau-de-toilette-100ml-sens100v1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\Eau_des_Sens\\Eau_des_Sens_default.jpg",
+                        "hover": "images\\perfume\\Eau_des_Sens\\Eau_des_Sens_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-des-sens-eau-de-toilette-100ml-sens100v1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-des-sens-eau-de-toilette-100ml-sens100v1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-des-sens-eau-de-toilette-100ml-sens100v1-3.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\Eau_des_Sens\\Eau_des_Sens_detail_1.jpg",
+                        "images\\perfume\\Eau_des_Sens\\Eau_des_Sens_detail_2.jpg",
+                        "images\\perfume\\Eau_des_Sens\\Eau_des_Sens_detail_3.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-des-sens-eau-de-toilette-100ml-sens100v1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -707,13 +707,13 @@
                 "price": 145,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-moheli-eau-de-toilette-100ml-mohe100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-moheli-eau-de-toilette-100ml-mohe100-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\Eau_Mohéli\\Eau_Mohéli_default.jpg",
+                        "hover": "images\\perfume\\Eau_Mohéli\\Eau_Mohéli_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-moheli-eau-de-toilette-100ml-mohe100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-moheli-eau-de-toilette-100ml-mohe100-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-moheli-eau-de-toilette-100ml-mohe100-3.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\Eau_Mohéli\\Eau_Mohéli_detail_1.jpg",
+                        "images\\perfume\\Eau_Mohéli\\Eau_Mohéli_detail_2.jpg",
+                        "images\\perfume\\Eau_Mohéli\\Eau_Mohéli_detail_3.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-moheli-eau-de-toilette-100ml-mohe100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -746,13 +746,13 @@
                 "price": 170,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-rose-eau-de-parfum-75ml-rosep75c-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-rose-eau-de-parfum-75ml-rosep75c-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\Eau_Rose\\Eau_Rose_default.jpg",
+                        "hover": "images\\perfume\\Eau_Rose\\Eau_Rose_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-rose-eau-de-parfum-75ml-rosep75c-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-rose-eau-de-parfum-75ml-rosep75c-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-rose-eau-de-parfum-75ml-rosep75c-3.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\Eau_Rose\\Eau_Rose_detail_1.jpg",
+                        "images\\perfume\\Eau_Rose\\Eau_Rose_detail_2.jpg",
+                        "images\\perfume\\Eau_Rose\\Eau_Rose_detail_3.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-rose-eau-de-parfum-75ml-rosep75c-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -784,13 +784,13 @@
                 "price": 105,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-rose-eau-de-toilette-50ml-rose50v1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-rose-eau-de-toilette-50ml-rose50v1-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\Eau_Rose\\Eau_Rose_default.jpg",
+                        "hover": "images\\perfume\\Eau_Rose\\Eau_Rose_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-rose-eau-de-toilette-50ml-rose50v1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-rose-eau-de-toilette-50ml-rose50v1-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-rose-eau-de-toilette-50ml-rose50v1-3.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\Eau_Rose\\Eau_Rose_detail_1.jpg",
+                        "images\\perfume\\Eau_Rose\\Eau_Rose_detail_2.jpg",
+                        "images\\perfume\\Eau_Rose\\Eau_Rose_detail_3.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-rose-eau-de-toilette-50ml-rose50v1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -801,13 +801,13 @@
                 "price": 145,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-rose-eau-de-toilette-100ml-eaurose100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-rose-eau-de-toilette-100ml-eaurose100-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\Eau_Rose\\Eau_Rose_default.jpg",
+                        "hover": "images\\perfume\\Eau_Rose\\Eau_Rose_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-rose-eau-de-toilette-100ml-eaurose100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-rose-eau-de-toilette-100ml-eaurose100-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-rose-eau-de-toilette-100ml-eaurose100-3.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\Eau_Rose\\Eau_Rose_detail_1.jpg",
+                        "images\\perfume\\Eau_Rose\\Eau_Rose_detail_2.jpg",
+                        "images\\perfume\\Eau_Rose\\Eau_Rose_detail_3.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-rose-eau-de-toilette-100ml-eaurose100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -838,12 +838,12 @@
                 "price": 60,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-rose-refillable-solid-perfume-soliderose-1_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-rose-refillable-solid-perfume-soliderose-2_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\Eau_Rose\\Eau_Rose_default.jpg",
+                        "hover": "images\\perfume\\Eau_Rose\\Eau_Rose_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-rose-refillable-solid-perfume-soliderose-1_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-rose-refillable-solid-perfume-soliderose-2_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\Eau_Rose\\Eau_Rose_detail_1.jpg",
+                        "images\\perfume\\Eau_Rose\\Eau_Rose_detail_2.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-rose-refillable-solid-perfume-soliderose-1_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -875,13 +875,13 @@
                 "price": 170,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-fleur-de-peau-eau-de-parfum-75ml-fleurp75c-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-fleur-de-peau-eau-de-parfum-75ml-fleurp75c-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\Fleur_de_Peau\\Fleur_de_Peau_default.jpg",
+                        "hover": "images\\perfume\\Fleur_de_Peau\\Fleur_de_Peau_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-fleur-de-peau-eau-de-parfum-75ml-fleurp75c-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-fleur-de-peau-eau-de-parfum-75ml-fleurp75c-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-fleur-de-peau-eau-de-parfum-75ml-fleurp75c-3.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\Fleur_de_Peau\\Fleur_de_Peau_detail_1.jpg",
+                        "images\\perfume\\Fleur_de_Peau\\Fleur_de_Peau_detail_2.jpg",
+                        "images\\perfume\\Fleur_de_Peau\\Fleur_de_Peau_detail_3.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-fleur-de-peau-eau-de-parfum-75ml-fleurp75c-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -913,13 +913,13 @@
                 "price": 145,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-geranium-odorata-eau-de-toilette-100ml-geranium100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-geranium-odorata-eau-de-toilette-100ml-geranium100-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\Geranium_Odorata\\Geranium_Odorata_default.jpg",
+                        "hover": "images\\perfume\\Geranium_Odorata\\Geranium_Odorata_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-geranium-odorata-eau-de-toilette-100ml-geranium100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-geranium-odorata-eau-de-toilette-100ml-geranium100-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-geranium-odorata-eau-de-toilette-100ml-geranium100-3.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\Geranium_Odorata\\Geranium_Odorata_detail_1.jpg",
+                        "images\\perfume\\Geranium_Odorata\\Geranium_Odorata_detail_2.jpg",
+                        "images\\perfume\\Geranium_Odorata\\Geranium_Odorata_detail_3.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-geranium-odorata-eau-de-toilette-100ml-geranium100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -951,12 +951,12 @@
                 "price": 170,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-ombre-dans-l-eau-de-parfum-75ml-ombrep75-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-ombre-dans-l-eau-de-parfum-75ml-ombrep75-3.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\L'Ombre_dans_l'Eau\\L'Ombre_dans_l'Eau_default.jpg",
+                        "hover": "images\\perfume\\L'Ombre_dans_l'Eau\\L'Ombre_dans_l'Eau_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-ombre-dans-l-eau-de-parfum-75ml-ombrep75-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-ombre-dans-l-eau-de-parfum-75ml-ombrep75-3.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\L'Ombre_dans_l'Eau\\L'Ombre_dans_l'Eau_detail_1.jpg",
+                        "images\\perfume\\L'Ombre_dans_l'Eau\\L'Ombre_dans_l'Eau_detail_2.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-ombre-dans-l-eau-de-parfum-75ml-ombrep75-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -988,12 +988,12 @@
                 "price": 105,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-ombre-dans-l-eau-eau-de-toilette-50ml-ombre50-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-ombre-dans-l-eau-eau-de-toilette-50ml-ombre50-3.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\L'Ombre_dans_l'Eau\\L'Ombre_dans_l'Eau_default.jpg",
+                        "hover": "images\\perfume\\L'Ombre_dans_l'Eau\\L'Ombre_dans_l'Eau_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-ombre-dans-l-eau-eau-de-toilette-50ml-ombre50-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-ombre-dans-l-eau-eau-de-toilette-50ml-ombre50-3.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\L'Ombre_dans_l'Eau\\L'Ombre_dans_l'Eau_detail_1.jpg",
+                        "images\\perfume\\L'Ombre_dans_l'Eau\\L'Ombre_dans_l'Eau_detail_2.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-ombre-dans-l-eau-eau-de-toilette-50ml-ombre50-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -1004,12 +1004,12 @@
                 "price": 145,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-ombre-dans-l-eau-eau-de-toilette-100ml-ombre100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-ombre-dans-l-eau-eau-de-toilette-100ml-ombre100-3.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\L'Ombre_dans_l'Eau\\L'Ombre_dans_l'Eau_default.jpg",
+                        "hover": "images\\perfume\\L'Ombre_dans_l'Eau\\L'Ombre_dans_l'Eau_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-ombre-dans-l-eau-eau-de-toilette-100ml-ombre100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-ombre-dans-l-eau-eau-de-toilette-100ml-ombre100-3.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\L'Ombre_dans_l'Eau\\L'Ombre_dans_l'Eau_detail_1.jpg",
+                        "images\\perfume\\L'Ombre_dans_l'Eau\\L'Ombre_dans_l'Eau_detail_2.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-ombre-dans-l-eau-eau-de-toilette-100ml-ombre100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -1041,12 +1041,12 @@
                 "price": 60,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-ombre-dans-l-eau-refillable-solid-perfume-solideombre-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-ombre-dans-l-eau-refillable-solid-perfume-solideombre-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\L'Ombre_dans_l'Eau\\L'Ombre_dans_l'Eau_default.jpg",
+                        "hover": "images\\perfume\\L'Ombre_dans_l'Eau\\L'Ombre_dans_l'Eau_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-ombre-dans-l-eau-refillable-solid-perfume-solideombre-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-ombre-dans-l-eau-refillable-solid-perfume-solideombre-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\L'Ombre_dans_l'Eau\\L'Ombre_dans_l'Eau_detail_1.jpg",
+                        "images\\perfume\\L'Ombre_dans_l'Eau\\L'Ombre_dans_l'Eau_detail_2.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-ombre-dans-l-eau-refillable-solid-perfume-solideombre-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -1078,13 +1078,13 @@
                 "price": 145,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-ofresia-eau-de-toilette-100ml-ofresia100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-ofresia-eau-de-toilette-100ml-ofresia100-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\Ofrésia\\Ofrésia_default.jpg",
+                        "hover": "images\\perfume\\Ofrésia\\Ofrésia_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-ofresia-eau-de-toilette-100ml-ofresia100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-ofresia-eau-de-toilette-100ml-ofresia100-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-ofresia-eau-de-toilette-100ml-ofresia100-3.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\Ofrésia\\Ofrésia_detail_1.jpg",
+                        "images\\perfume\\Ofrésia\\Ofrésia_detail_2.jpg",
+                        "images\\perfume\\Ofrésia\\Ofrésia_detail_3.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-ofresia-eau-de-toilette-100ml-ofresia100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -1116,13 +1116,13 @@
                 "price": 105,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-de-toilette-olene-50ml-olene50-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-de-toilette-olene-50ml-olene50-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\Olène\\Olène_default.jpg",
+                        "hover": "images\\perfume\\Olène\\Olène_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-de-toilette-olene-50ml-olene50-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-de-toilette-olene-50ml-olene50-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-de-toilette-olene-50ml-olene50-3.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\Olène\\Olène_detail_1.jpg",
+                        "images\\perfume\\Olène\\Olène_detail_2.jpg",
+                        "images\\perfume\\Olène\\Olène_detail_3.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-de-toilette-olene-50ml-olene50-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -1133,13 +1133,13 @@
                 "price": 145,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-olene-eau-de-toilette-100ml-olene100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-olene-eau-de-toilette-100ml-olene100-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\Olène\\Olène_default.jpg",
+                        "hover": "images\\perfume\\Olène\\Olène_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-olene-eau-de-toilette-100ml-olene100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-olene-eau-de-toilette-100ml-olene100-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-olene-eau-de-toilette-100ml-olene100-3.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\Olène\\Olène_detail_1.jpg",
+                        "images\\perfume\\Olène\\Olène_detail_2.jpg",
+                        "images\\perfume\\Olène\\Olène_detail_3.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-olene-eau-de-toilette-100ml-olene100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -1170,15 +1170,15 @@
                 "price": 275,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/c/o/corail-oscuro_100ml_corail100_rvb_hd_fond-gris_spec-ecom_1_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/l/e/les_essences_2024_visuel_mono_corail_oscuro_rvb_2025x2700px_diptyque_visual_only.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\Corail_Oscuro\\Corail_Oscuro_default.jpg",
+                        "hover": "images\\perfume\\Corail_Oscuro\\Corail_Oscuro_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/c/o/corail-oscuro_100ml_corail100_rvb_hd_fond-gris_spec-ecom_1_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/l/e/les_essences_2024_visuel_mono_corail_oscuro_rvb_2025x2700px_diptyque_visual_only.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/c/o/corail-oscuro_100ml_corail100_rvb_hd_fond-gris_spec-ecom_3_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/c/o/corail-oscuro_100ml_corail100_rvb_hd_spec-ecom_4_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/c/o/corail-oscuro_100ml_corail100_rvb_hd_fond-gris_spec-ecom_2_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\Corail_Oscuro\\Corail_Oscuro_detail_1.jpg",
+                        "images\\perfume\\Corail_Oscuro\\Corail_Oscuro_detail_2.jpg",
+                        "images\\perfume\\Corail_Oscuro\\Corail_Oscuro_detail_3.jpg",
+                        "images\\perfume\\Corail_Oscuro\\Corail_Oscuro_detail_4.jpg",
+                        "images\\perfume\\Corail_Oscuro\\Corail_Oscuro_detail_5.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/c/o/corail-oscuro_100ml_corail100_rvb_hd_fond-gris_spec-ecom_1_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -1209,15 +1209,15 @@
                 "price": 275,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/r/o/rose-roche_100ml_roseroc100_rvb_hd_fond-gris_spec-ecom_1_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/l/e/les_essences_2024_visuel_mono_rose_roche_rvb_2025x2700px_diptyque_visual_only.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\Rose_Roche\\Rose_Roche_default.jpg",
+                        "hover": "images\\perfume\\Rose_Roche\\Rose_Roche_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/r/o/rose-roche_100ml_roseroc100_rvb_hd_fond-gris_spec-ecom_1_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/l/e/les_essences_2024_visuel_mono_rose_roche_rvb_2025x2700px_diptyque_visual_only.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/r/o/rose-roche_100ml_roseroc100_rvb_hd_fond-gris_spec-ecom_3_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/r/o/rose-roche_100ml_roseroc100_rvb_hd_spec-ecom_4_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/r/o/rose-roche_100ml_roseroc100_rvb_hd_fond-gris_spec-ecom_2_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\Rose_Roche\\Rose_Roche_detail_1.jpg",
+                        "images\\perfume\\Rose_Roche\\Rose_Roche_detail_2.jpg",
+                        "images\\perfume\\Rose_Roche\\Rose_Roche_detail_3.jpg",
+                        "images\\perfume\\Rose_Roche\\Rose_Roche_detail_4.jpg",
+                        "images\\perfume\\Rose_Roche\\Rose_Roche_detail_5.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/r/o/rose-roche_100ml_roseroc100_rvb_hd_fond-gris_spec-ecom_1_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -1249,13 +1249,13 @@
                 "price": 145,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-neroli-eau-de-toilette-100ml-cnero100-1_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-neroli-eau-de-toilette-100ml-cnero100-2_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\L'Eau_de_Néroli\\L'Eau_de_Néroli_default.jpg",
+                        "hover": "images\\perfume\\L'Eau_de_Néroli\\L'Eau_de_Néroli_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-neroli-eau-de-toilette-100ml-cnero100-1_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-neroli-eau-de-toilette-100ml-cnero100-2_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-neroli-eau-de-toilette-100ml-cnero100-3_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\L'Eau_de_Néroli\\L'Eau_de_Néroli_detail_1.jpg",
+                        "images\\perfume\\L'Eau_de_Néroli\\L'Eau_de_Néroli_detail_2.jpg",
+                        "images\\perfume\\L'Eau_de_Néroli\\L'Eau_de_Néroli_detail_3.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-neroli-eau-de-toilette-100ml-cnero100-1_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -1287,13 +1287,13 @@
                 "price": 145,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-hesperides-eau-de-toilette-100ml-chesp100-1_2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-hesperides-eau-de-toilette-100ml-chesp100-2_2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\L'Eau_des_Hespérides\\L'Eau_des_Hespérides_default.jpg",
+                        "hover": "images\\perfume\\L'Eau_des_Hespérides\\L'Eau_des_Hespérides_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-hesperides-eau-de-toilette-100ml-chesp100-1_2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-hesperides-eau-de-toilette-100ml-chesp100-2_2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-hesperides-eau-de-toilette-100ml-chesp100-3_2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\L'Eau_des_Hespérides\\L'Eau_des_Hespérides_detail_1.jpg",
+                        "images\\perfume\\L'Eau_des_Hespérides\\L'Eau_des_Hespérides_detail_2.jpg",
+                        "images\\perfume\\L'Eau_des_Hespérides\\L'Eau_des_Hespérides_detail_3.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-hesperides-eau-de-toilette-100ml-chesp100-1_2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -1325,13 +1325,13 @@
                 "price": 105,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-oyedo-eau-de-toilette-50ml-oyedo50-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-oyedo-eau-de-toilette-50ml-oyedo50-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\Oyédo\\Oyédo_default.jpg",
+                        "hover": "images\\perfume\\Oyédo\\Oyédo_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-oyedo-eau-de-toilette-50ml-oyedo50-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-oyedo-eau-de-toilette-50ml-oyedo50-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-oyedo-eau-de-toilette-50ml-oyedo50-3.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\Oyédo\\Oyédo_detail_1.jpg",
+                        "images\\perfume\\Oyédo\\Oyédo_detail_2.jpg",
+                        "images\\perfume\\Oyédo\\Oyédo_detail_3.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-oyedo-eau-de-toilette-50ml-oyedo50-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -1342,13 +1342,13 @@
                 "price": 145,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-oyedo-eau-de-toilette-100ml-oyedo100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-oyedo-eau-de-toilette-100ml-oyedo100-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\Oyédo\\Oyédo_default.jpg",
+                        "hover": "images\\perfume\\Oyédo\\Oyédo_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-oyedo-eau-de-toilette-100ml-oyedo100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-oyedo-eau-de-toilette-100ml-oyedo100-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-oyedo-eau-de-toilette-100ml-oyedo100-3.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\Oyédo\\Oyédo_detail_1.jpg",
+                        "images\\perfume\\Oyédo\\Oyédo_detail_2.jpg",
+                        "images\\perfume\\Oyédo\\Oyédo_detail_3.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-oyedo-eau-de-toilette-100ml-oyedo100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -1379,13 +1379,13 @@
                 "price": 190,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-34-boulevard-saint-germain-eau-de-parfum-75ml-34bedp75-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-34-boulevard-saint-germain-eau-de-parfum-75ml-34bedp75-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\34_Boulevard_Saint_Germain\\34_Boulevard_Saint_Germain_default.jpg",
+                        "hover": "images\\perfume\\34_Boulevard_Saint_Germain\\34_Boulevard_Saint_Germain_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-34-boulevard-saint-germain-eau-de-parfum-75ml-34bedp75-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-34-boulevard-saint-germain-eau-de-parfum-75ml-34bedp75-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/e/destination-paris_visuel_edp-34_2024_rvb_2025x2700_hd_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\34_Boulevard_Saint_Germain\\34_Boulevard_Saint_Germain_detail_1.jpg",
+                        "images\\perfume\\34_Boulevard_Saint_Germain\\34_Boulevard_Saint_Germain_detail_2.jpg",
+                        "images\\perfume\\34_Boulevard_Saint_Germain\\34_Boulevard_Saint_Germain_detail_3.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-34-boulevard-saint-germain-eau-de-parfum-75ml-34bedp75-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -1417,12 +1417,12 @@
                 "price": 155,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-34-boulevard-saint-germain-eau-de-toilette-100ml-34bedt100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-34-boulevard-saint-germain-eau-de-toilette-100ml-34bedt100-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\34_Boulevard_Saint_Germain\\34_Boulevard_Saint_Germain_default.jpg",
+                        "hover": "images\\perfume\\34_Boulevard_Saint_Germain\\34_Boulevard_Saint_Germain_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-34-boulevard-saint-germain-eau-de-toilette-100ml-34bedt100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-34-boulevard-saint-germain-eau-de-toilette-100ml-34bedt100-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\34_Boulevard_Saint_Germain\\34_Boulevard_Saint_Germain_detail_1.jpg",
+                        "images\\perfume\\34_Boulevard_Saint_Germain\\34_Boulevard_Saint_Germain_detail_2.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-34-boulevard-saint-germain-eau-de-toilette-100ml-34bedt100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -1454,12 +1454,12 @@
                 "price": 62,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-34-boulevard-saint-germain-refillable-solid-perfume-solide34-1_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-34-boulevard-saint-germain-refillable-solid-perfume-solide34-2_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\34_Boulevard_Saint_Germain\\34_Boulevard_Saint_Germain_default.jpg",
+                        "hover": "images\\perfume\\34_Boulevard_Saint_Germain\\34_Boulevard_Saint_Germain_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-34-boulevard-saint-germain-refillable-solid-perfume-solide34-1_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-34-boulevard-saint-germain-refillable-solid-perfume-solide34-2_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\34_Boulevard_Saint_Germain\\34_Boulevard_Saint_Germain_detail_1.jpg",
+                        "images\\perfume\\34_Boulevard_Saint_Germain\\34_Boulevard_Saint_Germain_detail_2.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-34-boulevard-saint-germain-refillable-solid-perfume-solide34-1_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -1490,15 +1490,15 @@
                 "price": 275,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/b/o/bois-cors__100ml_boiscor100_rvb_hd_fond-gris_spec-ecom_1_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/l/e/les_essences_2024_visuel_mono_bois_cors__rvb_2025x2700px_diptyque_visual_only.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\Bois_Corsé\\Bois_Corsé_default.jpg",
+                        "hover": "images\\perfume\\Bois_Corsé\\Bois_Corsé_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/b/o/bois-cors__100ml_boiscor100_rvb_hd_fond-gris_spec-ecom_1_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/l/e/les_essences_2024_visuel_mono_bois_cors__rvb_2025x2700px_diptyque_visual_only.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/b/o/bois-cors__100ml_boiscor100_rvb_hd_fond-gris_spec-ecom_3_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/b/o/bois-cors__100ml_boiscor100_rvb_hd_spec-ecom_4_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/b/o/bois-cors__100ml_boiscor100_rvb_hd_fond-gris_spec-ecom_2_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\Bois_Corsé\\Bois_Corsé_detail_1.jpg",
+                        "images\\perfume\\Bois_Corsé\\Bois_Corsé_detail_2.jpg",
+                        "images\\perfume\\Bois_Corsé\\Bois_Corsé_detail_3.jpg",
+                        "images\\perfume\\Bois_Corsé\\Bois_Corsé_detail_4.jpg",
+                        "images\\perfume\\Bois_Corsé\\Bois_Corsé_detail_5.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/b/o/bois-cors__100ml_boiscor100_rvb_hd_fond-gris_spec-ecom_1_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -1530,13 +1530,13 @@
                 "price": 145,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-de-lierre-eau-de-toilette-100ml-lierre100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-de-lierre-eau-de-toilette-100ml-lierre100-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\Eau_de_Lierre\\Eau_de_Lierre_default.jpg",
+                        "hover": "images\\perfume\\Eau_de_Lierre\\Eau_de_Lierre_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-de-lierre-eau-de-toilette-100ml-lierre100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-de-lierre-eau-de-toilette-100ml-lierre100-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-de-lierre-eau-de-toilette-100ml-lierre100-3.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\Eau_de_Lierre\\Eau_de_Lierre_detail_1.jpg",
+                        "images\\perfume\\Eau_de_Lierre\\Eau_de_Lierre_detail_2.jpg",
+                        "images\\perfume\\Eau_de_Lierre\\Eau_de_Lierre_detail_3.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-de-lierre-eau-de-toilette-100ml-lierre100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -1568,13 +1568,13 @@
                 "price": 170,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-de-minthe-eau-de-parfum-75ml-mintp75c-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-de-minthe-eau-de-parfum-75ml-mintp75c-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\Eau_de_Minthé\\Eau_de_Minthé_default.jpg",
+                        "hover": "images\\perfume\\Eau_de_Minthé\\Eau_de_Minthé_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-de-minthe-eau-de-parfum-75ml-mintp75c-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-de-minthe-eau-de-parfum-75ml-mintp75c-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-de-minthe-eau-de-parfum-75ml-mintp75c-3.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\Eau_de_Minthé\\Eau_de_Minthé_detail_1.jpg",
+                        "images\\perfume\\Eau_de_Minthé\\Eau_de_Minthé_detail_2.jpg",
+                        "images\\perfume\\Eau_de_Minthé\\Eau_de_Minthé_detail_3.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-de-minthe-eau-de-parfum-75ml-mintp75c-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -1606,14 +1606,14 @@
                 "price": 105,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-eau-papier-eau-de-toilette-50ml-papier50-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-eau-papier-eau-de-toilette-50ml-papier50-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\L'Eau_Papier\\L'Eau_Papier_default.jpg",
+                        "hover": "images\\perfume\\L'Eau_Papier\\L'Eau_Papier_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-eau-papier-eau-de-toilette-50ml-papier50-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-eau-papier-eau-de-toilette-50ml-papier50-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-eau-papier-eau-de-toilette-50ml-papier50-3.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/e/a/eau-papier-ingre__dients-2025x2700.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\L'Eau_Papier\\L'Eau_Papier_detail_1.jpg",
+                        "images\\perfume\\L'Eau_Papier\\L'Eau_Papier_detail_2.jpg",
+                        "images\\perfume\\L'Eau_Papier\\L'Eau_Papier_detail_3.jpg",
+                        "images\\perfume\\L'Eau_Papier\\L'Eau_Papier_detail_4.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-eau-papier-eau-de-toilette-50ml-papier50-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -1624,14 +1624,14 @@
                 "price": 145,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-eau-papier-eau-de-toilette-100ml-papier100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-eau-papier-eau-de-toilette-100ml-papier100-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\L'Eau_Papier\\L'Eau_Papier_default.jpg",
+                        "hover": "images\\perfume\\L'Eau_Papier\\L'Eau_Papier_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-eau-papier-eau-de-toilette-100ml-papier100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-eau-papier-eau-de-toilette-100ml-papier100-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-eau-papier-eau-de-toilette-100ml-papier100-3.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/e/a/eau-papier-ingre__dients-2025x2700_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\L'Eau_Papier\\L'Eau_Papier_detail_1.jpg",
+                        "images\\perfume\\L'Eau_Papier\\L'Eau_Papier_detail_2.jpg",
+                        "images\\perfume\\L'Eau_Papier\\L'Eau_Papier_detail_3.jpg",
+                        "images\\perfume\\L'Eau_Papier\\L'Eau_Papier_detail_4.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-eau-papier-eau-de-toilette-100ml-papier100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -1663,12 +1663,12 @@
                 "price": 60,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/l/_/l_eau-papier-parfum-solide_2024_solidepapier_rvb_hd_fond-gris_spec-ecom_1_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/l/_/l_eau-papier-parfum-solide_2024_solidepapier_rvb_hd_fond-gris_spec-ecom_2_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\L'Eau_Papier\\L'Eau_Papier_default.jpg",
+                        "hover": "images\\perfume\\L'Eau_Papier\\L'Eau_Papier_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/l/_/l_eau-papier-parfum-solide_2024_solidepapier_rvb_hd_fond-gris_spec-ecom_1_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/l/_/l_eau-papier-parfum-solide_2024_solidepapier_rvb_hd_fond-gris_spec-ecom_2_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\L'Eau_Papier\\L'Eau_Papier_detail_1.jpg",
+                        "images\\perfume\\L'Eau_Papier\\L'Eau_Papier_detail_2.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/l/_/l_eau-papier-parfum-solide_2024_solidepapier_rvb_hd_fond-gris_spec-ecom_1_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -1700,13 +1700,13 @@
                 "price": 145,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-eau-trois-eau-de-toilette-100ml-trois100-1_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-eau-trois-eau-de-toilette-100ml-trois100-2_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\L'Eau_Trois\\L'Eau_Trois_default.jpg",
+                        "hover": "images\\perfume\\L'Eau_Trois\\L'Eau_Trois_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-eau-trois-eau-de-toilette-100ml-trois100-1_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-eau-trois-eau-de-toilette-100ml-trois100-2_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-eau-trois-eau-de-toilette-100ml-trois100-3_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\L'Eau_Trois\\L'Eau_Trois_detail_1.jpg",
+                        "images\\perfume\\L'Eau_Trois\\L'Eau_Trois_detail_2.jpg",
+                        "images\\perfume\\L'Eau_Trois\\L'Eau_Trois_detail_3.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-l-eau-trois-eau-de-toilette-100ml-trois100-1_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -1738,13 +1738,13 @@
                 "price": 88,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/e/d/edp-orpheon_orpheon-2025_30ml_r25orph30el_rvb_hd_fond-gris_spec-ecom_3055x2292px_4-3_1_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/e/d/edp-orpheon_orpheon-2025_30ml_r25orph30el_rvb_hd_fond-gris_spec-ecom_2_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\Orphéon\\Orphéon_default.jpg",
+                        "hover": "images\\perfume\\Orphéon\\Orphéon_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/e/d/edp-orpheon_orpheon-2025_30ml_r25orph30el_rvb_hd_fond-gris_spec-ecom_3055x2292px_4-3_1_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/e/d/edp-orpheon_orpheon-2025_30ml_r25orph30el_rvb_hd_fond-gris_spec-ecom_2_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/o/r/orpheon_hero_2025_visuel_prioritaire_produit_edp_75ml_ingredients_rvb_2025x2700px_diptyque_1_.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\Orphéon\\Orphéon_detail_1.jpg",
+                        "images\\perfume\\Orphéon\\Orphéon_detail_2.jpg",
+                        "images\\perfume\\Orphéon\\Orphéon_detail_3.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/e/d/edp-orpheon_orpheon-2025_30ml_r25orph30el_rvb_hd_fond-gris_spec-ecom_3055x2292px_4-3_1_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -1755,14 +1755,14 @@
                 "price": 170,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/e/d/edp-orpheon_orpheon-2025_75ml_r25orph75el_rvb_hd_fond-gris_spec-ecom_3055x2292px_4-3_1_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/e/d/edp-orpheon_orpheon-2025_75ml_r25orph75el_rvb_hd_fond-gris_spec-ecom_2_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\Orphéon\\Orphéon_default.jpg",
+                        "hover": "images\\perfume\\Orphéon\\Orphéon_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/e/d/edp-orpheon_orpheon-2025_75ml_r25orph75el_rvb_hd_fond-gris_spec-ecom_3055x2292px_4-3_1_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/e/d/edp-orpheon_orpheon-2025_75ml_r25orph75el_rvb_hd_fond-gris_spec-ecom_2_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/e/d/edp-orpheon_orpheon-2025_75ml_r25orph75el_rvb_hd_fond-gris_spec-ecom_4_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/o/r/orpheon-hero_2025_visuel-prioritaire_produit_edp_edl_75ml_ingredients_rvb_2025x2700px_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\Orphéon\\Orphéon_detail_1.jpg",
+                        "images\\perfume\\Orphéon\\Orphéon_detail_2.jpg",
+                        "images\\perfume\\Orphéon\\Orphéon_detail_3.jpg",
+                        "images\\perfume\\Orphéon\\Orphéon_detail_4.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/e/d/edp-orpheon_orpheon-2025_75ml_r25orph75el_rvb_hd_fond-gris_spec-ecom_3055x2292px_4-3_1_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -1773,14 +1773,14 @@
                 "price": 255,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/c/o/coffret-edp-orpheon_orpheon-2025_75ml_r25orph75elp_rvb_hd_fond-gris_spec-ecom_3055x2292px_4-3_1_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/c/o/coffret-edp-orpheon_orpheon-2025_75ml_r25orph75elp_rvb_fond-gris_spec-ecom_3055x2292px_4-3_2_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\Orphéon\\Orphéon_default.jpg",
+                        "hover": "images\\perfume\\Orphéon\\Orphéon_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/c/o/coffret-edp-orpheon_orpheon-2025_75ml_r25orph75elp_rvb_hd_fond-gris_spec-ecom_3055x2292px_4-3_1_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/c/o/coffret-edp-orpheon_orpheon-2025_75ml_r25orph75elp_rvb_fond-gris_spec-ecom_3055x2292px_4-3_2_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/c/o/coffret-edp-orpheon_orpheon-2025_75ml_r25orph75elp_rvb_hd_fond-gris_spec-ecom_3_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/p/r/premium-set-orphe_on-repush---2025x2700.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\Orphéon\\Orphéon_detail_1.jpg",
+                        "images\\perfume\\Orphéon\\Orphéon_detail_2.jpg",
+                        "images\\perfume\\Orphéon\\Orphéon_detail_3.jpg",
+                        "images\\perfume\\Orphéon\\Orphéon_detail_4.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/c/o/coffret-edp-orpheon_orpheon-2025_75ml_r25orph75elp_rvb_hd_fond-gris_spec-ecom_3055x2292px_4-3_1_diptyque.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -1812,12 +1812,12 @@
                 "price": 60,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-orpheon-refillable-solid-perfume-solideorph-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-orpheon-refillable-solid-perfume-solideorph-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\Orphéon\\Orphéon_default.jpg",
+                        "hover": "images\\perfume\\Orphéon\\Orphéon_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-orpheon-refillable-solid-perfume-solideorph-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-orpheon-refillable-solid-perfume-solideorph-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\Orphéon\\Orphéon_detail_1.jpg",
+                        "images\\perfume\\Orphéon\\Orphéon_detail_2.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-orpheon-refillable-solid-perfume-solideorph-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -1849,13 +1849,13 @@
                 "price": 170,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-philosykos-eau-de-parfum-75ml-philop75-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-philosykos-eau-de-parfum-75ml-philop75-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\Philosykos\\Philosykos_default.jpg",
+                        "hover": "images\\perfume\\Philosykos\\Philosykos_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-philosykos-eau-de-parfum-75ml-philop75-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-philosykos-eau-de-parfum-75ml-philop75-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-philosykos-eau-de-parfum-75ml-philop75-3.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\Philosykos\\Philosykos_detail_1.jpg",
+                        "images\\perfume\\Philosykos\\Philosykos_detail_2.jpg",
+                        "images\\perfume\\Philosykos\\Philosykos_detail_3.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-philosykos-eau-de-parfum-75ml-philop75-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -1887,13 +1887,13 @@
                 "price": 105,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-philosykos-eau-de-toilette-50ml-philo50-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-philosykos-eau-de-toilette-50ml-philo50-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\Philosykos\\Philosykos_default.jpg",
+                        "hover": "images\\perfume\\Philosykos\\Philosykos_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-philosykos-eau-de-toilette-50ml-philo50-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-philosykos-eau-de-toilette-50ml-philo50-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-philosykos-eau-de-toilette-50ml-philo50-3.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\Philosykos\\Philosykos_detail_1.jpg",
+                        "images\\perfume\\Philosykos\\Philosykos_detail_2.jpg",
+                        "images\\perfume\\Philosykos\\Philosykos_detail_3.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-philosykos-eau-de-toilette-50ml-philo50-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -1904,14 +1904,14 @@
                 "price": 145,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-philosykos-eau-de-toilette-100ml-philo100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-philosykos-eau-de-toilette-100ml-philo100-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\Philosykos\\Philosykos_default.jpg",
+                        "hover": "images\\perfume\\Philosykos\\Philosykos_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-philosykos-eau-de-toilette-100ml-philo100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-philosykos-eau-de-toilette-100ml-philo100-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-philosykos-eau-de-toilette-100ml-philo100-3.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque_cadrage_grece_2025x2700px2_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\Philosykos\\Philosykos_detail_1.jpg",
+                        "images\\perfume\\Philosykos\\Philosykos_detail_2.jpg",
+                        "images\\perfume\\Philosykos\\Philosykos_detail_3.jpg",
+                        "images\\perfume\\Philosykos\\Philosykos_detail_4.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-philosykos-eau-de-toilette-100ml-philo100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -1943,12 +1943,12 @@
                 "price": 50,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-philosykos-refillable-solid-perfume-solidephilo-1_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-philosykos-refillable-solid-perfume-solidephilo-2_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\Philosykos\\Philosykos_default.jpg",
+                        "hover": "images\\perfume\\Philosykos\\Philosykos_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-philosykos-refillable-solid-perfume-solidephilo-1_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-philosykos-refillable-solid-perfume-solidephilo-2_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\Philosykos\\Philosykos_detail_1.jpg",
+                        "images\\perfume\\Philosykos\\Philosykos_detail_2.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-philosykos-refillable-solid-perfume-solidephilo-1_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -1980,13 +1980,13 @@
                 "price": 170,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tam-dao-eau-de-parfum-75ml-tamdaop75-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tam-dao-eau-de-parfum-75ml-tamdaop75-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\Tam_Dao\\Tam_Dao_default.jpg",
+                        "hover": "images\\perfume\\Tam_Dao\\Tam_Dao_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tam-dao-eau-de-parfum-75ml-tamdaop75-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tam-dao-eau-de-parfum-75ml-tamdaop75-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tam-dao-eau-de-parfum-75ml-tamdaop75-3.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\Tam_Dao\\Tam_Dao_detail_1.jpg",
+                        "images\\perfume\\Tam_Dao\\Tam_Dao_detail_2.jpg",
+                        "images\\perfume\\Tam_Dao\\Tam_Dao_detail_3.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tam-dao-eau-de-parfum-75ml-tamdaop75-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -2018,13 +2018,13 @@
                 "price": 105,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tam-dao-eau-de-toilette-50ml-tamdao50-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tam-dao-eau-de-toilette-50ml-tamdao50-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\Tam_Dao\\Tam_Dao_default.jpg",
+                        "hover": "images\\perfume\\Tam_Dao\\Tam_Dao_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tam-dao-eau-de-toilette-50ml-tamdao50-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tam-dao-eau-de-toilette-50ml-tamdao50-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tam-dao-eau-de-toilette-50ml-tamdao50-3.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\Tam_Dao\\Tam_Dao_detail_1.jpg",
+                        "images\\perfume\\Tam_Dao\\Tam_Dao_detail_2.jpg",
+                        "images\\perfume\\Tam_Dao\\Tam_Dao_detail_3.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tam-dao-eau-de-toilette-50ml-tamdao50-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -2035,13 +2035,13 @@
                 "price": 145,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tam-dao-eau-de-toilette-100ml-tamdao100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tam-dao-eau-de-toilette-100ml-tamdao100-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\Tam_Dao\\Tam_Dao_default.jpg",
+                        "hover": "images\\perfume\\Tam_Dao\\Tam_Dao_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tam-dao-eau-de-toilette-100ml-tamdao100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tam-dao-eau-de-toilette-100ml-tamdao100-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tam-dao-eau-de-toilette-100ml-tamdao100-3.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\Tam_Dao\\Tam_Dao_detail_1.jpg",
+                        "images\\perfume\\Tam_Dao\\Tam_Dao_detail_2.jpg",
+                        "images\\perfume\\Tam_Dao\\Tam_Dao_detail_3.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tam-dao-eau-de-toilette-100ml-tamdao100-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -2073,13 +2073,13 @@
                 "price": 170,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tempo-eau-de-parfum-75ml-tempop75c-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tempo-eau-de-parfum-75ml-tempop75c-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\Tempo\\Tempo_default.jpg",
+                        "hover": "images\\perfume\\Tempo\\Tempo_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tempo-eau-de-parfum-75ml-tempop75c-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tempo-eau-de-parfum-75ml-tempop75c-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tempo-eau-de-parfum-75ml-tempop75c-3.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\Tempo\\Tempo_detail_1.jpg",
+                        "images\\perfume\\Tempo\\Tempo_detail_2.jpg",
+                        "images\\perfume\\Tempo\\Tempo_detail_3.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-tempo-eau-de-parfum-75ml-tempop75c-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -2111,13 +2111,13 @@
                 "price": 170,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-vetyverio-eau-de-parfum-75ml-vetyp75-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-vetyverio-eau-de-parfum-75ml-vetyp75-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\Vetyverio\\Vetyverio_default.jpg",
+                        "hover": "images\\perfume\\Vetyverio\\Vetyverio_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-vetyverio-eau-de-parfum-75ml-vetyp75-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-vetyverio-eau-de-parfum-75ml-vetyp75-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-vetyverio-eau-de-parfum-75ml-vetyp75-3.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\Vetyverio\\Vetyverio_detail_1.jpg",
+                        "images\\perfume\\Vetyverio\\Vetyverio_detail_2.jpg",
+                        "images\\perfume\\Vetyverio\\Vetyverio_detail_3.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-vetyverio-eau-de-parfum-75ml-vetyp75-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -2149,13 +2149,13 @@
                 "price": 105,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-de-toilette-vetyverio-50ml-vetyverio50-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-de-toilette-vetyverio-50ml-vetyverio50-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\Vetyverio\\Vetyverio_default.jpg",
+                        "hover": "images\\perfume\\Vetyverio\\Vetyverio_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-de-toilette-vetyverio-50ml-vetyverio50-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-de-toilette-vetyverio-50ml-vetyverio50-2.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-de-toilette-vetyverio-50ml-vetyverio50-3.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\Vetyverio\\Vetyverio_detail_1.jpg",
+                        "images\\perfume\\Vetyverio\\Vetyverio_detail_2.jpg",
+                        "images\\perfume\\Vetyverio\\Vetyverio_detail_3.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-eau-de-toilette-vetyverio-50ml-vetyverio50-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
@@ -2166,13 +2166,13 @@
                 "price": 145,
                 "images": {
                     "thumbnail": {
-                        "default": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-vetyverio-eau-de-toilette-100ml-vetyverio100-1_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "hover": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-vetyverio-eau-de-toilette-100ml-vetyverio100-2_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "default": "images\\perfume\\Vetyverio\\Vetyverio_default.jpg",
+                        "hover": "images\\perfume\\Vetyverio\\Vetyverio_hover.jpg"
                     },
                     "detail": [
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-vetyverio-eau-de-toilette-100ml-vetyverio100-1_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-vetyverio-eau-de-toilette-100ml-vetyverio100-2_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90",
-                        "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-vetyverio-eau-de-toilette-100ml-vetyverio100-3_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=1024&quality=90"
+                        "images\\perfume\\Vetyverio\\Vetyverio_detail_1.jpg",
+                        "images\\perfume\\Vetyverio\\Vetyverio_detail_2.jpg",
+                        "images\\perfume\\Vetyverio\\Vetyverio_detail_3.jpg"
                     ]
                 },
                 "url": "https://www.diptyqueparis.com/media/catalog/product/d/i/diptyque-vetyverio-eau-de-toilette-100ml-vetyverio100-1_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=&format=webp&width=150&quality=90",
